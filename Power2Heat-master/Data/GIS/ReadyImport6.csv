@@ -1,0 +1,409 @@
+AllCities;State;DHCity;Production;Category;Waste
+Nykooping;Soodermanland;Karlskrona;0.842;city;0
+Helsingborg;Skaaane;Karlskrona;256.626731;city;0
+Boraaas;Vaastra Gootaland;Karlskrona;4.668;city;0
+Linkooping;oostergootland;Karlskrona;0.907;city;0
+Vaaxjoo;Kronoberg;Alingsaaas;127.25;city;0
+Uppsala;Uppsala;Alvesta;0;city;0
+Stockholm;Stockholm;Alvesta;0;city;0
+Gooteborg;Vaastra Gootaland;Alvesta;0;city;0
+Karlstad;Vaarmland;Aneby;0;city;0
+Malmoo;Skaaane;Arboga;130.379;city;0.079
+Karlskrona;Blekinge;Arvidsjaur;0;city;0
+Norrkooping;oostergootland;Arvika;131.09;city;4.902
+Gaavle;Gaavleborg;Bengtsfors;9.38;city;0
+Umeaaa;Vaasterbotten;Gaavle;3.871;city;0
+Vaasteraaas;Vaastmanland;Uppsala;2.098;city;0
+oostersund;Jaamtland;Gaavle;8.013;city;0
+Luleaaa;Norrbotten;Gaavle;4.246;city;0
+Haarnoosand;Vaasternorrland;Gaavle;3.898;city;0
+Kalmar;Kalmar;Ockelbo;36.695;city;0
+oorebro;Orebro;Uppsala;28.2766;city;26.9306
+Falun;Dalarna;Uppsala;6.998;city;0
+Halmstad;Halland;Uppsala;2.64;city;0
+Eskilstuna;Soodermanland;aalvkarleby;3.742;city;0
+Soodertaalje;Stockholm;Bollnaas;18.94;city;0
+Kiruna;Norrbotten;Bollnaas;124.256864;city;86.8362
+Gaallivare;Norrbotten;Bollnaas;22.05;city;0
+Joonkooping;Joonkooping;Borgholm;32.7772;city;0
+Sundsvall;Vaasternorrland;Borgholm;2.7118;city;0
+Stockholm;Stockholm;Borlaange;413.65615;city;258.115
+Nykvarn;Stockholm;Borlaange;2.466;town;0
+Falkooping;Vaastra Gootaland;Borlaange;3.58;town;0
+Sooderkooping;oostergootland;Boraaas;599.59683;town;193.957
+Valdemarsvik;oostergootland;Boraaas;24.26;town;0
+Lilla Edet;Vaastra Gootaland;Bromoolla;51.6988;town;29.8
+Ludvika;Dalarna;Braacke;0;town;0
+Hooganaas;Skaaane;Braacke;0;town;0
+Vansbro;Dalarna;Haassleholm;0.18;town;0
+Malung;Dalarna;Kristianstad;6.784;town;0
+Tidaholm;Vaastra Gootaland;Kristianstad;350.272874;town;0.641
+Skoovde;Vaastra Gootaland;Leksand;12.03333;town;0
+Karlskoga;Orebro;Leksand;44.931;town;0
+Degerfors;Orebro;Degerfors;39.881;town;0
+Fjugesta;Orebro;Degerfors;3.2823;town;0
+Vara;Vaastra Gootaland;Degerfors;3.0464;town;0
+Filipstad;Vaarmland;Degerfors;0.7064;town;0
+Kristinehamn;Vaarmland;Malmoo;8.454;town;0
+Nora;Orebro;Kalmar;0;town;0
+Laxaaa;Orebro;Boxholm;61.956;town;0
+Hagfors;Vaarmland;Bro;29.91117;town;0
+Askersund;Orebro;Baaalsta;44.509;town;8.72
+Ljungby;Kronoberg;Stockholm;16.126;town;0
+Skara;Vaastra Gootaland;oorebro;1112.52697;town;253.587
+Mora;Dalarna;Jaarfaalla;278.564;town;0
+Orsa;Dalarna;Stockholm;44.995;town;0
+Sveg;Jaamtland;Malmoo;1857.017;town;1232.5
+Lindesberg;Orebro;Mora;136.71546;town;61.498
+Kopparberg;Orebro;Moonsteraaas;0;town;0
+Haallefors;Orebro;Norrkooping;1001.8935;town;682.216
+Borlaange;Dalarna;Orsa;25.06098;town;0
+Lysekil;Vaastra Gootaland;Sollefteaaa;62.96432;town;0
+Trollhaattan;Vaastra Gootaland;Staffanstorp;29.997;town;0
+Vaanersborg;Vaastra Gootaland;Timraaa;76.99316;town;73.889
+Uddevalla;Vaastra Gootaland;Taaby;34.311;town;0
+Vetlanda;Joonkooping;Vallentuna;57.838;town;0
+Vimmerby;Kalmar;Vaxholm;25.666;town;0
+Naassjoo;Joonkooping;Umeaaa;4.10033;town;0
+Eksjoo;Joonkooping;aalmhult;98.087;town;3.657
+Vaastervik;Kalmar;Stockholm;87.575;town;0
+Kumla;Orebro;Karlstad;8.546331;town;8.22222
+Storfors;Vaarmland;Eksjoo;129.952923;town;94.6602
+Munkfors;Vaarmland;Eksjoo;4.37911;town;0
+Visby;Gotland;Eksjoo;20.42645;town;0
+Hemse;Gotland;Kungsbacka;49.02268;town;0
+Slite;Gotland;Edsbyn;21.1217;town;0
+Lund;Skaaane;Edsbyn;40.7008;town;2.059
+aalmhult;Kronoberg;Emmaboda;64.01;town;0
+Simrishamn;Skaaane;Enkooping;234.177301;town;0
+Ystad;Skaaane;Kramfors;0;town;0
+Kristianstad;Skaaane;Hudiksvall;0;town;0
+Osby;Skaaane;oostersund;0;town;0
+Karlshamn;Blekinge;oostersund;0;town;0
+Ronneby;Blekinge;Sollefteaaa;0;town;0
+Nybro;Kalmar;Sollefteaaa;0;town;0
+Herrljunga;Vaastra Gootaland;Sollefteaaa;0;town;0
+Lidkooping;Vaastra Gootaland;Eskilstuna;711.18534;town;0
+Mariestad;Vaastra Gootaland;Eskilstuna;0.919;town;0
+Trelleborg;Skaaane;Eskilstuna;8.342;town;0
+Charlottenberg;Vaarmland;Falkooping;118.066034;town;0
+Hallsberg;Orebro;Falkooping;13.18;town;0
+Katrineholm;Soodermanland;Falkooping;5.767;town;0
+Flen;Soodermanland;Falkenberg;73.283;town;0
+Enkooping;Uppsala;Falkenberg;2.452;town;0
+Hudiksvall;Gaavleborg;Falkenberg;3.982;town;0
+Bollnaas;Gaavleborg;Falun;5.97;town;0
+Sooderhamn;Gaavleborg;Falun;325.531783;town;1.29523
+Edsbyn;Gaavleborg;Falun;5.51;town;0
+Sandviken;Gaavleborg;Falun;6.07;town;0
+Skellefteaaa;Vaasterbotten;Finspaaang;134.95;town;72.4
+oornskooldsvik;Vaasternorrland;Osby;0;town;0
+Piteaaa;Norrbotten;Stockholm;7955.1575;town;1719.0961
+Haparanda;Norrbotten;Taaby;74.90204;town;0
+Faarjestaden;Kalmar;Katrineholm;0;town;0
+Landskrona;Skaaane;Katrineholm;0;town;0
+Lomma;Skaaane;Katrineholm;0;town;0
+aangelholm;Skaaane;Katrineholm;0;town;0
+Baaastad;Skaaane;Katrineholm;0;town;0
+Falsterbo;Skaaane;Katrineholm;0;town;0
+Skanoor;Skaaane;Katrineholm;0;town;0
+Soolvesborg;Blekinge;Katrineholm;0;town;0
+aaahus;Skaaane;Gislaved;28.45427;town;0.068
+Bromoolla;Skaaane;Gislaved;5.6534;town;0
+Tooreboda;Vaastra Gootaland;Gislaved;2.20101;town;0
+Vaaargaaarda;Vaastra Gootaland;Visby;14.05;town;0
+Alingsaaas;Vaastra Gootaland;Visby;9.371;town;0
+Kinna;Vaastra Gootaland;Visby;18.368;town;14
+Oskarshamn;Kalmar;Visby;187.22;town;0
+Vingaaaker;Soodermanland;Gaallivare;155.29522;town;0
+Norrtaalje;Stockholm;Gaavle;738.1506;town;281.96
+Gootene;Vaastra Gootaland;Gooteborg;3570.698;town;1861.051
+Mellerud;Vaastra Gootaland;Gooteborg;125.1259;town;0
+aaamaaal;Vaastra Gootaland;Mariestad;135.343;town;0
+Saaffle;Vaarmland;Mariestad;3.40181;town;3.083
+Avesta;Dalarna;Habo;28.41;town;0
+Ulricehamn;Vaastra Gootaland;Hagfors;19.224;town;0
+Kalix;Norrbotten;Hagfors;64.452;town;0.36
+Torsby;Vaarmland;Hagfors;0.2363;town;0
+oovertorneaaa;Norrbotten;Halmstad;674.85954;town;395.253
+Hjo;Vaastra Gootaland;Skoghall;59.596;town;0
+Karlsborg;Vaastra Gootaland;Hedemora;70.0266;town;0
+Boden;Norrbotten;Hedemora;8.11;town;0
+Ed;Vaastra Gootaland;Hedemora;2.96225;town;0
+Jokkmokk;Norrbotten;Saater;52.88692;town;0
+Faargelanda;Vaastra Gootaland;Hjo;42.822;town;0
+Arjeplog;Norrbotten;Haarnoosand;201.88673;town;40.5
+Arvidsjaur;Norrbotten;Haassleholm;225.726;town;111.874
+Moskosel;Norrbotten;Haassleholm;22.19;town;0
+Sunne;Vaarmland;Hooganaas;48.285508;town;42.479
+Forshaga;Vaarmland;Jokkmokk;44.4;town;0
+Mjoolby;oostergootland;oostersund;0;town;0
+Stenungsund;Vaastra Gootaland;Krokom;25.3634;town;0
+Munkedal;Vaastra Gootaland;aaare;80.9832;town;0
+Tanumshede;Vaastra Gootaland;oostersund;537.3518;town;4.9
+Kungshamn;Vaastra Gootaland;Joonkooping;0.087;town;0
+Skaarhamn;Vaastra Gootaland;Joonkooping;0;town;0
+Henaaan;Vaastra Gootaland;Graanna;16.87;town;0
+Kungaalv;Vaastra Gootaland;Joonkooping;719.04377;town;296.774
+Graastorp;Vaastra Gootaland;Joonkooping;0;town;0
+Nossebro;Vaastra Gootaland;Joonkooping;3.45;town;0
+Kramfors;Vaasternorrland;Kalmar;371.56133;town;0
+Sollefteaaa;Vaasternorrland;Karlshamn;188.31;town;164.6
+Lidingoo;Stockholm;Karlstad;670.98024;town;159.129
+Arvika;Vaarmland;Mariestad;0;town;0
+Kil;Vaarmland;Kil;44.292941;town;0
+Grums;Vaarmland;Lund;855.0599;town;50.3
+Fagersta;Vaastmanland;Klippan;70.706;town;0
+Sala;Vaastmanland;Kristinehamn;105.67;town;0
+Maarsta;Stockholm;Kungaalv;1.445;town;0
+Skinnskatteberg;Vaastmanland;Kungaalv;0.972;town;0
+Storuman;Vaasterbotten;Kungaalv;3.303;town;0
+Vilhelmina;Vaasterbotten;Kungaalv;108.5237;town;0
+Dorotea;Vaasterbotten;Kooping;16.64943;town;0
+Stroomsund;Jaamtland;Kooping;231.19887;town;215.1989
+Svenstavik;Jaamtland;Landskrona;301.64687;town;142.1798
+Habo;Vaastra Gootaland;Haassleholm;10.088;town;0
+Mullsjoo;Vaastra Gootaland;Ed;9.441;town;0
+Taaby;Stockholm;Graastorp;14.84;town;0
+aaarjaang;Vaarmland;Kinna;8.599;town;0
+Bengtsfors;Vaastra Gootaland;Vara;15.033;town;0
+Vaarnamo;Joonkooping;Skurup;31.255;town;0
+Kungsbacka;Halland;oodeshoog;16.067;town;0
+Lindome;Vaastra Gootaland;Enkooping;7.397;town;0
+Moolndal;Vaastra Gootaland;Laxaaa;30.979;town;0
+Varberg;Halland;Floda;9.771235;town;0
+Falkenberg;Halland;Lerum;11.17;town;0
+Hyltebruk;Halland;Lerum;33.28;town;0
+Knivsta;Uppsala;Lerum;1.613;town;0
+Tibro;Vaastra Gootaland;Lessebo;0;town;0
+Lerum;Vaastra Gootaland;Lysekil;53.009;town;51.511
+Moolnlycke;Vaastra Gootaland;Lidkooping;359.3426;town;333.86
+Stroomstad;Vaastra Gootaland;Lilla Edet;14.0198;town;0
+Jaarfaalla;Stockholm;Lindesberg;17.125;town;16.6
+Sollentuna;Stockholm;Lindesberg;82.718;town;75.953
+Danderyd;Stockholm;Lindesberg;0;town;0
+Norberg;Vaastmanland;Lindesberg;4.15356;town;3.793
+Oxeloosund;Soodermanland;Ljungby;176.784441;town;113.132
+Raattvik;Dalarna;Ljusdal;10.181;town;0
+Leksand;Dalarna;Ljusdal;12.036;town;0
+Borgholm;Kalmar;Ljusdal;79.59;town;0
+Surahammar;Vaastmanland;Luleaaa;911.3541;town;0
+Tumba;Stockholm;Luleaaa;28.76;town;0
+ooverkalix;Norrbotten;Flen;0;town;0
+Vallentuna;Stockholm;Malung;29.22;town;0
+aaakersberga;Stockholm;Gooteborg;115.06177;town;0
+Gislaved;Joonkooping;Gooteborg;8.36;town;0
+Arboga;Vaastmanland;Gooteborg;1.312;town;0
+Staffanstorp;Skaaane;Mellerud;21.743;town;0
+Solna;Stockholm;Mjoolby;201.05324;town;0
+Sundbyberg;Stockholm;Mullsjoo;21.13;town;0
+Soodermalm;Stockholm;Munkfors;0;town;0
+Hoollviken;Skaaane;Hallstahammar;0;town;0
+Arloov;Skaaane;Kungsoor;47.75;town;0
+Vellinge;Skaaane;Surahammar;57.795;town;2.171
+Sjoobo;Skaaane;Vaasteraaas;1841.89824;town;458.877
+Bjaarred;Skaaane;Vaasteraaas;0.284080199;town;0.062614
+Upplands Vaasby;Stockholm;Moolndal;374.06393;town;0
+Ekeroo;Stockholm;Moolndal;13.810071;town;0
+aaange;Vaasternorrland;Sundbyberg;1046.1595;town;0
+Braacke;Jaamtland;Norrtaalje;16.573;town;16.52
+Vaannaas;Vaasterbotten;Norrtaalje;133.41882;town;0
+Vindeln;Vaasterbotten;Norrtaalje;27.998;town;0
+aalvsbyn;Norrbotten;Nybro;147.98612;town;0
+Straangnaas;Soodermanland;Naassjoo;2.384;town;0
+Skoghall;Vaarmland;Naassjoo;14.017;town;0
+Gnesta;Soodermanland;Naassjoo;153.67563;town;0
+Gustavsberg;Stockholm;Olofstroom;51.079;town;0
+Ockelbo;Gaavleborg;Oskarshamn;149.5;town;0.4
+Timraaa;Vaasternorrland;Oxeloosund;91.714;town;89.38
+Hammarstrand;Jaamtland;aaastorp;0;town;0
+oockeroo;Vaastra Gootaland;Perstorp;55.721;town;17.2
+Olofstroom;Blekinge;Piteaaa;7.98;town;0
+Krokom;Jaamtland;Piteaaa;272.02735;town;262.5
+Jaarpen;Jaamtland;Piteaaa;1.96901;town;0
+Hofors;Gaavleborg;Piteaaa;2.645;town;0
+Bergsjoo;Gaavleborg;Aneby;0;town;0
+Kungsoor;Vaastmanland;Hammarstrand;0;town;0
+aalvdalen;Dalarna;Filipstad;45.91;town;0
+Lycksele;Vaasterbotten;Flen;56.1;town;0
+Norsjoo;Vaasterbotten;Gnesta;22.3;town;0
+Malaaa;Vaasterbotten;Hoorby;41.23;town;0
+Sorsele;Vaasterbotten;Hoooor;30.47;town;0
+aaasele;Vaasterbotten;Sjoobo;27.8;town;0
+Bjurholm;Vaasterbotten;Storfors;18.76;town;0
+Robertsfors;Vaasterbotten;Sunne;39.164;town;0
+Nordmaling;Vaasterbotten;Tomelilla;36.35;town;0
+Svedala;Skaaane;Vadstena;44.4;town;0
+Kooping;Vaastmanland;Vansbro;20.567;town;0
+Nynaashamn;Stockholm;Vingaaaker;29.6;town;0
+Vaxholm;Stockholm;Vaaargaaarda;0;town;0
+Alvesta;Kronoberg;aalvdalen;0;town;0
+Tierp;Uppsala;Ronneby;19.28;town;0
+oosthammar;Uppsala;Ronneby;112.87;town;0
+aalvkarleby;Uppsala;Raattvik;56.4;town;0
+aaatvidaberg;oostergootland;Sala;174.01132;town;0
+Fredriksberg;Dalarna;Sandviken;290.47223;town;0
+Markaryd;Kronoberg;Skara;119.78;town;0
+aaaseda;Kronoberg;Boliden;9.916;town;0
+Lessebo;Kronoberg;Skellefteaaa;10.227;town;0
+Tingsryd;Kronoberg;Skellefteaaa;18.788;town;0
+Saavsjoo;Joonkooping;Skellefteaaa;11.883;town;0
+Vaggeryd;Joonkooping;Skellefteaaa;7.207;town;0
+Skillingaryd;Joonkooping;Lycksele;0.731;town;0
+Gnosjoo;Joonkooping;Skellefteaaa;6.67;town;0
+Tranaaas;Joonkooping;Skellefteaaa;3.486;town;0
+Aneby;Joonkooping;Lycksele;92.3135661;town;0
+Trosa;Soodermanland;Skellefteaaa;3.074;town;0
+Baaalsta;Uppsala;Lycksele;70.83319;town;0
+Hultsfred;Kalmar;Skellefteaaa;15.735;town;5.663
+Tomelilla;Skaaane;Skellefteaaa;11.551;town;0
+oodeshoog;oostergootland;Skellefteaaa;303.32007;town;0
+Esloov;Skaaane;Storuman;45.262;town;0
+Hoooor;Skaaane;Skellefteaaa;35.007;town;34.996
+Haassleholm;Skaaane;Skellefteaaa;19.781;town;0
+aaastorp;Skaaane;Skellefteaaa;3.39;town;0
+Klippan;Skaaane;Skoovde;11.53;town;0
+Perstorp;Skaaane;Skoovde;412.44636;town;149.178
+oorkelljunga;Skaaane;Skoovde;5.434;town;0
+Hoorby;Skaaane;Skoovde;2.193;town;0
+Kaavlinge;Skaaane;Skoovde;3.836;town;0
+Skurup;Skaaane;Borlaange;44.792;town;22.792
+Bjuv;Skaaane;Borlaange;5.70494;town;0
+Broby;Skaaane;Sollentuna;342.82;town;0
+Saater;Dalarna;Svenljunga;45.58;town;0
+Hedemora;Dalarna;Kungsbacka;146.7168;town;0
+Bro;Stockholm;Trosa;26;town;0
+Emmaboda;Kalmar;Trosa;10.59;town;0
+Svenljunga;Vaastra Gootaland;aaamaaal;50.85;town;0
+Tranemo;Vaastra Gootaland;Stenungsund;83.375;town;81
+Kisa;oostergootland;Stenungsund;0.89;town;0
+Moonsteraaas;Kalmar;Straangnaas;175.617331;town;25.3698
+Hoogsby;Kalmar;Sundsvall;27.968;town;0
+Torsaaas;Kalmar;Sundsvall;21.26;town;0
+Laholm;Halland;Sundsvall;635.2164;town;469.939
+Onsala;Halland;Sundsvall;116.797;town;74.955
+Vadstena;oostergootland;Sundsvall;7.399;town;0
+Partille;Vaastra Gootaland;Surahammar;0;town;0
+Huskvarna;Joonkooping;Surahammar;0;town;0
+Vaasterhaninge;Stockholm;Surahammar;0;town;0
+Boo;Stockholm;Surahammar;0;town;0
+Smedjebacken;Dalarna;Saavsjoo;4.68124;town;0
+Djuraaas;Dalarna;Saavsjoo;53.5;town;0
+Hallstahammar;Vaastmanland;Soodertaalje;2431.00951;town;424
+Heby;Vaastmanland;Sooderhamn;14.63012;town;0
+Finspaaang;oostergootland;Sooderhamn;0.833204;town;0
+Boxholm;oostergootland;Sooderhamn;3.802017;town;0
+oosterbymo;oostergootland;Sooderhamn;147.872448;town;0
+Bollebygd;Vaastra Gootaland;Stockholm;1107.068;town;0
+Torslanda;Vaastra Gootaland;Kiruna;245.55614;town;160.148
+Noodinge-Nol;Vaastra Gootaland;Kiruna;8.711;town;0
+Ljusdal;Gaavleborg;Linkooping;18.5;town;0
+aaare;Jaamtland;Linkooping;198.0812611;town;0
+Virserum;Kalmar;Linkooping;20.1618;town;0
+Boliden;Vaasterbotten;Linkooping;1506.69592;town;658
+Vrigstad;Joonkooping;Linkooping;21.68059;town;8.76
+aaarsta;Stockholm;Linkooping;33.94235;town;0
+Salem;Stockholm;Soodertaalje;0;town;0
+Svaloov;Skaaane;Soodertaalje;0;town;0
+Graanna;Joonkooping;Soodertaalje;738.65;town;0
+Nacka;Stockholm;Tidaholm;61.92371;town;21.8765
+Knaared;Halland;Tierp;52.005;town;0
+Ljugarn;Gotland;Tierp;7.682;town;0
+aalandsbro;Vaasternorrland;Torsaaas;0;town;0
+Ullaaanger;Vaasternorrland;Tranaaas;142.71288;town;0
+Docksta;Vaasternorrland;Trelleborg;93.68453;town;0
+Anderstorp;Joonkooping;Trollhaattan;403.42267;town;0
+Smaaalandsstenar;Joonkooping;Uddevalla;5.611;town;0
+Handen;Stockholm;Munkedal;8.67;town;0
+Mariefred;Soodermanland;Uddevalla;270.31809;town;151.253
+Tyresoo;Stockholm;Ulricehamn;2.69605;town;0
+Adak;Vaasterbotten;Ulricehamn;0.923059;town;0
+Rentjaern;Vaasterbotten;Ulricehamn;52.4999;town;31.594
+Baalinge;Uppsala;Umeaaa;9.703;town;0
+Slagnaes;Norrbotten;Umeaaa;10.914;town;0
+Huddinge;Stockholm;Umeaaa;10.4047;town;0
+Floda;Vaastra Gootaland;Umeaaa;890.214706;town;263.4
+Motala;oostergootland;Vaggeryd;0;town;0
+Ramsele;Vaasternorrland;Vaggeryd;0;town;0
+;;Vara;36.074;;0
+;;Varberg;2.047;;0
+;;Varberg;5.1825;;0
+;;Varberg;164.83853;;122.31
+;;Varberg;4.3907;;0
+;;Kalix;121.8;;0
+;;Norrkooping;0;;0
+;;Flen;17.2;;0
+;;Askersund;22.152;;0
+;;Stockholm;487.18503;;0
+;;Gustavsberg;67.12;;0
+;;Haparanda;77.99589;;0
+;;Knivsta;67.6;;0
+;;Motala;180.01305;;0
+;;Nykooping;320.12173;;0
+;;Nacka;30.6564;;0
+;;Uppsala;21.5;;0
+;;Uppsala;1818.90197;;1011.91
+;;Vaanersborg;147.65;;114
+;;oovertorneaaa;33.73;;0
+;;Vetlanda;8.17647;;0
+;;Vetlanda;5.1;;0
+;;Vetlanda;148.320549;;0.603409
+;;Vimmerby;6.43082;;0
+;;Vimmerby;5.011;;0
+;;Vimmerby;8.69;;0
+;;Vimmerby;11.241;;0
+;;Vimmerby;115.1976;;0
+;;Mariestad;2.94;;0
+;;Mariestad;162.73153;;0
+;;Tooreboda;25.71;;0
+;;Avesta;293.10865;;224.05
+;;Kopparberg;3.5122;;0
+;;Hudiksvall;17.74292;;0
+;;Karlstad;26.70385;;23.561
+;;Haallefors;7.41204;;0
+;;Mariestad;2.52152;;0
+;;Hofors;74.826;;32.624
+;;Hudiksvall;124.74001;;0
+;;Haallefors;47.99535;;7.165
+;;Hudiksvall;18.987002;;13.382
+;;Kopparberg;15.36612;;0
+;;Kristinehamn;119.79566;;0
+;;Nynaashamn;60.1716915;;29.33135
+;;Hudiksvall;2.309;;0
+;;Torsby;2.23889;;0
+;;Saaffle;56.704346;;27.458
+;;Hudiksvall;8.066;;0
+;;Torsby;105.22211;;0
+;;oorebro;0;;0
+;;oorebro;0;;0
+;;Vaarnamo;12.33032;;0
+;;Vaarnamo;167.1911;;0.258
+;;Fagersta;120.712;;15.862
+;;Ludvika;14.987;;0
+;;Ludvika;134.24041;;1.346
+;;Norberg;20.576649;;18.729
+;;Vaastervik;9.985;;0
+;;Vaastervik;37.583;;0
+;;Vaastervik;226.05065;;166.686
+;;Vaaxjoo;19.289;;0
+;;Vaaxjoo;11.202;;0
+;;Vaaxjoo;14.71;;0
+;;Vaaxjoo;665.23046;;0
+;;Ystad;170.49254;;0
+;;aaange;7.904;;0
+;;aaange;0.624;;0
+;;aaange;39.136;;28.8859
+;;aalvsbyn;0;;0
+;;Helsingborg;944.5757;;513.921
+;;aangelholm;2.438445;;0
+;;aangelholm;15.873;;0
+;;aangelholm;236.04246;;25.39
+;;oorkelljunga;38.495;;0
+;;Simrishamn;59.2;;0
+;;oornskooldsvik;10.05529;;0
+;;oornskooldsvik;6.82865;;0
+;;oornskooldsvik;1.47717;;0
+;;oornskooldsvik;9.1057629;;5.2685
+;;oornskooldsvik;0.73975;;0
+;;oornskooldsvik;234.9646218;;0
+;;oornskooldsvik;226.63156;;0

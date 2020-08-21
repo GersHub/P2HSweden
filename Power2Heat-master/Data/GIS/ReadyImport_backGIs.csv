@@ -1,0 +1,4904 @@
+Number;AllCities;State;Category
+220212;Ulvvik;Västernorrland;hamlet
+220213;Salberg;Västernorrland;hamlet
+220214;Lidböle;Västernorrland;hamlet
+220215;Björnån;Västernorrland;hamlet
+220216;Öjsand;Västernorrland;hamlet
+220217;Skarp-Nyland;Västernorrland;hamlet
+220218;Hyndtjärn;Västernorrland;hamlet
+220219;Skatan;Västernorrland;hamlet
+220220;Östervalto;Västernorrland;hamlet
+220221;Ödsåkern;Västernorrland;hamlet
+220222;Nyland;Västernorrland;village
+425664;Södra;Stockholm;suburb
+11094836;Nyköping;Södermanland;city
+12021313;Linghem;Östergötland;village
+15412058;Helsingborg;Skåne;city
+18281781;Göteborg-Landvetter flygplats;Västra Götaland;airport
+20842526;Landvetter;Västra Götaland;village
+20842623;Borås;Västra Götaland;city
+20853389;Nykvarn;Stockholm;town
+20938614;Falköping;Västra Götaland;town
+20975576;Söderköping;Östergötland;town
+20975577;Valdemarsvik;Östergötland;town
+20975578;Linköping;Östergötland;city
+20975579;Åbylund;Östergötland;suburb
+20975581;Gottfridsberg;Östergötland;suburb
+20975582;Valla;Östergötland;suburb
+20975583;Skäggetorp;Östergötland;suburb
+20975584;Tornby;Östergötland;suburb
+20975585;Tannefors;Östergötland;suburb
+21012430;Floby;Västra Götaland;village
+21074896;Åsarp;Västra Götaland;village
+21135142;Stenstorp;Västra Götaland;village
+21135687;Gudhem;Västra Götaland;village
+21309609;Vartofta;Västra Götaland;village
+21309676;Slutarp;Västra Götaland;village
+21309678;Kinnarp;Västra Götaland;village
+21309912;Kättilstorp;Västra Götaland;village
+21382663;Lilla Edet;Västra Götaland;town
+21441796;Sunnansjö;Dalarna;village
+21441802;Ludvika;Dalarna;town
+21441852;Gryt;Östergötland;hamlet
+21441876;Fyrudden;Östergötland;hamlet
+21528691;Domsten;Skåne;village
+21528692;Höganäs;Skåne;town
+21877435;Vilan;Uppsala;suburb
+21877438;Uppsävja;Uppsala;suburb
+21877440;Bergsbrunna;Uppsala;suburb
+21992736;Årsta;Uppsala;suburb
+24228615;Äppelbo;Dalarna;village
+24243178;Vansbro;Dalarna;town
+24246192;Malung;Dalarna;town
+24967755;Odensberg;Västra Götaland;village
+24969576;Torbjörntorp;Västra Götaland;village
+24970666;Tidaholm;Västra Götaland;town
+25313850;Kvänum;Västra Götaland;village
+25338094;Vilske-Kleva;Västra Götaland;hamlet
+25508576;Växjö;Kronoberg;city
+25508588;Skövde;Västra Götaland;town
+25597313;Karlskoga;Orebro;town
+25597314;Granbergsdal;Orebro;village
+25597315;Degerfors;Orebro;town
+25597316;Svartå;Orebro;village
+25597317;Fjugesta;Orebro;town
+25629260;Dala-Järna;Dalarna;village
+25710724;Vara;Västra Götaland;town
+25735371;Uppsala;Uppsala;city
+25869330;Filipstad;Värmland;town
+25869331;Kristinehamn;Värmland;town
+25869332;Gyttorp;Orebro;village
+25869333;Nora;Orebro;town
+25869334;Åtorp;Orebro;village
+25869335;Laxå;Orebro;town
+25869336;Hagfors;Värmland;town
+25904434;Askersund;Orebro;town
+25929985;Stockholm;Stockholm;city
+25930131;Göteborg;Västra Götaland;city
+25975135;Karlstad;Värmland;city
+26120596;Sigtuna;Stockholm;village
+26290051;Ljungby;Kronoberg;town
+26346631;Sverige;Orebro;country
+26349501;Sandhem;Västra Götaland;village
+26456111;Tråvad;Västra Götaland;village
+26456964;Trävattna;Västra Götaland;hamlet
+26456965;Ullene;Västra Götaland;hamlet
+26458262;Skara;Västra Götaland;town
+26502249;Mora;Dalarna;town
+26502337;Orsa;Dalarna;town
+26502338;Sveg;Jämtland;town
+26502339;Lindesberg;Orebro;town
+26502340;Kopparberg;Orebro;town
+26502341;Hällefors;Orebro;town
+26502342;Grängesberg;Dalarna;village
+26502343;Borlänge;Dalarna;town
+26580816;Lysekil;Västra Götaland;town
+26581753;Brastad;Västra Götaland;village
+26585395;Trollhättan;Västra Götaland;town
+26585396;Vänersborg;Västra Götaland;town
+26585398;Uddevalla;Västra Götaland;town
+26587059;Vetlanda;Jönköping;town
+26589965;Vimmerby;Kalmar;town
+26592946;Nässjö;Jönköping;town
+26592947;Eksjö;Jönköping;town
+26594373;Västervik;Kalmar;town
+26608631;Stockholm-Arlanda flygplats;Stockholm;airport
+26793960;Odensbacken;Orebro;village
+26793968;Pålsboda;Orebro;village
+26793985;Hjortkvarn;Orebro;village
+26794098;Kumla;Orebro;town
+26804505;Malmö;Skåne;city
+26980859;Storfors;Värmland;town
+26983541;Munkfors;Värmland;town
+27037780;Trädet;Västra Götaland;village
+27037781;Jäla;Västra Götaland;hamlet
+27085855;Mjönäs;Värmland;village
+27150427;Visby;Gotland;town
+27150428;Hemse;Gotland;town
+27150429;Slite;Gotland;town
+27150430;Klintehamn;Gotland;village
+27150431;Vibble;Gotland;village
+27150722;Sörby;Värmland;hamlet
+27259639;Skamhed;Dalarna;hamlet
+27259642;Hulån;Dalarna;hamlet
+27259644;Snöbyn;Dalarna;hamlet
+27259646;Nås;Dalarna;village
+27259648;Dala-Floda;Dalarna;village
+27259649;Mockfjärd;Dalarna;village
+27323968;Lund;Skåne;town
+27347888;Älmhult;Kronoberg;town
+27374563;Simrishamn;Skåne;town
+27374564;Brösarp;Skåne;village
+27374565;Ystad;Skåne;town
+27377535;Kristianstad;Skåne;town
+27381348;Osby;Skåne;town
+27392172;Hällestad;Västra Götaland;hamlet
+27392380;Mjäldrunga;Västra Götaland;hamlet
+27395889;Karlshamn;Blekinge;town
+27396028;Ronneby;Blekinge;town
+27396069;Karlskrona;Blekinge;city
+27405018;Nybro;Kalmar;town
+27408852;Kungsgärdet;Uppsala;suburb
+27408853;Ekeby;Uppsala;suburb
+27408855;Flogsta;Uppsala;suburb
+27408857;Berthåga;Uppsala;suburb
+27408858;Stenhagen;Uppsala;suburb
+27422249;Orrefors;Kalmar;village
+27425102;Eriksberg;Västra Götaland;hamlet
+27426148;Herrljunga;Västra Götaland;town
+27426448;Lidköping;Västra Götaland;town
+27428841;Lenhovda;Kronoberg;village
+27430678;Mariestad;Västra Götaland;town
+27430890;Frötuna;Uppsala;hamlet
+27431648;Norrköping;Östergötland;city
+27432055;Gävle;Gävleborg;city
+27432369;Umeå;Västerbotten;city
+27439001;Trelleborg;Skåne;town
+27513227;Västerås;Västmanland;city
+27527112;Charlottenberg;Värmland;town
+27527229;Östermalm;Västmanland;suburb
+27527230;Norrmalm;Västmanland;suburb
+27527231;Kristiansborg;Västmanland;suburb
+27531092;Hallsberg;Orebro;town
+27532837;Katrineholm;Södermanland;town
+27534589;Flen;Södermanland;town
+27544566;Enköping;Uppsala;town
+27557254;Hudiksvall;Gävleborg;town
+27557890;Bollnäs;Gävleborg;town
+27558251;Söderhamn;Gävleborg;town
+27558372;Edsbyn;Gävleborg;town
+27558524;Alfta;Gävleborg;village
+27558580;Sandviken;Gävleborg;town
+27558697;Östersund;Jämtland;city
+27559601;Skellefteå;Västerbotten;town
+27559814;Luleå;Norrbotten;city
+27560253;Örnsköldsvik;Västernorrland;town
+27560697;Härnösand;Västernorrland;city
+27561279;Piteå;Norrbotten;town
+27561960;Haparanda;Norrbotten;town
+27588041;Färjestaden;Kalmar;town
+27592259;Kalmar;Kalmar;city
+27593232;Örebro;Orebro;city
+27699239;Landskrona;Skåne;town
+27699240;Lomma;Skåne;town
+27699411;Ängelholm;Skåne;town
+27699428;Båstad;Skåne;town
+27699429;Mölle;Skåne;village
+27783494;Falsterbo;Skåne;town
+27783495;Skanör;Skåne;town
+27783513;Ljunghusen;Skåne;village
+27805208;Kåseberga;Skåne;hamlet
+28093722;Sölvesborg;Blekinge;town
+28093787;Åhus;Skåne;town
+28094074;Bromölla;Skåne;town
+28110145;Jämjö;Blekinge;village
+28142370;Södra Gryta;Västmanland;suburb
+28143509;Råby;Västmanland;suburb
+28168643;Vallby;Västmanland;suburb
+28168932;Vetterstorp;Västmanland;suburb
+28197924;Töreboda;Västra Götaland;town
+28239472;Erikslund;Västmanland;suburb
+28256476;Vårgårda;Västra Götaland;town
+28256477;Alingsås;Västra Götaland;town
+28330486;Falun;Dalarna;city
+28350059;Kinna;Västra Götaland;town
+28350061;Skene;Västra Götaland;suburb
+28362755;Oskarshamn;Kalmar;town
+28480811;Bäckby;Västmanland;suburb
+28795943;Vingåker;Södermanland;town
+28797960;Norrtälje;Stockholm;town
+28807112;Hammarby;Västmanland;suburb
+28830613;Götene;Västra Götaland;town
+28831095;Mellerud;Västra Götaland;town
+28831161;Åmål;Västra Götaland;town
+28831940;Säffle;Värmland;town
+28842587;Stohagen;Västmanland;suburb
+28898834;Halmstad;Halland;city
+28898845;Eskilstuna;Södermanland;city
+28899227;Avesta;Dalarna;town
+28899228;Krylbo;Dalarna;suburb
+28899943;Jakobsberg;Västmanland;suburb
+28966427;Blidsberg;Västra Götaland;village
+28966450;Dalum;Västra Götaland;village
+28968680;Timmele;Västra Götaland;village
+28968863;Ulricehamn;Västra Götaland;town
+28969993;Gammelgården;Norrbotten;village
+28986516;Kalix;Norrbotten;town
+29010781;Näsbyn;Norrbotten;suburb
+29025116;Gamleby;Kalmar;village
+29030803;Vasastaden;Västmanland;suburb
+29031080;Norra Gryta;Västmanland;suburb
+29182465;Torsby;Värmland;town
+29184455;Övertorneå;Norrbotten;town
+29195071;Hjo;Västra Götaland;town
+29196032;Karlsborg;Västra Götaland;town
+29266387;Boden;Norrbotten;town
+29282318;Ed;Västra Götaland;town
+29284129;Jokkmokk;Norrbotten;town
+29371682;Färgelanda;Västra Götaland;town
+29398378;Arjeplog;Norrbotten;town
+29398379;Arvidsjaur;Norrbotten;town
+29399057;Moskosel;Norrbotten;town
+29400213;Höje;Värmland;hamlet
+29400272;Västra Skymnäs;Värmland;hamlet
+29400408;Östra SKymnäs;Värmland;hamlet
+29400409;By;Värmland;hamlet
+29530761;Gunnerud;Värmland;hamlet
+29530762;Edebäck;Värmland;village
+29530763;Bergsäng;Värmland;village
+29530764;Ekshärad;Värmland;village
+29530771;Gumhöjden;Värmland;hamlet
+29530772;Geijersholm;Värmland;village
+29530773;Gustavsfors;Värmland;village
+29530931;Uddeholm;Värmland;village
+29530932;Stjärnfors;Värmland;village
+29530933;Basterud;Värmland;hamlet
+29530934;Råda Västanberg;Värmland;hamlet
+29530935;Solberg;Värmland;hamlet
+29531038;Rinn;Värmland;hamlet
+29531039;Oleby;Värmland;village
+29531040;Lysvik;Värmland;village
+29531082;Åleby;Värmland;hamlet
+29531370;Mallbacken;Värmland;village
+29531595;Sunne;Värmland;town
+29531597;Rottneros;Värmland;village
+29531972;Västra Ämtevik;Värmland;village
+29531973;Östra Ämtevik;Värmland;village
+29531974;Ransäter;Värmland;village
+29532119;Olsäter;Värmland;village
+29532120;Deje;Värmland;village
+29537571;Forshaga;Värmland;town
+29537572;Sunnemo;Värmland;village
+29563072;Byn;Värmland;hamlet
+29563314;Persberg;Värmland;village
+29563315;Brattfors;Värmland;village
+29563324;Molkom;Värmland;village
+29564094;Stöllet;Värmland;village
+29567223;Lekvattnet;Värmland;village
+29576030;Mårbacken;Värmland;hamlet
+29577285;Östmark;Värmland;village
+29646574;Likenäs;Värmland;village
+29646579;Ambjörby;Värmland;village
+29681079;Broddetorp;Västra Götaland;hamlet
+29684311;Mjölby;Östergötland;town
+29685965;Stenungsund;Västra Götaland;town
+29686799;Munkedal;Västra Götaland;town
+29687437;Ljungskile;Västra Götaland;village
+29689832;Tanumshede;Västra Götaland;town
+29689990;Kungshamn;Västra Götaland;town
+29690590;Skärhamn;Västra Götaland;town
+29690591;Rönnäng;Västra Götaland;village
+29690748;Henån;Västra Götaland;town
+29691384;Kungälv;Västra Götaland;town
+29691802;Grästorp;Västra Götaland;town
+29691963;Nossebro;Västra Götaland;town
+29692432;Kramfors;Västernorrland;town
+29692551;Sollefteå;Västernorrland;town
+29692552;Långsele;Västernorrland;village
+29756716;Lidingö;Stockholm;town
+29775128;Gamla Stan;Stockholm;suburb
+29775302;Kungsholmen;Stockholm;suburb
+29775303;Norrmalm;Stockholm;suburb
+29814285;Arvika;Värmland;town
+29814615;Edane;Värmland;village
+29815562;Kil;Värmland;town
+29816037;Grums;Värmland;town
+29816047;Vålberg;Värmland;village
+29816059;Edsvalla;Värmland;village
+29816328;Fagerås;Värmland;village
+29915594;Fagersta;Västmanland;town
+29916407;Sala;Västmanland;town
+29917204;Märsta;Stockholm;town
+29918089;Skinnskatteberg;Västmanland;town
+29919360;Elfvik;Stockholm;hamlet
+29919543;Sticklinge;Stockholm;village
+29920009;Storuman;Västerbotten;town
+29920680;Vilhelmina;Västerbotten;town
+29921091;Dorotea;Västerbotten;town
+29922312;Hoting;Jämtland;village
+29922884;Strömsund;Jämtland;town
+29922965;Hammerdal;Jämtland;village
+29923242;Lit;Jämtland;village
+29923243;Häggenås;Jämtland;village
+29923760;Ytterhogdal;Jämtland;village
+29931960;Gräsmarks gård;Värmland;hamlet
+30047409;Torsvik;Stockholm;suburb
+30047412;Islinge;Stockholm;village
+30061450;Gäddede;Jämtland;village
+30061451;Jormvattnet;Jämtland;hamlet
+30061452;Jormlien;Jämtland;hamlet
+30061453;Ankarede;Jämtland;hamlet
+30061624;Svenstavik;Jämtland;town
+30085007;Skultorp;Västra Götaland;village
+30086835;Båtskärnäs;Norrbotten;village
+30095596;Habo;Västra Götaland;town
+30096223;Mullsjö;Västra Götaland;town
+30097620;Täby;Stockholm;town
+30097996;Södertälje;Stockholm;city
+30105474;Årjäng;Värmland;town
+30106774;Bengtsfors;Västra Götaland;town
+30146159;Värnamo;Jönköping;town
+30146374;Kungsbacka;Halland;town
+30146989;Lindome;Västra Götaland;town
+30146990;Mölndal;Västra Götaland;town
+30146995;Kållered;Västra Götaland;village
+30147521;Varberg;Halland;town
+30147825;Falkenberg;Halland;town
+30147985;Hyltebruk;Halland;town
+30167243;Bodal;Stockholm;hamlet
+30169298;Larsberg;Stockholm;village
+30173753;Kapsta;Stockholm;locality
+30180560;Stockby;Stockholm;village
+30182323;Mölna;Stockholm;village
+30204118;Lindås;Orebro;hamlet
+30216619;Herserud;Stockholm;village
+30222737;Killinge;Stockholm;village
+30390452;Sälboda;Värmland;hamlet
+30433123;Knivsta;Uppsala;town
+30433124;Alsike;Uppsala;village
+30501590;Tibro;Västra Götaland;town
+30577975;Lerum;Västra Götaland;town
+30578919;Mölnlycke;Västra Götaland;town
+30674249;Råda;Värmland;village
+30756787;Lesjöfors;Värmland;village
+30756796;Långbansände;Värmland;hamlet
+30756804;Långban;Värmland;hamlet
+30756812;Oforsen;Värmland;hamlet
+30756815;Stora Lönnhöjden;Värmland;hamlet
+30756822;Tyfors;Dalarna;hamlet
+30756831;Kvarnberget;Dalarna;hamlet
+30756840;Laxtjärn;Dalarna;hamlet
+30756848;Kroktorp;Dalarna;hamlet
+30756858;Eldforsen;Dalarna;hamlet
+30820997;Skrubba;Stockholm;village
+30820999;Bollmora;Stockholm;suburb
+30895850;Bergshamra;Stockholm;village
+30903121;Smögen;Västra Götaland;village
+30904223;Tivoli;Stockholm;hamlet
+30965055;Trolldalen;Stockholm;hamlet
+30983274;Strömstad;Västra Götaland;town
+31014648;Järfälla;Stockholm;town
+31066579;Tureberg;Stockholm;suburb
+31066580;Sollentuna;Stockholm;town
+31110308;Danderyd;Stockholm;town
+31116111;Västbacka;Gävleborg;hamlet
+31116251;Los;Gävleborg;village
+31116790;Överhogdal;Jämtland;hamlet
+31170069;Klövsjö;Jämtland;village
+31170071;Vemdalen;Jämtland;village
+31170073;Vemhån;Jämtland;village
+31170075;Remmet;Jämtland;hamlet
+31174921;Klimpfjäll;Västerbotten;village
+31178128;Tullingsås;Jämtland;village
+31178132;Hallviken;Jämtland;village
+31416698;Lakene;Värmland;hamlet
+31580818;Grönsta;Stockholm;hamlet
+31580821;Bo;Stockholm;village
+31595293;Näset;Stockholm;village
+31697732;Södra Svartbyn;Norrbotten;village
+31728933;Torpgärdan;Norrbotten;village
+31759676;Svartbjörnsbyn;Norrbotten;village
+31759678;Erikslund;Norrbotten;village
+31765913;Sanden;Norrbotten;village
+31938492;Lundsbrunn;Västra Götaland;village
+31997634;Axvall;Västra Götaland;village
+32006412;Håbo;Västra Götaland;hamlet
+32013562;Burgsvik;Gotland;village
+32042358;Valtorp;Västra Götaland;hamlet
+32173931;Hedesunda;Gävleborg;village
+32175360;Granlo;Västernorrland;suburb
+32309417;Fjällbacka;Västra Götaland;village
+32310949;Grebbestad;Västra Götaland;village
+32320873;Nåntuna;Uppsala;suburb
+32320876;Sävja;Uppsala;village
+32455368;Bullarebygden;Västra Götaland;hamlet
+32456191;Dingle;Västra Götaland;village
+32571753;Trångfors;Norrbotten;locality
+32571754;Heden;Norrbotten;village
+32571755;Hamptjärnmoran;Norrbotten;village
+32571779;Sveafältet;Norrbotten;village
+32573433;Idre;Dalarna;village
+32641082;Norra Vånga;Västra Götaland;hamlet
+32650147;Norberg;Västmanland;town
+32655710;Rumskulla;Kalmar;village
+32657698;Oxelösund;Södermanland;town
+32686890;Rättvik;Dalarna;town
+32714609;Leksand;Dalarna;town
+32837680;Galgamarken;Blekinge;suburb
+32852727;Svenfoskdalen;Dalarna;hamlet
+32940796;Hova;Västra Götaland;village
+32940857;Slätte;Västra Götaland;hamlet
+32940858;Gårdsjö;Västra Götaland;hamlet
+32948324;Otterbäcken;Västra Götaland;village
+32948325;Gullspång;Västra Götaland;village
+32949868;Finnerödja;Orebro;village
+32958197;Borgholm;Kalmar;town
+32985844;Nykroppa;Värmland;village
+33014695;Djursholm;Stockholm;village
+33014697;Stocksund;Stockholm;village
+33022419;Grythyttan;Orebro;village
+33024732;Ställdalen;Orebro;village
+33046789;Borensberg;Östergötland;village
+33223264;Grönhögen;Kalmar;village
+33223793;Pärboeng;Kalmar;hamlet
+33223794;Ottenby;Kalmar;hamlet
+33223795;Näsby;Kalmar;hamlet
+33223807;Enetri;Kalmar;hamlet
+33224192;Degerhamn;Kalmar;village
+33224860;Mörbylånga;Kalmar;village
+33224861;Resmo;Kalmar;hamlet
+33224881;Stenåsa;Kalmar;hamlet
+33224882;N. Möckleby;Kalmar;village
+33224893;S. Möckleby;Kalmar;village
+33224911;Alby;Kalmar;hamlet
+33231866;Bjärby;Kalmar;hamlet
+33362009;Hästbäck;Västmanland;hamlet
+33362010;Ramnäs;Västmanland;village
+33362011;Surahammar;Västmanland;town
+33395619;Mörrum;Blekinge;village
+33395626;Svängsta;Blekinge;village
+33414353;Krokstrand;Västra Götaland;hamlet
+33545243;Ängelsberg;Västmanland;hamlet
+33545244;Virsbo;Västmanland;village
+33656201;Nyhammar;Dalarna;village
+33774014;Tällberg;Dalarna;village
+33774533;Insjön;Dalarna;village
+33802029;Fjällfotens stugby;Dalarna;hamlet
+33802030;Idre fjäll;Dalarna;hamlet
+33907673;Enebyberg;Stockholm;village
+34002096;Kiruna;Norrbotten;city
+34059256;Gåshaga;Stockholm;village
+34666391;Björsbyn;Norrbotten;village
+34666448;Rutvik;Norrbotten;village
+34911826;Rotebro;Stockholm;suburb
+34911948;Upplands Väsby;Stockholm;suburb
+34924011;Brannåsen;Västra Götaland;hamlet
+34924012;Maden;Västra Götaland;hamlet
+34958145;Masthugget;Västra Götaland;suburb
+35195366;Skäve;Stockholm;hamlet
+35205220;Löttorp;Kalmar;village
+35205998;Backa;Dalarna;hamlet
+35334407;Luttra;Västra Götaland;hamlet
+35342982;Ardala;Västra Götaland;village
+35343716;Vinninga;Västra Götaland;village
+35527185;Saltå;Stockholm;hamlet
+35729508;Tumba;Stockholm;town
+35797735;Gullbacken;Stockholm;hamlet
+35797736;Torslunda;Stockholm;hamlet
+35804333;Bollstanäs;Stockholm;village
+35814474;Ella Park;Stockholm;suburb
+35829489;Sklörbacken;Norrbotten;village
+35829490;Kälsjärv;Norrbotten;village
+35968304;Häggvik;Stockholm;suburb
+35968308;Edsberg;Stockholm;village
+35968310;Sjöberg;Stockholm;village
+36136467;Björkfors;Norrbotten;village
+36189702;Mora;Stockholm;hamlet
+36191853;Risbro;Stockholm;hamlet
+36258931;Hustegaholm;Stockholm;hamlet
+36313423;Södra Lundby;Västra Götaland;hamlet
+36736328;Bredden;Stockholm;hamlet
+36835653;Byträsket;Norrbotten;hamlet
+36839464;Karlsborg;Norrbotten;village
+36839465;Bredviken;Norrbotten;village
+36839466;Risön;Norrbotten;village
+36839467;Vånnafjärden;Norrbotten;village
+38435595;Nibble;Stockholm;hamlet
+38441187;Silverdal;Stockholm;suburb
+38451992;Norrviken;Stockholm;village
+38461549;Gällivare;Norrbotten;city
+38461749;Överkalix;Norrbotten;town
+38510292;Vallentuna;Stockholm;town
+38867526;Barkarby;Stockholm;suburb
+39519623;Järna;Stockholm;village
+41364199;Bankeryd;Jönköping;village
+42191503;Stocksundstorp;Stockholm;hamlet
+43158855;Sörby;Västra Götaland;hamlet
+46419409;Rotsunda Gård;Stockholm;hamlet
+46686456;Åkersberga;Stockholm;town
+46792661;Gislaved;Jönköping;town
+48161430;Öttum;Västra Götaland;hamlet
+49501852;Kasbytorp;Stockholm;hamlet
+49871511;Arboga;Västmanland;town
+50064451;Skaraberg;Västra Götaland;suburb
+50084467;Hällarna;Gotland;suburb
+50458585;Spånga;Stockholm;suburb
+51222305;Rissne;Stockholm;suburb
+52199009;Brevik;Stockholm;village
+52830320;Skarphäll;Gotland;suburb
+53140996;Ulriksdal;Stockholm;suburb
+53403734;Staffanstorp;Skåne;town
+53403855;Dalby;Skåne;village
+54519667;Solna;Stockholm;town
+54522077;Sundbyberg;Stockholm;town
+54592424;Södermalm;Stockholm;town
+55075547;Höllviken;Skåne;town
+55076606;Rängs sand;Skåne;village
+55079178;Tygelsjö;Skåne;village
+55079611;Arlöv;Skåne;town
+55080093;Vellinge;Skåne;town
+55080218;Åkarp;Skåne;village
+55080255;Hjärup;Skåne;village
+55082387;Södra Sandby;Skåne;village
+55083550;Veberöd;Skåne;village
+55083755;Sjöbo;Skåne;town
+55085175;Skåre;Skåne;hamlet
+55085710;Västra Klagstorp;Skåne;village
+55085813;Bunkeflostrand;Skåne;village
+55102316;Bjärred;Skåne;town
+56449803;Upplands Väsby;Stockholm;town
+56520072;Ekerö;Stockholm;town
+57318882;Ånge;Västernorrland;town
+57318959;Bräcke;Jämtland;town
+57320103;Fränsta;Västernorrland;village
+57430115;Fångsjöbacken;Jämtland;hamlet
+57430119;Bispgården;Jämtland;village
+57513293;Mellansel;Västernorrland;village
+57810874;Vännäs;Västerbotten;town
+57841788;Vindeln;Västerbotten;town
+57900280;Bastuträsk;Västerbotten;village
+57932144;Jörn;Västerbotten;village
+57932696;Älvsbyn;Norrbotten;town
+57944618;Råneå;Norrbotten;village
+57951958;Töre;Norrbotten;village
+57977545;Sangis;Norrbotten;village
+59435420;Johannisdal;Södermanland;hamlet
+59435446;Oppeby;Södermanland;hamlet
+59568469;Helgesta;Södermanland;hamlet
+59568473;Björkäng;Södermanland;hamlet
+59568476;Hall;Södermanland;hamlet
+59686061;Gåsholmen;Dalarna;hamlet
+59686086;Handbacken;Dalarna;hamlet
+59773306;Strängnäs;Södermanland;town
+60070559;Björbo;Dalarna;village
+60141422;Skoghall;Värmland;town
+60228098;Lövberget;Dalarna;hamlet
+60639832;Gnesta;Södermanland;town
+60934047;Gustavsberg;Stockholm;town
+61100017;Ockelbo;Gävleborg;town
+61102737;Timrå;Västernorrland;town
+61102953;Hammarstrand;Jämtland;town
+61103335;Öckerö;Västra Götaland;town
+61103888;Olofström;Blekinge;town
+61106684;Krokom;Jämtland;town
+61107019;Järpen;Jämtland;town
+61113358;Hofors;Gävleborg;town
+61120184;Bergsjö;Gävleborg;town
+61123516;Pajala;Norrbotten;village
+61126916;Kungsör;Västmanland;town
+61129066;Älvdalen;Dalarna;town
+61146423;Lycksele;Västerbotten;town
+61148620;Norsjö;Västerbotten;town
+61150721;Malå;Västerbotten;town
+61151806;Sorsele;Västerbotten;town
+61154105;Åsele;Västerbotten;town
+61155287;Bjurholm;Västerbotten;town
+61157958;Robertsfors;Västerbotten;town
+61158211;Nordmaling;Västerbotten;town
+61164007;Husum;Västernorrland;village
+61750333;Vrångö;Västra Götaland;island
+61750334;Donsö;Västra Götaland;island
+61750335;Styrsö;Västra Götaland;island
+61750336;Köpstadsö;Västra Götaland;island
+61750337;Brännö;Västra Götaland;island
+61750338;Asperö;Västra Götaland;island
+61750339;Galterö;Västra Götaland;island
+61847114;Ekhagen;Stockholm;suburb
+63463406;Torphagen;Stockholm;suburb
+65132358;Valbo;Gävleborg;village
+66704475;Östergarnholm;Gotland;island
+66706381;Fårösund;Gotland;village
+66866236;Edsviken;Stockholm;suburb
+66956239;Smedby;Stockholm;suburb
+66956502;Ekebo;Stockholm;suburb
+68707953;Svedala;Skåne;town
+71565648;Köping;Västmanland;town
+72874229;Tortuna;Västmanland;village
+73809897;Ullanda;Uppsala;hamlet
+73860402;Hagby;Uppsala;hamlet
+73890884;Tibble;Uppsala;hamlet
+73890887;Boda;Uppsala;hamlet
+73896528;Bredsdal;Uppsala;hamlet
+73912590;Sjuntorp;Västra Götaland;village
+73912604;Upphärad;Västra Götaland;village
+75605308;Petersberg;Uppsala;hamlet
+75605312;Kursgård;Uppsala;hamlet
+75605318;Kärsta;Uppsala;village
+75612378;Orresta;Västmanland;village
+75617807;Broby;Uppsala;hamlet
+75621334;Vida;Västmanland;hamlet
+75681497;Ängesta;Västmanland;hamlet
+75681498;Långbo;Västmanland;hamlet
+75728658;Stolpbo;Västmanland;hamlet
+75737246;Myrby;Västmanland;hamlet
+75758132;Tibble;Västmanland;village
+78405031;Korsängsgärdet;Västmanland;suburb
+78405032;Sandgärdet;Västmanland;suburb
+78405035;Ängsgärdet;Västmanland;suburb
+78599913;Båtfors;Västerbotten;village
+80268995;Nynäshamn;Stockholm;town
+80275734;Vaxholm;Stockholm;town
+81095033;Teknikbyn Kopparlunden;Västmanland;suburb
+81095037;Teknikbyn Tegnér;Västmanland;suburb
+81344159;Karlsdal;Västmanland;suburb
+82460041;Långtora;Uppsala;village
+82464919;Håmsta;Uppsala;hamlet
+82465047;Gissle;Uppsala;hamlet
+82474452;Örsundsbro;Uppsala;village
+82758006;Vulcanön;Västra Götaland;locality
+82813385;Knåpet;Västmanland;hamlet
+83239142;Norra Djurgården;Stockholm;suburb
+84484453;Riksskidstadion;Dalarna;Lugnet
+84944815;Årsunda;Gävleborg;village
+86002797;Majorna;Västra Götaland;suburb
+86002798;Slottsskogen;Västra Götaland;suburb
+88790094;Alvesta;Kronoberg;town
+89049549;Freja;Västmanland;suburb
+89090099;Lindholmen;Stockholm;village
+89093406;Frösunda;Stockholm;hamlet
+89690524;Österfärnebo;Gävleborg;village
+89690562;Gysinge;Gävleborg;village
+89690565;Söderfors;Uppsala;village
+89690573;Tierp;Uppsala;town
+89690575;Östhammar;Uppsala;town
+89690577;Älvkarleby;Uppsala;town
+90310866;Djurgården;Stockholm;suburb
+90324795;Ryssby;Kronoberg;village
+90340135;Holmbo;Östergötland;hamlet
+90345242;Kvarnvik;Östergötland;hamlet
+90347882;Västersjön;Östergötland;lake
+90355660;Rumma;Östergötland;hamlet
+90359017;Långgölarna;Östergötland;lake
+90380139;Hjulsbro;Östergötland;suburb
+90384164;Ullstämma;Östergötland;suburb
+90385774;Ekholmen;Östergötland;suburb
+90404106;Falerum;Östergötland;village
+90405833;Åtvidaberg;Östergötland;town
+90419421;Mörby;Stockholm;suburb
+90527086;Ekskogen;Stockholm;village
+91107107;Fällfors Camping;Västerbotten;village
+91107310;Fällfors;Västerbotten;village
+91625239;Klingsta;Stockholm;suburb
+93863582;Fredriksberg;Dalarna;town
+94162341;Ljungstorp;Västra Götaland;hamlet
+94164005;Varnhem;Västra Götaland;village
+95932803;Charlottenberg;Stockholm;suburb
+95933065;Mörbylund;Stockholm;suburb
+97481676;Brunflo;Jämtland;village
+97560095;Åmot;Gävleborg;village
+97571310;Sjösveden;Gävleborg;hamlet
+97913872;Markaryd;Kronoberg;town
+97918380;Åseda;Kronoberg;town
+97943794;Lessebo;Kronoberg;town
+97943797;Hovmantorp;Kronoberg;village
+98005657;Tingsryd;Kronoberg;town
+98102828;Näsåker;Västernorrland;village
+98701132;Bonässund;Västernorrland;village
+98701421;Järved;Västernorrland;village
+102639257;Lyrestad;Västra Götaland;village
+102968966;Hemmesdynge;Skåne;village
+103849115;Hjulsta;Stockholm;suburb
+103850275;Rinkeby;Stockholm;suburb
+103854564;Hallonbergen;Stockholm;suburb
+103951832;Kista;Stockholm;suburb
+106154429;Mälarhöjden;Stockholm;suburb
+107266362;Larsboda;Stockholm;suburb
+107267884;Farsta Strand;Stockholm;suburb
+108478596;Sälgsjön;Gävleborg;village
+108669584;Skärplinge;Uppsala;village
+111915147;Sävsjö;Jönköping;town
+111937980;Vaggeryd;Jönköping;town
+111937982;Skillingaryd;Jönköping;town
+111949834;Gnosjö;Jönköping;town
+111958987;Tranås;Jönköping;town
+111970448;Aneby;Jönköping;town
+112026292;Vagnhärad;Södermanland;village
+112026297;Trosa;Södermanland;town
+112032928;Bålsta;Uppsala;town
+112107902;Hultsfred;Kalmar;town
+112107907;Mariannelund;Jönköping;village
+112159159;Tomelilla;Skåne;town
+112301443;Ödeshög;Östergötland;town
+112442922;Viksjö;Gävleborg;hamlet
+113709444;Jädraås;Gävleborg;village
+115221613;Dalarö;Stockholm;village
+115322374;Sätra;Gävleborg;suburb
+115323401;Andersberg;Gävleborg;suburb
+115324947;Olsbacka;Gävleborg;suburb
+115328380;Fridhem;Gävleborg;suburb
+115328515;Höjersdal;Gävleborg;suburb
+115329422;Sörby;Gävleborg;suburb
+115330183;Hemlingby;Gävleborg;suburb
+115330655;Bomhus;Gävleborg;suburb
+115332232;Brynäs;Gävleborg;suburb
+115332404;Lexe;Gävleborg;suburb
+115334515;Stigslund;Gävleborg;suburb
+122200099;Stora Köpinge;Skåne;hamlet
+122201300;Hammenhög;Skåne;village
+122311951;Hällesås;Västra Götaland;hamlet
+122697276;Eslöv;Skåne;town
+122703072;Höör;Skåne;town
+122713274;Hässleholm;Skåne;town
+122714658;Tyringe;Skåne;village
+122716719;Åstorp;Skåne;town
+122717862;Kvidinge;Skåne;village
+122717916;Klippan;Skåne;town
+122719596;Perstorp;Skåne;town
+122720695;Örkelljunga;Skåne;town
+122723398;Hörby;Skåne;town
+122725384;Kävlinge;Skåne;town
+122728348;Skurup;Skåne;town
+122732762;Bjuv;Skåne;town
+122738499;Broby;Skåne;town
+124273312;Naglarby;Dalarna;village
+124273777;Enbacka;Dalarna;village
+124274703;Solvarbo;Dalarna;village
+124274960;Säter;Dalarna;town
+124275433;Hedemora;Dalarna;town
+124312836;Sävar;Västerbotten;village
+124323049;Forsby;Gävleborg;village
+124324570;Hille;Gävleborg;suburb
+124326758;Bönan;Gävleborg;village
+124340358;Furuvik;Gävleborg;village
+124341320;Skutskär;Uppsala;village
+124345700;Järvsta;Gävleborg;suburb
+124348038;Mårtsbo;Gävleborg;hamlet
+124366885;Järbo;Gävleborg;village
+124376030;Långshyttan;Dalarna;village
+124416425;Horndal;Dalarna;village
+124428700;Södra Åbyggeby;Gävleborg;village
+126363001;Mariehem;Västerbotten;suburb
+126364307;Berghem;Västerbotten;suburb
+128388241;Nydalahöjden;Västerbotten;suburb
+130127874;Malmköping;Södermanland;village
+130148772;Marstrand;Västra Götaland;village
+130174672;Hökerum;Västra Götaland;village
+130175464;Älmestad;Västra Götaland;village
+130193998;Ersmark;Västerbotten;village
+130194004;Ersboda;Västerbotten;suburb
+130198388;Röbäck;Västerbotten;village
+132139334;Östervåla;Västmanland;village
+132458573;Skruv;Kronoberg;village
+132470523;Kosta;Kronoberg;village
+132584418;Torekov;Skåne;village
+133318460;Stora Herrestad;Skåne;village
+135025624;Strömsbro;Gävleborg;suburb
+135085432;Näringen;Gävleborg;suburb
+135095485;Sörby Urfjäll;Gävleborg;suburb
+137215213;Sörfjärden;Gävleborg;village
+138006919;Plintsberg;Dalarna;village
+140709138;Forsbacka;Gävleborg;village
+142686668;Kallhäll;Stockholm;suburb
+142688256;Jakobsberg;Stockholm;suburb
+142688696;Viksjö;Stockholm;suburb
+143790406;Bro;Stockholm;town
+148490448;Bockholmen;Stockholm;island
+148618391;Emmaboda;Kalmar;town
+148977107;Tomtebo;Västerbotten;suburb
+148977314;Ålidhem;Västerbotten;suburb
+148986260;Carlshem;Västerbotten;suburb
+149057199;Brunna;Stockholm;village
+149267947;Lammhult;Kronoberg;village
+149339653;Svenljunga;Västra Götaland;town
+149339656;Tranemo;Västra Götaland;town
+149387900;Hestra;Jönköping;village
+150528634;Kungsängen;Stockholm;village
+150548167;Oslättfors;Gävleborg;hamlet
+151182052;Fiskebäck;Västra Götaland;suburb
+151221636;Haga;Västerbotten;suburb
+151221794;Ön;Västerbotten;suburb
+153179139;Ålidhöjden;Västerbotten;suburb
+153417731;Täfteå;Västerbotten;village
+153457856;Bullmark;Västerbotten;village
+153459808;Bodbyn;Västerbotten;village
+155505157;Kisa;Östergötland;town
+155509450;Mönsterås;Kalmar;town
+155514110;Högsby;Kalmar;town
+155524671;Torsås;Kalmar;town
+155538278;Laholm;Halland;town
+155548160;Onsala;Halland;town
+160747390;Löddeköpinge;Skåne;village
+165194902;Hovås;Västra Götaland;suburb
+165195454;Billdal;Västra Götaland;suburb
+165199150;Askim;Västra Götaland;suburb
+165201423;Guldheden;Västra Götaland;suburb
+165204099;Johanneberg;Västra Götaland;suburb
+165205494;Krokslätt;Västra Götaland;suburb
+165206664;Heden;Västra Götaland;suburb
+165208179;Landala;Västra Götaland;suburb
+165209921;Lorensberg;Västra Götaland;suburb
+165210901;Vasastaden;Västra Götaland;suburb
+165229075;Stampen;Västra Götaland;suburb
+168101028;Hälla;Västerbotten;hamlet
+168213257;Junsele;Västernorrland;village
+168352121;Löderup;Skåne;village
+169137669;Skanssundet;Stockholm;hamlet
+169259690;Eldtomta;Stockholm;hamlet
+169262158;Sibble;Stockholm;village
+171141711;Bergsjön;Västra Götaland;suburb
+171141797;Kortedala;Västra Götaland;suburb
+173859208;Larv;Västra Götaland;village
+173859210;Längjum;Västra Götaland;hamlet
+174742750;Vadstena;Östergötland;town
+175117192;Inom Vallgraven;Västra Götaland;suburb
+175445305;Bremora;Stockholm;village
+175445310;Vårsta;Stockholm;village
+175828354;Partille;Västra Götaland;town
+179023380;Alby;Stockholm;village
+179023385;Hallunda;Stockholm;village
+179691236;Veddesta;Stockholm;suburb
+179782697;Brunna;Stockholm;hamlet
+182954878;Aspa;Södermanland;village
+185841677;Kungens Kurva;Stockholm;suburb
+189258270;Haga;Västra Götaland;suburb
+189258271;Linné;Västra Götaland;suburb
+189264937;Gårdsten;Västra Götaland;suburb
+189264944;Lövgärdet;Västra Götaland;suburb
+189264951;Rannebergen;Västra Götaland;suburb
+191664748;Jönköping;Jönköping;city
+191664752;Huskvarna;Jönköping;town
+192209933;Västerhaninge;Stockholm;town
+192240720;Boo;Stockholm;town
+192257702;Smedjebacken;Dalarna;town
+192270312;Djurås;Dalarna;town
+192270316;Gagnef;Dalarna;village
+192273562;Hallstahammar;Västmanland;town
+192279891;Heby;Västmanland;town
+192284376;Finspång;Östergötland;town
+192285494;Boxholm;Östergötland;town
+192288583;Österbymo;Östergötland;town
+192291021;Bollebygd;Västra Götaland;town
+192294046;Torslanda;Västra Götaland;town
+192296608;Nödinge-Nol;Västra Götaland;town
+193918945;Hjorthagen;Stockholm;suburb
+196417811;Målilla;Kalmar;village
+199276429;Hästbo;Gävleborg;hamlet
+199283791;Svallet;Gävleborg;hamlet
+199284159;Jordåsen;Gävleborg;hamlet
+200991669;Östermalm;Stockholm;suburb
+201001120;Hagaström;Gävleborg;suburb
+201926688;Klevshult;Jönköping;village
+203248006;Påvelund;Västra Götaland;suburb
+204116040;Hässelby;Stockholm;suburb
+205352344;Innertavle;Västerbotten;village
+206125762;Utvalnäs;Gävleborg;hamlet
+206392377;Folkabo;Västra Götaland;village
+206396708;Ekedalen;Västra Götaland;village
+207009086;Våmb;Västra Götaland;suburb
+207552711;Älmsta;Stockholm;village
+207552728;Ortalalund;Stockholm;hamlet
+207558345;Sandviken;Stockholm;hamlet
+207559120;Grisslehamn;Stockholm;village
+207659679;Saxhyttan;Orebro;hamlet
+208522462;Häsbo;Gävleborg;hamlet
+208530533;Katrineberg;Gävleborg;hamlet
+217830581;Trödje;Gävleborg;village
+221606587;Tullinge;Stockholm;village
+222034478;Flora plan;Gävleborg;locality
+224665192;Emådalen;Dalarna;hamlet
+229581133;Stångby kyrkby;Skåne;hamlet
+229764759;Vemdalsskalet;Jämtland;hamlet
+232276933;Björnrike;Jämtland;hamlet
+234864609;Skäcklinge;Stockholm;hamlet
+234864619;Lövholmen;Stockholm;hamlet
+234864625;Storvreten;Stockholm;hamlet
+234864630;Kassmyra;Stockholm;hamlet
+239911904;Storhogna;Jämtland;hamlet
+240807930;Kättbo;Dalarna;hamlet
+241782665;Gothenburg City Airport;Västra Götaland;airport
+243093833;Fisktorget;Blekinge;locality
+243325586;Hammarsvall;Gävleborg;hamlet
+243325938;Delsbo;Gävleborg;village
+243513236;Stångby;Skåne;village
+243877524;Örtofta;Skåne;hamlet
+243891681;Högsätra;Stockholm;suburb
+243899099;Ellös;Västra Götaland;village
+243914274;Stora Levene;Västra Götaland;village
+244428534;Kungshult;Skåne;village
+244464656;Floda By;Dalarna;hamlet
+244464660;Trollebo;Dalarna;hamlet
+244468141;Morjärv;Norrbotten;village
+244518461;Ljusdal;Gävleborg;town
+244825352;Hillesjöstrand;Gävleborg;hamlet
+244890236;Liared;Västra Götaland;village
+245016129;Gribbylund;Stockholm;village
+245016130;Viggbyholm;Stockholm;suburb
+245016292;Näsbypark;Stockholm;suburb
+245016293;Lahäll;Stockholm;suburb
+245016587;Roslags Näsby;Stockholm;suburb
+245016588;Näsbydal;Stockholm;suburb
+245016589;Grindtorp;Stockholm;suburb
+245016899;Ensta;Stockholm;suburb
+245016993;Ella Gård;Stockholm;suburb
+245017168;Hästängen;Stockholm;suburb
+245251514;Dragbergsstugan;Dalarna;hamlet
+245777750;Kungsbäck;Gävleborg;locality
+245778450;Hälleviksstrand;Västra Götaland;village
+245778458;Stocken;Västra Götaland;village
+245778489;Mollösund;Västra Götaland;village
+245778536;Edshultshall;Västra Götaland;village
+245778598;Barrevik;Västra Götaland;village
+245778793;Nösund;Västra Götaland;village
+245779438;Varekil;Västra Götaland;village
+246008181;Åre;Jämtland;town
+246824962;Stora Råby;Skåne;hamlet
+246825046;Esarp;Skåne;hamlet
+246825104;Äspet;Skåne;hamlet
+246956676;Alderholmen;Gävleborg;suburb
+246956677;Villastan;Gävleborg;suburb
+246956678;Södertull;Gävleborg;suburb
+246956679;Hemsta;Gävleborg;suburb
+247022390;Genarp;Skåne;village
+247053339;Österskär;Stockholm;village
+247159876;Vedum;Västra Götaland;village
+247304984;Duvkullen;Östergötland;suburb
+247305237;Johannelund;Östergötland;suburb
+247457567;Häggum;Västra Götaland;hamlet
+247677921;Täby Kyrkby;Stockholm;village
+247681778;Ella;Stockholm;suburb
+247681779;Erikslund;Stockholm;suburb
+247682003;Skarpäng;Stockholm;suburb
+247685856;Skärsätra;Stockholm;suburb
+247789947;Sofiehem;Västerbotten;suburb
+247791200;Carlslid;Västerbotten;suburb
+247791213;Gimonäs;Västerbotten;suburb
+247845468;Fridhem;Västerbotten;suburb
+247875493;Marieberg;Västerbotten;suburb
+247875515;Mariedal;Västerbotten;suburb
+247875541;Sandahöjd;Västerbotten;suburb
+247875614;Sandbacka;Västerbotten;suburb
+247876084;Tavelsjö;Västerbotten;village
+247876149;Yttre Långviken;Västerbotten;hamlet
+247876632;Hissjö;Västerbotten;village
+247954257;Ljung;Västra Götaland;village
+247954258;Annelund;Västra Götaland;village
+248008676;Uvberget;Dalarna;hamlet
+248008679;Storsten;Dalarna;village
+248008681;Kråkänget;Dalarna;village
+248008685;Ornäs;Dalarna;village
+248008693;Djupsänget;Dalarna;village
+248008808;Tomnäs;Dalarna;village
+248052970;Skärsätra;Stockholm;suburb
+248087933;Rönninge By;Stockholm;hamlet
+248460761;Östra Grevie;Skåne;village
+248473846;Björkö;Västra Götaland;island
+248474406;Rörö;Västra Götaland;island
+248474436;Hyppeln;Västra Götaland;island
+248475443;Öckerö;Västra Götaland;island
+248475670;Hälsö;Västra Götaland;island
+248475767;Hönö;Västra Götaland;island
+248475852;Grötö;Västra Götaland;island
+248475896;Kalvsund;Västra Götaland;island
+248476040;Stora Varholmen;Västra Götaland;island
+248476171;Lilla Varholmen;Västra Götaland;island
+248476557;Fotö;Västra Götaland;island
+248551399;Växtholm;Västerbotten;hamlet
+248564053;Sollebrunn;Västra Götaland;village
+248720967;Jakriborg;Skåne;suburb
+248813566;Lunnarp;Skåne;hamlet
+248813569;Getinge;Skåne;hamlet
+248813571;Östra Odarslöv;Skåne;hamlet
+248906395;Uggleviken;Stockholm;locality
+249059747;Ramstalund;Uppsala;village
+249074234;Rundvik;Västerbotten;village
+249074246;Lögdeå;Västerbotten;village
+249074247;Mo;Västerbotten;village
+249074260;Ava;Västerbotten;village
+249074310;Aspeå;Västerbotten;village
+249076009;Nyåkersviken;Västerbotten;locality
+249076147;Avafjärden;Västerbotten;locality
+249081477;Olofsfors;Västerbotten;village
+249099925;Örsbäck;Västerbotten;hamlet
+249099983;Gräsmyr;Västerbotten;village
+249100697;Yttersjö;Västerbotten;village
+249100710;Djäkneböle;Västerbotten;hamlet
+249100954;Hörnefors;Västerbotten;village
+249105724;Husby;Stockholm;suburb
+249163982;Rimbo;Stockholm;village
+249165313;Kårsta;Stockholm;village
+249165760;Karby;Stockholm;village
+249281150;Moliden;Västernorrland;village
+249282163;Köpmanholmen;Västernorrland;village
+249282164;Bjästa;Västernorrland;village
+249282228;Svartby;Västernorrland;suburb
+249282342;Arnäsvall;Västernorrland;village
+249282356;Högland;Västernorrland;suburb
+249282372;Valhalla;Västernorrland;suburb
+249282822;Dekarsön;Västernorrland;island
+249323197;Lödöse;Västra Götaland;village
+249323198;Göta;Västra Götaland;village
+249390600;Klinta;Skåne;hamlet
+249560069;Rosenlund;Jönköping;suburb
+249612720;Börje;Uppsala;village
+249793735;Jung;Västra Götaland;village
+249801609;Vallkärra;Skåne;village
+250083356;Bastuholmen;Stockholm;island
+250084795;Svalnäsholmen;Stockholm;island
+250085709;Stora Skraggen;Stockholm;island
+250090517;Lindholmen;Stockholm;island
+250091492;Törnön;Stockholm;island
+250091606;Äggholmen;Stockholm;island
+250092011;Tiselholmen;Stockholm;island
+250092202;Storholmen;Stockholm;island
+250092330;Tallholmen;Stockholm;island
+250092907;Strömsö;Stockholm;island
+250098148;Kågeröd;Skåne;village
+250172857;Nusnäs;Dalarna;village
+250185492;Lilla Bjurum;Västra Götaland;hamlet
+250185505;Svenstorp;Västra Götaland;hamlet
+250186057;Eggby;Västra Götaland;village
+250379470;Råslätt;Jönköping;suburb
+250379587;Ekhagen;Jönköping;suburb
+250379602;Österängen;Jönköping;suburb
+250379665;Öxnehaga;Jönköping;suburb
+250409655;Eldris;Dalarna;hamlet
+250497679;Sälen;Dalarna;village
+250497681;Berga;Dalarna;hamlet
+250506897;Mångsbodarna;Dalarna;hamlet
+250512376;Risberg;Dalarna;hamlet
+250515232;Evertsberg;Dalarna;village
+250524071;Åsen;Dalarna;hamlet
+250530582;Dysbodarna;Dalarna;hamlet
+250544479;Sjurby;Dalarna;hamlet
+250544480;Björnarvet;Dalarna;hamlet
+250544839;Oxberg;Dalarna;hamlet
+250548652;Hökberg;Dalarna;hamlet
+250591360;Bergkvara;Kalmar;village
+250600843;Rödeby;Blekinge;village
+250600844;Fågelmara;Blekinge;village
+250735119;Lilla Amundö;Västra Götaland;island
+250792543;Triangeln;Uppsala;suburb
+250792604;Håga;Uppsala;village
+250792780;Norra Norby;Uppsala;suburb
+250792782;Södra Norby;Uppsala;suburb
+250885707;Bramstorp;Kronoberg;hamlet
+250887455;Nöbbele;Kronoberg;village
+250888749;Linneryd;Kronoberg;village
+250892388;Älmeboda;Kronoberg;hamlet
+250892389;Rävemåla;Kronoberg;village
+250902256;Eringsboda;Blekinge;village
+250902422;Tving;Blekinge;village
+250902503;Fridlevstad;Blekinge;village
+250998299;Fridafors;Kronoberg;village
+251051599;Lönsboda;Skåne;village
+251058904;Tollarp;Skåne;village
+251073123;Virserum;Kalmar;town
+251100930;Hultanäs;Jönköping;hamlet
+251100937;Nye;Jönköping;village
+251103241;Grönskåra;Kalmar;village
+251113223;Vika;Dalarna;village
+251113391;Österbo;Dalarna;hamlet
+251113477;Östantjärna;Dalarna;hamlet
+251113574;Sörbo;Dalarna;hamlet
+251113578;Nyhyttan;Dalarna;hamlet
+251113579;Vika Strand;Dalarna;village
+251113694;Staberg;Dalarna;hamlet
+251113696;Kniva;Dalarna;village
+251113721;Hosjö;Dalarna;suburb
+251144146;Torna Hällestad;Skåne;village
+251216330;Södra Vi;Kalmar;village
+251295429;Mikaelgården;Stockholm;hamlet
+251295510;Brogärde;Stockholm;hamlet
+251303044;Kråksmåla;Kalmar;hamlet
+251303413;Bäckebo;Kalmar;village
+251303414;Alsterbro;Kalmar;village
+251303481;Balebo;Kalmar;hamlet
+251503435;Östberga;Stockholm;suburb
+252236128;Kyttinge;Stockholm;suburb
+252273207;Piggaboda;Kronoberg;hamlet
+252316384;Lekåsa;Västra Götaland;hamlet
+252332508;Fåglum;Västra Götaland;hamlet
+252332533;Gendalen;Västra Götaland;hamlet
+252332534;Stora Mellby;Västra Götaland;village
+252333618;Essunga;Västra Götaland;hamlet
+252333619;Essunga;Västra Götaland;hamlet
+252457562;Huvudsta;Stockholm;suburb
+252571362;Näsinge;Västra Götaland;hamlet
+252588282;Håvedalen;Västra Götaland;hamlet
+252610691;Habo Ljung;Skåne;hamlet
+252614854;Fjelie;Skåne;hamlet
+252620767;Föllinge;Jämtland;village
+252620771;Laxviken;Jämtland;village
+252641501;Rusksele;Västerbotten;village
+252641502;Björksele;Västerbotten;village
+252641786;Åmsele;Västerbotten;village
+252644263;Boliden;Västerbotten;town
+252649950;Burträsk;Västerbotten;village
+252650382;Bygdsiljum;Västerbotten;village
+252658692;Segersjö;Stockholm;hamlet
+253004462;Kårböle;Gävleborg;village
+253017321;Tjörn;Västra Götaland;island
+253017420;Orust;Västra Götaland;island
+253017621;Torsö;Västra Götaland;island
+253017854;Brommö;Västra Götaland;island
+253017935;Kållandsö;Västra Götaland;island
+253017977;Visingsö;Jönköping;island
+253018008;Sollerön;Dalarna;village
+253018059;Frösön;Jämtland;island
+253082067;Fårö;Gotland;island
+253082814;Gotska sandön;Gotland;island
+253139938;Bögs Gård;Stockholm;hamlet
+253143251;Viby;Stockholm;village
+253234850;Klostergården;Skåne;suburb
+253234851;Väster;Skåne;suburb
+253234853;Värpinge;Skåne;suburb
+253234854;Gunnesbo;Skåne;suburb
+253234855;Kobjer;Skåne;suburb
+253234856;Nöbbelöv;Skåne;suburb
+253234858;Norra Fäladen;Skåne;suburb
+253234861;Möllevången;Skåne;suburb
+253234862;Östra Torn / Mårtens fälad;Skåne;suburb
+253234863;Linero;Skåne;suburb
+253234864;Gastelyckan;Skåne;suburb
+253234866;Järnåkra-Nilstorp;Skåne;suburb
+253234868;Tuna;Skåne;suburb
+253234869;Pilsåker;Skåne;suburb
+253263578;Broängen;Stockholm;hamlet
+253263650;Uttran;Stockholm;hamlet
+253268263;Håstad;Skåne;hamlet
+253346203;Långnäs;Stockholm;locality
+253348554;Kristinehäll;Stockholm;hamlet
+253348665;Wijk;Stockholm;locality
+253349450;Tomtebo;Stockholm;hamlet
+253349589;Karlsro;Stockholm;locality
+253361965;Alnarp;Skåne;village
+253368816;Flädie;Skåne;village
+253415251;Odarslöv;Skåne;hamlet
+253417157;Vallkärra stationsby;Skåne;hamlet
+253417188;Väggarp;Skåne;village
+253419310;Furulund;Skåne;village
+253419311;Stävie;Skåne;hamlet
+253479316;Timmersdala;Västra Götaland;village
+253487303;Lerdala;Västra Götaland;village
+253498360;Ramsön;Västernorrland;island
+253514805;Angarn;Stockholm;hamlet
+253758455;Marstrandsön;Västra Götaland;island
+253759256;Koön;Västra Götaland;island
+253971740;Ortala;Stockholm;hamlet
+253979217;Burlövs egnahem;Skåne;village
+253979333;Burlövs by;Skåne;hamlet
+254041816;Vrigstad;Jönköping;town
+254141719;Stora Uppåkra;Skåne;hamlet
+254141720;Lilla Uppåkra;Skåne;hamlet
+254141721;Tirup;Skåne;hamlet
+254171738;Malö;Halland;island
+254171741;Nidingen;Halland;island
+254307797;Stenkulla;Kalmar;hamlet
+254308013;Karrum;Kalmar;hamlet
+254308954;Kiltebo;Kalmar;hamlet
+254309506;Skaftekulla;Kalmar;hamlet
+254309534;Almansrum;Kalmar;hamlet
+254309622;Hult;Kalmar;hamlet
+254309665;Odensvi;Kalmar;village
+254327719;Hardeberga;Skåne;hamlet
+254327753;Rögle;Skåne;hamlet
+254418058;Årsta;Stockholm;town
+254512080;Skatteberga;Skåne;hamlet
+254513110;Silvåkra;Skåne;hamlet
+254513111;Revingeby;Skåne;village
+254513151;Tvedöra;Skåne;hamlet
+254666342;Abrahamsberg;Stockholm;suburb
+254668635;Olovslund;Stockholm;suburb
+254700827;Nockebyhov;Stockholm;suburb
+254718626;Malmen;Stockholm;hamlet
+254738014;Strömdal;Stockholm;hamlet
+254741656;Öved;Skåne;hamlet
+254745542;Lunda;Stockholm;hamlet
+254748540;Björka;Skåne;hamlet
+254750033;Vomb;Skåne;hamlet
+254757058;Harlösa;Skåne;village
+254865422;Salem;Stockholm;town
+254865426;Rönninge;Stockholm;suburb
+254913325;Axamo;Jönköping;village
+254913518;Lomsjö;Jönköping;hamlet
+254961135;Sjöstorp;Skåne;hamlet
+254985855;Knösen;Skåne;locality
+254987065;Lilla Hammar;Skåne;hamlet
+255010746;Kungsholmen;Blekinge;island
+255010748;Tjurkö;Blekinge;island
+255033504;Hökarängen;Stockholm;suburb
+255033508;Gubbängen;Stockholm;suburb
+255033535;Fagersjö;Stockholm;suburb
+255033539;Farsta;Stockholm;suburb
+255113184;Hammarby;Orebro;village
+255113185;Långforsen;Orebro;village
+255113186;Djupedal;Orebro;village
+255113187;Järle kvarn;Orebro;village
+255113196;Hyttfallet;Orebro;village
+255113197;Yxe;Orebro;village
+255141330;Ellinge;Skåne;hamlet
+255148934;Gårdstånga;Skåne;village
+255305901;Pungpinan;Stockholm;suburb
+255457846;Ljungbyhed;Skåne;village
+255457977;Riseberga;Skåne;village
+255458225;Vesmanstorp;Skåne;hamlet
+255589606;Skålhamra;Stockholm;hamlet
+255590211;Hagby;Stockholm;hamlet
+255861964;Ås;Jönköping;village
+255866954;Femsjö;Halland;village
+255880100;Tylösand;Halland;village
+255898916;Flyinge;Skåne;village
+255900566;Holmby;Skåne;hamlet
+255902785;Löberöd;Skåne;village
+255906869;Västerstad;Skåne;hamlet
+255906870;Östraby;Skåne;hamlet
+255909002;Flyingeby;Skåne;hamlet
+256093965;Tallkrogen;Stockholm;suburb
+256119147;Jobsbo;Dalarna;village
+256119148;Getbo;Dalarna;village
+256119150;Källdalen;Dalarna;village
+256119580;Pollackssund;Dalarna;hamlet
+256119581;Ulfshyttan;Dalarna;village
+256119632;Halvarsgårdarna;Dalarna;village
+256119823;Sellnäs;Dalarna;hamlet
+256119861;Koppslahyttan;Dalarna;hamlet
+256121897;Åtorp;Södermanland;hamlet
+256122004;Ålberga;Södermanland;village
+256145011;Halmstads flygplats;Halland;airport
+256156369;Åre Björnen;Jämtland;village
+256223073;Storlien;Jämtland;village
+256330522;Unnaryd;Halland;village
+256335719;Odensjö;Kronoberg;hamlet
+256335720;Västra Vret;Kronoberg;hamlet
+256335722;Lidhult;Kronoberg;village
+256335724;Åsen;Kronoberg;hamlet
+256336116;Simlångsdalen;Halland;village
+256336118;Mahult;Halland;hamlet
+256337430;Marbäck;Halland;hamlet
+256430884;Djurslöv;Skåne;hamlet
+256430912;Särslöv;Skåne;hamlet
+256436195;Vittaryd;Kronoberg;village
+256436196;Dörarp;Kronoberg;hamlet
+256436793;Hillerstorp;Jönköping;village
+256440771;Gällstad;Västra Götaland;village
+256440777;Ljungsarp;Västra Götaland;village
+256702759;Lur;Västra Götaland;hamlet
+256764792;Borgeby;Skåne;village
+256771197;Barsebäckshamn;Skåne;village
+256834419;Rommeholen;Dalarna;village
+256837707;Bäck;Gävleborg;hamlet
+256899217;Berg;Stockholm;village
+256947375;Söderås;Dalarna;hamlet
+256955715;Sundborn;Dalarna;village
+256978910;Grevie;Skåne;hamlet
+256978948;Mölleberga;Skåne;hamlet
+256978963;Önsvala;Skåne;hamlet
+256979013;Bara;Skåne;village
+257103296;Klågerup;Skåne;village
+257107482;Holmeja;Skåne;village
+257107556;Hyby;Skåne;hamlet
+257267633;Sandbäck;Jönköping;hamlet
+257312089;Sandudden;Stockholm;hamlet
+257365213;Norrby;Stockholm;hamlet
+257368245;Sluts hage;Stockholm;hamlet
+257371345;Sluts brygga;Stockholm;locality
+257377343;Adelsö;Stockholm;village
+257378023;Väsby;Stockholm;locality
+257383424;Ekeby;Stockholm;village
+257393153;Dalby;Uppsala;village
+257396992;Gullåkra by;Skåne;hamlet
+257396994;Ädelholm;Skåne;hamlet
+257404252;Tottarp;Skåne;hamlet
+257414644;Hångsdala;Västra Götaland;hamlet
+257504111;Prästvik;Stockholm;hamlet
+257504437;Kärsön;Stockholm;island
+257504451;Lovön;Stockholm;island
+257505797;Ekerö;Stockholm;island
+257934506;Lilla Harrie;Skåne;village
+257938618;Stora Harrie;Skåne;hamlet
+257940420;Remmarlöv;Skåne;hamlet
+257940421;Fogdarp;Skåne;hamlet
+257940423;Osbyholm;Skåne;village
+257947518;Råby;Skåne;hamlet
+257947520;Önneköp;Skåne;hamlet
+258100491;Fröjered;Västra Götaland;village
+258174703;Lilla Lomma;Skåne;village
+258195518;Lugnås;Västra Götaland;village
+258209505;Kinne-Kleva;Västra Götaland;hamlet
+258313392;Järvastaden;Stockholm;suburb
+258321936;Killingtorp;Stockholm;locality
+258365379;Dösjebro;Skåne;village
+258378106;Oppgrden;Stockholm;hamlet
+258393023;Främmestad;Västra Götaland;village
+258402803;Bäreberg;Västra Götaland;hamlet
+258408110;Järavallen;Skåne;village
+258408142;Barsebäck;Skåne;village
+258408154;Hofterup;Skåne;village
+258408188;Sandskogen;Skåne;village
+258416379;Tumleberg;Västra Götaland;hamlet
+258585517;Kyrkheddinge;Skåne;village
+258586384;Dalsjöfors;Västra Götaland;village
+258597119;Garpenberg;Dalarna;village
+258750128;Stora Bjällerup;Skåne;hamlet
+258764798;Stora Rödde;Skåne;hamlet
+258813400;Vismarlöv;Skåne;hamlet
+258916656;Rydbo;Stockholm;village
+258937425;Stehag;Skåne;village
+258940210;Stockamöllan;Skåne;village
+258940249;Billinge;Skåne;village
+258940300;Röstånga;Skåne;village
+258940477;Övad;Skåne;hamlet
+258954738;Stora Hammar;Skåne;hamlet
+258954742;Räng;Skåne;hamlet
+258954748;Kämpinge;Skåne;suburb
+258954872;Fredshög;Skåne;hamlet
+258955225;Kurland;Skåne;hamlet
+258956193;Maglarp;Skåne;hamlet
+258956195;Skegrie;Skåne;village
+258956227;Västra Värlinge;Skåne;hamlet
+258956228;Bodarp;Skåne;hamlet
+258956229;Västra Tommarp;Skåne;village
+258956319;Hammarlöv;Skåne;hamlet
+258956320;Västra Vemmerlöv;Skåne;hamlet
+258976046;Stora Karlsö;Gotland;island
+258976062;Lilla Karlsö;Gotland;island
+259040522;Broslätt;Västra Götaland;hamlet
+259684652;Hurva;Skåne;village
+259684783;Östra Strö;Skåne;hamlet
+259862684;Skarhult;Skåne;hamlet
+259867492;Stehags kyrkby;Skåne;hamlet
+259871369;Marieholm;Skåne;village
+259871370;Teckomatorp;Skåne;village
+260007682;Sannarp;Halland;suburb
+260008035;Nyhem;Halland;suburb
+260008348;Andersberg;Halland;suburb
+260008349;Linehed;Halland;suburb
+260008350;Gustavsfält;Halland;suburb
+260008351;Nyatorp;Halland;suburb
+260009974;Frennarp;Halland;suburb
+260009976;Furet;Halland;suburb
+260009977;Gamletull;Halland;suburb
+260009979;Östra Förstaden;Halland;suburb
+260009981;Söder;Halland;suburb
+260009982;Norr;Halland;suburb
+260009984;Väster;Halland;suburb
+260009985;Slottsjorden;Halland;suburb
+260010695;Sibirien;Halland;suburb
+260010696;Kärleken;Halland;suburb
+260012804;Norra Utmarken;Halland;suburb
+260012808;Fyllinge;Halland;suburb
+260012812;Östra Stranden;Halland;suburb
+260017221;Mickedala;Halland;suburb
+260017222;Rotorp;Halland;suburb
+260017304;Snöstorp;Halland;suburb
+260017305;Vallås;Halland;suburb
+260078867;Hököpinge;Skåne;village
+260088035;Glostorp;Skåne;hamlet
+260094974;Södra Håslöv;Skåne;hamlet
+260094975;Norra Håslöv;Skåne;hamlet
+260118904;Siggesta;Stockholm;locality
+260121705;Lillsved;Stockholm;hamlet
+260122540;Stenslätten;Stockholm;hamlet
+260125151;Skarpö;Stockholm;hamlet
+260125462;Rindö;Stockholm;hamlet
+260173123;Fuglie;Skåne;hamlet
+260173124;Steglarp;Skåne;hamlet
+260204882;Västra Ingelstad;Skåne;village
+260205005;Västra Kärrstorp;Skåne;hamlet
+260205006;Hyltarp;Skåne;hamlet
+260205013;Möllevången;Skåne;hamlet
+260278918;Lagan;Kronoberg;village
+260287599;Grimsås;Västra Götaland;village
+260295437;Marbäck;Västra Götaland;village
+260295542;Torsbo;Västra Götaland;hamlet
+260295620;Börstig;Västra Götaland;hamlet
+260351005;Sköndal;Stockholm;suburb
+260351430;Skarpnäck;Stockholm;suburb
+260431973;Fisksätra;Stockholm;village
+260545602;Brösta;Västernorrland;suburb
+261122939;Havängs sommarby;Skåne;hamlet
+261122943;Vitemölla;Skåne;village
+261122944;Kivik;Skåne;village
+261122946;Vik;Skåne;village
+261122948;Knäbäckshusen;Skåne;hamlet
+261122950;Baskemölla;Skåne;village
+261125759;Skälby;Stockholm;suburb
+261134047;Svinaberga;Skåne;hamlet
+261134053;Södra Mellby;Skåne;village
+261182461;Vitaby;Skåne;village
+261182464;Bästekille;Skåne;hamlet
+261197209;Lunnarp;Skåne;village
+261197211;Smedstorp;Skåne;village
+261197215;Gärsnäs;Skåne;village
+261197216;Östra Tommarp;Skåne;village
+261197221;Järrestad;Skåne;village
+261201810;Onslunda;Skåne;village
+261201969;Anklam;Skåne;hamlet
+261201973;Skåne-Tranås;Skåne;village
+261201974;Äsperöd;Skåne;village
+261201977;Vanstad;Skåne;village
+261212171;Sövestad;Skåne;village
+261212174;Skårby;Skåne;hamlet
+261212175;Rögla;Skåne;hamlet
+261641961;Våmhus;Dalarna;village
+261642312;Bonäs;Dalarna;village
+261642434;Östnor;Dalarna;village
+261650536;Vattnäs;Dalarna;village
+261650599;Selja;Dalarna;village
+261650725;Läde;Dalarna;hamlet
+261660405;Gesunda;Dalarna;village
+261660937;Färnäs;Dalarna;village
+261661743;Garsås;Dalarna;hamlet
+261661974;Venjan;Dalarna;village
+261662069;Öje;Dalarna;hamlet
+261756046;Stöten;Dalarna;hamlet
+261762917;Transtrand;Dalarna;village
+261763063;Fiskarheden;Dalarna;hamlet
+261765688;Västermyckeläng;Dalarna;village
+261765959;Väsa;Dalarna;village
+261766357;Garberg;Dalarna;hamlet
+261767701;Gopshus;Dalarna;hamlet
+261768019;Blyberg;Dalarna;hamlet
+261963809;Bergkarlås;Dalarna;hamlet
+262174325;Blentarp;Skåne;village
+262174420;Knickarp;Skåne;hamlet
+262185953;Sidensjö;Västernorrland;village
+262189093;Äskilt;Halland;hamlet
+262189094;Bygget;Halland;hamlet
+262192733;Östra Vret;Halland;hamlet
+262308749;Ursvik;Stockholm;suburb
+262313510;Ärvinge;Stockholm;suburb
+262380883;Oltorp;Västra Götaland;hamlet
+262455428;Husby gård;Stockholm;locality
+262460158;Bredaryd;Jönköping;village
+262523664;Kronåsen;Stockholm;locality
+262539678;Gessie;Skåne;hamlet
+262539709;Gessie villastad;Skåne;village
+262544630;Vikmanshyttan;Dalarna;village
+262550211;Klagshamn;Skåne;village
+262554862;Lockarp;Skåne;village
+262554934;Oxie;Skåne;suburb
+262554935;Kristineberg;Skåne;village
+262554937;Käglinge;Skåne;village
+262559916;Östra Kattarp;Skåne;hamlet
+262559927;Södra Sallerup;Skåne;hamlet
+262619681;Tensta;Stockholm;suburb
+262771379;Norra Ritorp;Stockholm;suburb
+262854796;Infra City;Stockholm;suburb
+262854803;Infra City Väst;Stockholm;suburb
+262887851;Vikhög;Skåne;hamlet
+262887853;Hög;Skåne;hamlet
+262898099;Emtunga;Västra Götaland;village
+262898404;Mossbrott;Västra Götaland;locality
+262898827;Fyrunga;Västra Götaland;hamlet
+262901150;Östra Tunhem;Västra Götaland;hamlet
+263223401;Bjertorp;Västra Götaland;hamlet
+263223402;Stora Hov;Västra Götaland;hamlet
+263223403;Badene;Västra Götaland;hamlet
+263237144;Hyngelsböle;Västerbotten;hamlet
+263237887;Trehörningsjö;Västernorrland;village
+263343344;Skirebo;Jönköping;hamlet
+263343422;Krabberyd;Jönköping;hamlet
+263343594;Domnaryd;Västra Götaland;hamlet
+263343738;Tornaryd;Västra Götaland;hamlet
+263344108;Svinhaga;Jönköping;hamlet
+263344270;Algutseryd;Jönköping;hamlet
+263344494;Flaskebo;Jönköping;hamlet
+263345202;Sjövik;Jönköping;hamlet
+263345553;Klerebo;Västra Götaland;hamlet
+263347662;Karmeshult;Jönköping;hamlet
+263347756;Fredstorp;Jönköping;hamlet
+263347885;Furen;Jönköping;hamlet
+263348640;Hedenstorp;Jönköping;suburb
+263348839;Västersjön;Jönköping;village
+263352569;Hallbystugan;Jönköping;hamlet
+263358259;Drösphult;Jönköping;hamlet
+263358462;Tranebo;Jönköping;hamlet
+263744557;Pampas Marina;Stockholm;locality
+263843410;Åled;Halland;village
+263851040;Sefsered;Halland;hamlet
+263852097;Knalleberg;Halland;hamlet
+263852195;Bökö;Kronoberg;hamlet
+263895347;Gökhem;Västra Götaland;hamlet
+263906317;Sennan;Halland;village
+263908192;Skavböke;Halland;hamlet
+263909447;Ryaberg;Halland;hamlet
+263913408;Loftsgård;Kronoberg;hamlet
+263913410;Skrinhult;Kronoberg;hamlet
+263913411;Hult;Kronoberg;hamlet
+263913536;Hyltan;Kronoberg;hamlet
+263913537;Övra Röshult;Kronoberg;hamlet
+263914229;Röinge;Halland;hamlet
+264049611;Fresta;Stockholm;suburb
+264126498;Krutmöllan;Skåne;hamlet
+264472639;Gamla staden;Östergötland;suburb
+264472681;Östantill;Östergötland;suburb
+264472804;Saltängen;Östergötland;suburb
+264472834;Sylten;Östergötland;suburb
+264472856;Oxelbergen;Östergötland;suburb
+264472993;Ljura;Östergötland;suburb
+264473137;Söderstaden;Östergötland;suburb
+264473186;Klingsberg;Östergötland;suburb
+264473229;Såpkullen;Östergötland;suburb
+264473231;Ektorp;Östergötland;suburb
+264473252;Kneippen;Östergötland;suburb
+264473609;Berget;Östergötland;suburb
+264473618;Vilbergen;Östergötland;suburb
+264473697;Hageby;Östergötland;suburb
+264473715;Lindö;Östergötland;suburb
+264473733;Marielund;Östergötland;suburb
+264473749;Lagerlunda;Östergötland;suburb
+264473753;Butängen;Östergötland;suburb
+264473849;Haga;Östergötland;suburb
+264473850;Enebymo;Östergötland;suburb
+264473900;Pryssgården;Östergötland;suburb
+264473951;Himmelstalund;Östergötland;suburb
+264474106;Klockaretorpet;Östergötland;suburb
+264474165;Skarphagen;Östergötland;suburb
+264474501;Ingelsta;Östergötland;suburb
+264474609;Slottshagen;Östergötland;suburb
+264474715;Händelö;Östergötland;suburb
+264474786;Vrinnevi;Östergötland;suburb
+264474848;Navestad;Östergötland;suburb
+264474882;Smedby;Östergötland;suburb
+264474922;Brånnestad;Östergötland;suburb
+264484780;Borga kvarn;Västra Götaland;hamlet
+264530443;Märsön;Uppsala;islet
+264531184;Adelsö;Stockholm;island
+264531193;Björkö;Stockholm;island
+264606762;Skogs-Tibble;Uppsala;village
+264606872;Åland;Uppsala;hamlet
+264609577;Vislanda;Kronoberg;village
+264610953;Eneryda;Kronoberg;village
+264611304;Liatorp;Kronoberg;village
+264619329;Strömsnäsbruk;Kronoberg;village
+264620173;Delary;Kronoberg;village
+264620655;Traryd;Kronoberg;village
+264622427;Angelstad;Kronoberg;village
+264622911;Kånna;Kronoberg;village
+264677050;Fröslida;Halland;hamlet
+264682057;Håknaböke;Halland;hamlet
+264683222;Hallaböke;Halland;hamlet
+264684795;Rågsved;Stockholm;suburb
+264684864;Bandhagen;Stockholm;suburb
+264684986;Svedmyra;Stockholm;suburb
+264685008;Orhem;Stockholm;suburb
+264685231;Flaten;Stockholm;suburb
+264685273;Bagarmossen;Stockholm;suburb
+264685291;Enskede;Stockholm;suburb
+264713198;Brandstorp;Västra Götaland;village
+264736718;Heberg;Halland;village
+264739932;Slöinge;Halland;village
+264741897;Getinge;Halland;village
+264794046;Skeen;Kronoberg;hamlet
+264845505;Virestad;Kronoberg;village
+265482672;Knislinge;Skåne;village
+265637288;Minnesberg;Skåne;hamlet
+265637293;Alstad;Skåne;village
+265648042;Kyrkoköpinge;Skåne;hamlet
+265650813;Mellanköpinge;Skåne;hamlet
+265650886;Gylle;Skåne;hamlet
+265698674;Ljungdalen;Jämtland;village
+265698855;Storsjö;Jämtland;village
+265702040;Ska°lan;Jämtland;village
+266034117;Källeryd;Västra Götaland;hamlet
+266034118;Stenseke;Västra Götaland;locality
+266035490;Fåglavik;Västra Götaland;hamlet
+266096588;Ekorrbaecken;Jämtland;locality
+266128181;Tandafallet;Jämtland;locality
+266265966;Arholma;Stockholm;island
+266298277;Helenelund;Stockholm;suburb
+266412795;Norra Lundby;Västra Götaland;hamlet
+266557415;Västra Hoby;Skåne;hamlet
+266557867;Södervidinge;Skåne;hamlet
+266559064;Torrlösa;Skåne;hamlet
+266559071;Svalöv;Skåne;town
+266559072;Norrvidinge;Skåne;hamlet
+266559077;Norra Skrävlinge;Skåne;hamlet
+266561008;Billeberga;Skåne;village
+266561009;Tirup;Skåne;hamlet
+266562631;Annelöv;Skåne;village
+266677124;Nybo;Skåne;hamlet
+266677126;Ålstorp;Skåne;village
+266677130;Västra Karaby;Skåne;hamlet
+266679091;Kälvesta;Stockholm;suburb
+266715339;Älghult;Kronoberg;hamlet
+266744238;Vinsta;Stockholm;suburb
+266744575;Hässelby Villastad;Stockholm;suburb
+266746006;Råcksta;Stockholm;suburb
+266746126;Vällingby;Stockholm;suburb
+266746222;Blackeberg;Stockholm;suburb
+266746566;Norra Ängby;Stockholm;suburb
+266746584;Södra Ängby;Stockholm;suburb
+266747081;Nälsta;Stockholm;suburb
+266789754;Hersby;Stockholm;suburb
+266840891;Järanäs;Halland;hamlet
+266840895;Almesjö;Halland;hamlet
+266840897;Färgaryd;Halland;village
+266865294;Rävlanda;Västra Götaland;village
+266865683;Hindås;Västra Götaland;village
+266874941;Alboga;Västra Götaland;hamlet
+266877483;Fristad;Västra Götaland;village
+266878942;Virshult;Halland;hamlet
+266878943;Barkås;Halland;hamlet
+266880914;Fröböke;Halland;hamlet
+266880915;Mjälahult;Halland;hamlet
+266884237;Rydöbruk;Halland;village
+266884265;Sandared;Västra Götaland;village
+266884470;Backabo;Västra Götaland;hamlet
+266884721;Bredared;Västra Götaland;village
+266886555;Torup;Halland;village
+266888263;Borgstena;Västra Götaland;village
+266892444;Od;Västra Götaland;hamlet
+266893366;Ödenäs;Västra Götaland;hamlet
+267017892;Nyebro;Halland;hamlet
+267113299;Alstermo;Kronoberg;hamlet
+267171629;Rydsnäs;Östergötland;village
+267171849;Anneberg;Jönköping;village
+267171850;Solberga;Jönköping;village
+267175053;Lekeryd;Jönköping;village
+267175247;Sund;Jönköping;hamlet
+267176903;Helås;Västra Götaland;hamlet
+267257770;Bergshyddan;Stockholm;hamlet
+267409719;Ullared;Halland;village
+267426100;Brinkebergskulle;Västra Götaland;locality
+267430213;Flo klev;Västra Götaland;hamlet
+267430217;Flo;Västra Götaland;hamlet
+267430430;Forshall;Västra Götaland;hamlet
+267432639;Arentorp;Västra Götaland;village
+267432640;Salstad;Västra Götaland;hamlet
+267432641;Fridhem;Västra Götaland;hamlet
+267432869;Möllentorp;Västra Götaland;hamlet
+267432870;Önum;Västra Götaland;hamlet
+267711822;Tånebro;Skåne;hamlet
+267730368;Nybrostrand;Skåne;village
+267730606;Ingelstorp;Skåne;hamlet
+267731256;Borrby;Skåne;village
+267733592;Östra Hoby;Skåne;village
+267736358;Maglehem;Skåne;hamlet
+267737446;Olseröd;Skåne;hamlet
+267761807;Rinkaby;Skåne;village
+267764534;Viby;Skåne;village
+267771577;Norra Åsum;Skåne;village
+267771736;Gärds-Köpinge;Skåne;village
+267777273;Lyngby;Skåne;hamlet
+267777837;Vittskövle;Skåne;hamlet
+267777840;Degeberga;Skåne;village
+267811130;Tibble;Uppsala;hamlet
+268356117;Hällestrand;Västra Götaland;hamlet
+268668138;Ingarvet;Dalarna;suburb
+268668139;Slätta;Dalarna;suburb
+268866130;Stanstorp;Skåne;village
+268866131;Ormanäs;Skåne;village
+268875460;Hänninge;Skåne;hamlet
+268875462;Munkarp;Skåne;village
+268888577;Hangelösa;Västra Götaland;hamlet
+268888839;Örslösa;Västra Götaland;village
+268888840;Söne;Västra Götaland;hamlet
+268888919;Svalnäs;Västra Götaland;locality
+268890262;Filsbäck;Västra Götaland;village
+268909389;Idholmen;Stockholm;island
+268909390;Jolpan (Finnhamn);Stockholm;island
+268928972;Tostarp;Skåne;hamlet
+268944273;Lövestad;Skåne;village
+268944308;Klasaröd;Skåne;hamlet
+268944336;Vollsjö;Skåne;village
+268945283;Fränninge;Skåne;village
+268946926;Bjärsjölagård;Skåne;village
+269086117;Korsberga;Västra Götaland;village
+269086331;Blikstorp;Västra Götaland;village
+269086517;Grebban;Västra Götaland;suburb
+269087259;Fridene;Västra Götaland;hamlet
+269087310;Madängsholm;Västra Götaland;village
+269089033;Kungslena;Västra Götaland;hamlet
+269124003;Vreten;Västra Götaland;hamlet
+269129091;Främlingshem;Gävleborg;hamlet
+269129368;Björkebäck;Gävleborg;hamlet
+269130300;Brunnsvik;Gävleborg;village
+269130303;Bovik;Gävleborg;hamlet
+269132422;Forsbacka By;Gävleborg;hamlet
+269273859;Skagersvik;Västra Götaland;village
+269273860;Midskog;Västra Götaland;hamlet
+269273890;Låstad;Västra Götaland;hamlet
+269273892;Öglunda;Västra Götaland;hamlet
+269391928;Arrie;Skåne;hamlet
+269436655;Törringe;Skåne;hamlet
+269436947;Sjödiken;Skåne;village
+269454939;Nordanå;Skåne;village
+269454970;Kyrkoby;Skåne;hamlet
+269782674;Herrgårdsviken;Dalarna;hamlet
+269784952;Fläck;Dalarna;hamlet
+269785488;Hagudden;Dalarna;hamlet
+269785508;Utanhed;Dalarna;hamlet
+269791601;Ättarp;Skåne;hamlet
+269791603;Björnstorp;Skåne;hamlet
+269791605;Björnstorps torg;Skåne;hamlet
+269803459;Gödelöv;Skåne;hamlet
+269859938;Österbitterna;Västra Götaland;hamlet
+269987743;Ultuna;Uppsala;suburb
+269988448;Ulleråker;Uppsala;suburb
+270033600;Bosarp;Skåne;hamlet
+270190033;Rottne;Kronoberg;village
+270233274;Billa;Kronoberg;hamlet
+270233275;Åryd;Kronoberg;village
+270233280;Rydaholm;Jönköping;village
+270390721;Alberta;Skåne;hamlet
+270593067;Bjärlöv;Skåne;hamlet
+270634116;Ryd;Östergötland;suburb
+270646825;Medevi;Östergötland;village
+270651936;Zederslund;Östergötland;suburb
+270655206;Mossen;Östergötland;suburb
+270659115;Fagerhult;Västra Götaland;village
+270662109;Gränna;Jönköping;town
+270674457;Kvikkjokk;Norrbotten;village
+270692316;Väversunda;Östergötland;hamlet
+270692767;Väderstad;Östergötland;village
+270740220;Byske;Västerbotten;village
+270801744;Rackarberget;Uppsala;suburb
+270834527;Byholma;Kronoberg;hamlet
+270834748;Esmared;Halland;hamlet
+270834749;Klerekull;Halland;hamlet
+270834830;Skedala;Halland;village
+270835064;Årnarp;Halland;hamlet
+270892603;Kistinge;Halland;hamlet
+270892604;Vessinge;Halland;hamlet
+270892605;Veinge;Halland;village
+270892606;Vrå;Kronoberg;hamlet
+270924684;Furulund;Gotland;suburb
+270924691;Djuplunda;Gotland;suburb
+270941841;Nykil;Östergötland;village
+270966335;Östra Karup;Skåne;village
+270971829;Skottorp;Halland;village
+271027145;Trafikplats Fjärås;Halland;locality
+271034581;Trafikplats Kungsbacka Syd;Halland;locality
+271223890;Husby;Dalarna;village
+271224194;Fäggeby;Dalarna;village
+271383609;Trafikplats Nottebäck;Kronoberg;locality
+271383748;Trafikplats Norremark;Kronoberg;locality
+271487445;Håkantorp;Västra Götaland;hamlet
+271858404;Fladen;Stockholm;locality
+271960433;Bor;Jönköping;village
+271978329;Fornäs;Dalarna;village
+272039092;Penningby;Stockholm;hamlet
+272234675;Alunda;Uppsala;village
+272370913;Fålhagen;Uppsala;suburb
+272371085;Höganäs;Uppsala;suburb
+272371151;Kantorn;Uppsala;suburb
+272371247;Svartbäcken;Uppsala;suburb
+272372424;Luthagen;Uppsala;suburb
+272374622;Kåbo;Uppsala;suburb
+272375006;Stabby;Uppsala;suburb
+272377362;Eriksberg;Uppsala;suburb
+272377733;Trädgårdsstaden;Uppsala;suburb
+272381788;Hamberg;Uppsala;suburb
+272509652;Hunnebostrand;Västra Götaland;village
+272509793;Bovallstrand;Västra Götaland;village
+272521211;Dalhalla;Dalarna;locality
+272655087;Rosenhill;Stockholm;hamlet
+272659925;Änggårde;Gotland;hamlet
+272660260;Rone;Gotland;village
+272661570;Ronehamn;Gotland;village
+272661576;Burs;Gotland;village
+272661577;Garda;Gotland;village
+272732406;Akalla;Stockholm;suburb
+272771075;Gullgårde;Gotland;hamlet
+272807179;Östra Karaby;Skåne;hamlet
+272807180;Vittskövle;Skåne;hamlet
+272808445;Gryttinge;Skåne;hamlet
+272808449;Ask;Skåne;hamlet
+272808452;Konga;Skåne;hamlet
+273094791;Österby;Gotland;suburb
+273196296;Johannishus;Blekinge;village
+273202230;Holmsjö;Blekinge;village
+273204888;Östra Vi;Gotland;suburb
+273204914;Bingeby;Gotland;suburb
+273415575;Västra Skogen;Stockholm;suburb
+273468694;Hallabro;Blekinge;village
+273468696;Väckelsång;Kronoberg;village
+273534411;Billesholm;Skåne;village
+274275320;Eggvena;Västra Götaland;village
+274275713;Tumberg;Västra Götaland;hamlet
+274275912;Edum;Västra Götaland;hamlet
+274285191;Ösaren;Gävleborg;hamlet
+274285262;Verkebo;Gävleborg;hamlet
+274285268;Grååsen;Gävleborg;hamlet
+274494912;Korsanäs;Blekinge;village
+274495374;Millegarne;Blekinge;village
+274495465;Gö;Blekinge;village
+274495810;Kallinge;Blekinge;suburb
+274496176;Nättraby;Blekinge;suburb
+274646152;Kristineberg;Kalmar;suburb
+274663105;Snäckstavik;Stockholm;hamlet
+274751836;Sundby;Stockholm;suburb
+274752459;Bromsten;Stockholm;suburb
+274807018;Aspö;Blekinge;island
+274807109;Hasslö;Blekinge;island
+274807204;Sturkö;Blekinge;island
+274807651;Verkö;Blekinge;island
+274913378;Pustnäs;Uppsala;suburb
+274913481;Lugnet;Uppsala;suburb
+274913565;Flottsund;Uppsala;suburb
+274914166;Graneberg;Uppsala;suburb
+274914341;Vårdsätra;Uppsala;village
+274914409;Bodarna;Uppsala;suburb
+274914710;Gottsunda;Uppsala;suburb
+274915153;Valsätra;Uppsala;suburb
+274952671;Tuna Backar;Uppsala;suburb
+274953147;Ärna;Uppsala;suburb
+274955344;Rickomberga;Uppsala;suburb
+274982851;Östra Asmundtorp;Skåne;hamlet
+274982918;Axelvold;Skåne;hamlet
+275029397;Månstorp;Skåne;hamlet
+275181646;Terra Nova;Gotland;suburb
+275253653;Skänninge;Östergötland;village
+275352808;Tågarp;Skåne;village
+275617244;Nyvång;Skåne;village
+275643122;Finja;Skåne;village
+275820666;Ytternäs;Stockholm;hamlet
+275820669;Färjan;Stockholm;hamlet
+276020693;Björkesnäs;Kalmar;hamlet
+276020694;Bullebo;Kalmar;hamlet
+276020695;Hallersrum;Kalmar;hamlet
+276020696;Lilla Vi;Kalmar;hamlet
+276020698;Djursdala by;Kalmar;hamlet
+276020699;Backa;Kalmar;hamlet
+276020700;Orremåla;Kalmar;hamlet
+276047511;Nacka;Stockholm;town
+276265433;Köpingebro;Skåne;village
+276522630;Jonstorp;Skåne;hamlet
+276527721;Arild;Skåne;village
+276549940;Södra Åkarp;Skåne;hamlet
+276549958;Hököpinge kyrkby;Skåne;hamlet
+276549995;Vellinge Väster;Skåne;hamlet
+276549996;Petersro;Skåne;hamlet
+276626204;Gråbo;Gotland;suburb
+276713385;Östanhol;Dalarna;hamlet
+276713387;Kullsbjörken;Dalarna;hamlet
+276792306;Öna;Dalarna;suburb
+276792455;Kråkberg;Dalarna;suburb
+276793118;Noret;Dalarna;suburb
+276793147;Morkarlby;Dalarna;suburb
+276793349;Utmeland;Dalarna;suburb
+276858152;Forsvik;Västra Götaland;village
+276858387;Mölltorp;Västra Götaland;village
+276858454;Brevik;Västra Götaland;village
+277162368;Ägölshult;Kalmar;hamlet
+277162369;Skänninge;Kalmar;hamlet
+277162372;Solhult;Kalmar;hamlet
+277355090;Lövåsen;Dalarna;hamlet
+277359063;Fryksås;Dalarna;hamlet
+277359164;Vångsgärde;Dalarna;hamlet
+277395325;Stavstensudde;Skåne;village
+277561431;Höghult;Kalmar;hamlet
+277577344;Duseborg;Östergötland;hamlet
+277676018;Drevdagen;Dalarna;hamlet
+277719367;Bröddarp;Skåne;hamlet
+277720237;Skabersjöby;Skåne;hamlet
+277720339;Tjustorp;Skåne;hamlet
+277720381;Bjärshög;Skåne;hamlet
+277723240;Knästorp;Skåne;hamlet
+277723241;Vesum;Skåne;hamlet
+277805032;Bjälbo;Östergötland;hamlet
+277882632;Vikarbyn;Dalarna;village
+277882724;Sjurberg;Dalarna;hamlet
+277895432;Furudals bruk;Dalarna;hamlet
+277895435;Furudal;Dalarna;village
+277898727;Boda;Dalarna;village
+277898796;Blecket;Dalarna;hamlet
+277898798;Övre Gärdsjö;Dalarna;hamlet
+277898799;Solberga;Dalarna;hamlet
+277898800;Änderåsen;Dalarna;hamlet
+277898801;Kärvsåsen;Dalarna;hamlet
+277898803;Gulleråsen;Dalarna;village
+277898806;Dalbyn;Dalarna;hamlet
+277898807;Arvet;Dalarna;hamlet
+277904293;Sörboda;Dalarna;hamlet
+277904294;Norrboda;Dalarna;hamlet
+277904295;Sunnanhed;Dalarna;hamlet
+277904296;Östanvik;Dalarna;hamlet
+277923350;Säfsen;Dalarna;locality
+277928803;Lindesnäs;Dalarna;hamlet
+277998425;Born;Dalarna;hamlet
+277998477;Ingels;Dalarna;hamlet
+278010027;Marnäs;Dalarna;hamlet
+278010128;Björkboda;Dalarna;hamlet
+278010179;Hedgårdarna;Dalarna;hamlet
+278010229;Enviken;Dalarna;village
+278010231;Dådran;Dalarna;hamlet
+278010361;Prästbodarna;Dalarna;locality
+278019079;Linghed;Dalarna;village
+278019085;Svärdsjö;Dalarna;village
+278019753;Hobborn;Dalarna;hamlet
+278028537;Gräsberg;Dalarna;hamlet
+278030431;Klenshyttan;Dalarna;hamlet
+278050659;Loka brunn;Orebro;locality
+278050661;Loka;Orebro;hamlet
+278053547;Sikfors;Orebro;hamlet
+278059928;Bredsjö;Orebro;hamlet
+278064296;Havsjön;Orebro;hamlet
+278068282;Hörken;Orebro;hamlet
+278068283;Ställberg;Orebro;hamlet
+278117469;Ljungsbro;Östergötland;village
+278450950;Tuna;Kalmar;village
+278631200;Ramsberg;Orebro;village
+278631944;Storå;Orebro;village
+278633615;Söderbärke;Dalarna;village
+278735033;Everlöv;Skåne;hamlet
+278742600;Ilstorp;Skåne;hamlet
+278784448;Åkre;Gävleborg;locality
+278784975;Mora;Gävleborg;locality
+278784979;Linfläck;Gävleborg;locality
+278785345;Byn;Gävleborg;locality
+278785391;Nordanäng;Gävleborg;locality
+278785400;Långede;Gävleborg;locality
+278785459;Johannesberg;Gävleborg;hamlet
+278786071;Rossla;Gävleborg;locality
+278787767;Hälsinegård Västeräng;Gävleborg;farm
+278788395;Nybo;Gävleborg;locality
+278788427;Edsäng;Gävleborg;locality
+278789165;Västeräng;Gävleborg;locality
+278789680;Ovanåker;Gävleborg;locality
+278789730;Fjärdsätter;Gävleborg;locality
+278789732;Överälva;Gävleborg;locality
+278789811;Myra;Gävleborg;locality
+278789857;Tomta;Gävleborg;locality
+278789881;Sörväna;Gävleborg;locality
+278789920;Loka;Gävleborg;locality
+278790115;Långbacka;Gävleborg;locality
+278816404;Emaus;Västmanland;suburb
+278816405;Skiljebo;Västmanland;suburb
+278835205;Ankarsrum;Kalmar;village
+278927485;Nötesjö;Skåne;hamlet
+278927486;Börringe;Skåne;hamlet
+278928236;Östra Vemmenhög;Skåne;hamlet
+278928275;Abbekås;Skåne;village
+278952974;Mickelborg;Skåne;hamlet
+278975075;Fengersfors;Västra Götaland;hamlet
+278975076;Dals Långed;Västra Götaland;village
+278975256;Högsäter;Västra Götaland;village
+278975302;Näsböle;Västra Götaland;hamlet
+278975641;Hedekas;Västra Götaland;village
+278976745;Gillanda;Västra Götaland;hamlet
+278977348;Fisketorp;Västra Götaland;hamlet
+278977349;Stigen;Västra Götaland;hamlet
+278977351;Rådanefors;Västra Götaland;hamlet
+278977353;Dalskog;Västra Götaland;hamlet
+278977561;Erikstad;Västra Götaland;hamlet
+278977562;Brålanda;Västra Götaland;hamlet
+278977564;Frändefors;Västra Götaland;village
+279041867;Södra Hammerö;Halland;suburb
+279068352;Sankt Olof;Skåne;village
+279068353;Ravlunda;Skåne;hamlet
+279068574;Fågeltofta;Skåne;hamlet
+279070211;Östra Kärrstorp;Skåne;hamlet
+279240523;Kungsmarken;Blekinge;suburb
+279240976;Backabo;Blekinge;suburb
+279240992;Mariedal;Blekinge;suburb
+279278624;Edsäng;Gävleborg;locality
+279278632;Byn;Gävleborg;locality
+279278901;Tomta;Gävleborg;locality
+279279003;Fjärdsätter;Gävleborg;locality
+279279049;Långede;Gävleborg;locality
+279279368;Åkre;Gävleborg;locality
+279279391;Långbacka;Gävleborg;locality
+279279624;Västeräng;Gävleborg;locality
+279279741;Överälva;Gävleborg;locality
+279279779;Nordanäng;Gävleborg;locality
+279280058;Johannesberg;Gävleborg;hamlet
+279280170;Sörväna;Gävleborg;locality
+279280193;Rossla;Gävleborg;locality
+279280272;Hälsinegård Västeräng;Gävleborg;farm
+279280344;Linfläck;Gävleborg;locality
+279280364;Myra;Gävleborg;locality
+279280379;Ovanåker;Gävleborg;locality
+279280554;Loka;Gävleborg;locality
+279280767;Nybo;Gävleborg;locality
+279280776;Mora;Gävleborg;locality
+279376851;Hjärsås;Skåne;village
+279376854;Sibbhult;Skåne;village
+279400911;Knapperup;Skåne;hamlet
+279401231;Lerhamn;Skåne;hamlet
+279401232;Strandbaden;Skåne;village
+279401753;Viken;Skåne;village
+279401754;Grå läge;Skåne;hamlet
+279402575;Rydebäck;Skåne;village
+279402590;Glumslöv;Skåne;village
+279790661;Vårvik;Gävleborg;locality
+279890648;Berg;Blekinge;village
+279894015;Pantarholmen;Blekinge;suburb
+279930007;Brams;Gävleborg;locality
+279974987;Ungstorp;Kalmar;hamlet
+279975082;Sjundhult;Kalmar;hamlet
+279975083;Snokebo;Kalmar;hamlet
+280050534;Ekholmen;Blekinge;island
+280062859;Brändaholm;Blekinge;locality
+280076984;Lyby;Skåne;hamlet
+280076985;Norrto;Skåne;hamlet
+280124811;Sunna Kanal;Blekinge;locality
+280328296;Kullavik;Halland;suburb
+280343445;Tuddabo;Jönköping;village
+280361816;Väsby;Skåne;village
+280371033;Harboberget;Gävleborg;locality
+280490189;Hedvigsdal;Skåne;hamlet
+280490190;Peppinge;Skåne;hamlet
+280490191;Valleberga;Skåne;hamlet
+280490192;Löderups strandbad;Skåne;hamlet
+280490384;Mellan-Grevie;Skåne;hamlet
+280490385;Västra Grevie;Skåne;hamlet
+280500654;Ingelsträde;Skåne;village
+280500656;Mjöhult;Skåne;village
+280505169;Välinge;Skåne;village
+280505248;Strövelstorp;Skåne;village
+280508387;Lökholmen;Västra Götaland;hamlet
+280587815;Hogstad;Östergötland;village
+280678331;Borghamn;Östergötland;village
+280807029;Sunnerskog;Jönköping;village
+280846597;Gullholmen;Västra Götaland;village
+280963065;Stumholmen;Blekinge;island
+281035429;Engeltofta;Gävleborg;locality
+281091737;Häcklinge;Gävleborg;hamlet
+281091740;Allmäninge;Gävleborg;hamlet
+281091742;Överhärde;Gävleborg;hamlet
+281195272;Aspö Havsbad;Blekinge;locality
+281221370;Mariestrand;Västerbotten;suburb
+281225723;Liljansberget;Västerbotten;suburb
+281245807;Spetsamåla;Blekinge;village
+281257129;Saltö;Blekinge;island
+281257149;Dragsö;Blekinge;island
+281325442;Sättuna;Östergötland;hamlet
+281338428;Västra Alstad;Skåne;hamlet
+281338476;Haglösa;Skåne;hamlet
+281338479;Östra Värlinge;Skåne;hamlet
+281390567;Sirbo;Orebro;hamlet
+281390568;Sinnerud;Orebro;hamlet
+281390569;Gökhult;Orebro;hamlet
+281390570;Långåsen;Orebro;hamlet
+281390571;Rustorp;Orebro;hamlet
+281390572;Lämås;Orebro;hamlet
+281390575;Kvarntorp;Orebro;hamlet
+281390576;Skagersholm;Orebro;hamlet
+281394049;Älgarås;Västra Götaland;village
+281416100;Levide;Gotland;hamlet
+281588869;Vassbacken;Västra Götaland;hamlet
+281595207;Binneberg;Västra Götaland;hamlet
+281595348;Horn;Västra Götaland;hamlet
+281602890;Flistad;Västra Götaland;hamlet
+281607146;Tidan;Västra Götaland;village
+281666212;Österunda;Uppsala;village
+281670809;Möklinta;Västmanland;village
+281671708;Bergshyttan;Dalarna;hamlet
+281671823;Broddbo;Västmanland;hamlet
+281672646;Varmsätra;Västmanland;village
+281672757;Fastbo;Västmanland;hamlet
+281673025;Ådalen;Uppsala;village
+281673537;Forsby;Uppsala;hamlet
+281683038;Hallinden;Västra Götaland;hamlet
+281695062;Gaddesanda;Västra Götaland;hamlet
+281699821;Ängsberg;Gävleborg;hamlet
+281710352;Rökebo;Gävleborg;hamlet
+281710354;skönvik;Gävleborg;hamlet
+281710358;Heden;Gävleborg;hamlet
+281710359;Vallsbo;Gävleborg;hamlet
+281710361;Västerbo;Gävleborg;hamlet
+281710365;Gåsbo;Gävleborg;hamlet
+281710367;Pålmyran;Gävleborg;locality
+281710373;Stabäck;Gävleborg;hamlet
+281710374;Silverkällan;Gävleborg;hamlet
+281722087;Tjörnarp;Skåne;village
+281722106;Sösdala;Skåne;village
+281752526;Sjötorp;Västra Götaland;village
+281754442;Lambohov;Östergötland;suburb
+281764608;Åbygård;Gävleborg;hamlet
+281764740;Backa;Gävleborg;hamlet
+281764741;Alborga;Gävleborg;hamlet
+281769433;Åsen;Dalarna;village
+281769882;Brunnsberg;Dalarna;village
+281770481;Rot;Dalarna;village
+281770571;Klitten;Dalarna;village
+281791878;Gamla Linköping;Östergötland;locality
+281818440;Myråsen;Västra Götaland;hamlet
+281823613;Slöta;Västra Götaland;hamlet
+282027653;Bestorp;Västra Götaland;suburb
+282027654;Anneborg;Västra Götaland;suburb
+282027655;Ranten;Västra Götaland;suburb
+282027657;Vilhelmsro;Västra Götaland;suburb
+282027658;Gamla stan;Västra Götaland;suburb
+282027659;Dotorp;Västra Götaland;suburb
+282028133;Fredriksberg;Västra Götaland;suburb
+282077080;Ytterhärde;Gävleborg;hamlet
+282093884;Vassviken;Gävleborg;locality
+282093900;Malmersbacke;Gävleborg;hamlet
+282093936;Lövbacken;Gävleborg;hamlet
+282093959;Östanå;Gävleborg;hamlet
+282094030;Boänge;Gävleborg;hamlet
+282181710;Funäsdalen;Jämtland;village
+282226848;Myrviken;Jämtland;village
+282326079;Hallands väderö;Skåne;island
+282368209;Gössäter;Västra Götaland;hamlet
+282375786;Hällekis;Västra Götaland;village
+282376477;Kinne-Vedum;Västra Götaland;hamlet
+282376481;Kestad;Västra Götaland;hamlet
+282376483;Fullösa;Västra Götaland;hamlet
+282381193;Forshem;Västra Götaland;hamlet
+282381669;Ölanda;Västra Götaland;hamlet
+282395967;Barhäll;Östergötland;suburb
+282418807;Torvalla;Jämtland;village
+282467520;Dikanäs;Västerbotten;village
+282551850;Ramdala;Blekinge;village
+282630609;Kalvsbäcken;Dalarna;hamlet
+282630688;Lunån;Dalarna;hamlet
+282630953;Hagelsnäs;Dalarna;hamlet
+282764187;Hindens rev;Västra Götaland;locality
+282783242;Skalunda;Västra Götaland;hamlet
+282783244;Rackeby;Västra Götaland;hamlet
+282783523;Gösslunda;Västra Götaland;hamlet
+282785347;Lovene;Västra Götaland;hamlet
+282785440;Trässberg;Västra Götaland;hamlet
+282785499;Saleby;Västra Götaland;village
+282838753;Tivolihusen;Skåne;hamlet
+282839145;Herte;Gotland;hamlet
+282842693;Gislöv;Skåne;hamlet
+282842697;Södra Åby;Skåne;hamlet
+282842700;Vallby;Skåne;hamlet
+282842703;Klagstorp;Skåne;village
+282842709;Stora Beddinge;Skåne;hamlet
+282842712;Västra Vemmenhög;Skåne;hamlet
+282864977;Vallarum;Skåne;hamlet
+282864979;Eljaröd;Skåne;hamlet
+282869171;Långaröd;Skåne;hamlet
+282874035;Stånga;Gotland;village
+282922822;Mossheddinge;Skåne;hamlet
+282922823;Assartorp;Skåne;hamlet
+282925544;Eksholm;Skåne;hamlet
+282927133;Anderslöv;Skåne;village
+282928413;Sörby;Skåne;hamlet
+282928414;Börringe station;Skåne;hamlet
+282928419;Grönby;Skåne;hamlet
+283136787;Rolsberga;Skåne;hamlet
+283136789;Gudmuntorp;Skåne;hamlet
+283229183;Hassela;Gävleborg;village
+283229184;Ede;Gävleborg;hamlet
+283229185;Älgered;Gävleborg;village
+283229728;Vattlång;Gävleborg;village
+283229732;Ilsbo;Gävleborg;village
+283248621;Järvsö;Gävleborg;village
+283253211;Essvik;Västernorrland;village
+283253592;Sundsvall;Västernorrland;city
+283336176;Arkhyttan;Dalarna;village
+283336177;Lövåsen;Dalarna;hamlet
+283336178;Pingbo;Dalarna;hamlet
+283336901;St Skedvi;Dalarna;village
+283438061;Näset;Gävleborg;hamlet
+283462120;Ahla;Halland;village
+283582181;Bromma;Östergötland;suburb
+283664254;Siljansnäs;Dalarna;village
+283664818;Västanvik;Dalarna;village
+283665241;Siljansnäs;Dalarna;village
+283666092;Grytnäs;Dalarna;hamlet
+283667209;Fornby;Dalarna;hamlet
+283726888;Torskors;Blekinge;suburb
+283811590;Lindholmen;Blekinge;island
+283829265;Hov;Östergötland;hamlet
+283829589;Gärdslösa;Östergötland;hamlet
+285032199;Lingbo;Gävleborg;village
+285068633;Skivarp;Skåne;village
+285168604;Lisselhed;Dalarna;hamlet
+285485256;Garnisonen;Östergötland;suburb
+285691084;Suntakstan;Västra Götaland;hamlet
+286095824;Hinneryd;Kronoberg;village
+286123487;Öst på stan;Västerbotten;suburb
+286123488;Öbacka;Västerbotten;suburb
+286123489;Väst på stan;Västerbotten;suburb
+286123491;Grisbacka;Västerbotten;suburb
+286123494;Grubbe;Västerbotten;suburb
+286142249;Stöcksjö;Västerbotten;village
+286288966;Pilsbo;Uppsala;hamlet
+286313919;Anderstorp;Skåne;hamlet
+286371194;Vivljunga;Kronoberg;village
+286390451;Hässlegården;Blekinge;suburb
+286435740;Hasselby;Stockholm;suburb
+286493814;Lövnäs;Dalarna;hamlet
+286494114;Nornäs;Dalarna;hamlet
+286496482;Särna;Dalarna;village
+286497752;Grövelsjön;Dalarna;hamlet
+286560003;Knäred;Halland;town
+286638483;Norra Rörum;Skåne;village
+286644597;Norrsundet;Gävleborg;village
+286912833;Locknevi;Kalmar;hamlet
+286912834;Vrångfall;Kalmar;hamlet
+286912835;Dabbetorp;Kalmar;hamlet
+286912836;Älö;Kalmar;hamlet
+287048088;Torpstöd;Värmland;hamlet
+287048089;Grönlund;Värmland;hamlet
+287048090;Skruvstad;Värmland;hamlet
+287055526;Long;Värmland;hamlet
+287059453;Bolmen;Kronoberg;village
+287060712;Lennartsfors;Värmland;hamlet
+287214534;Torkö;Blekinge;island
+287230427;Öslöv;Skåne;hamlet
+287233696;Aboda;Orebro;hamlet
+287233731;Hammaren;Orebro;hamlet
+287308114;Stora Amundö;Västra Götaland;island
+287324544;Ljugarn;Gotland;town
+287328558;Lisselbo;Dalarna;hamlet
+287374253;Nyberget;Dalarna;hamlet
+287379144;Fiskarbo;Dalarna;hamlet
+287379350;Stora Klingsbo;Dalarna;hamlet
+287439402;Hillevik;Gävleborg;hamlet
+287439403;Trollharen;Gävleborg;hamlet
+287439404;Axmarbruk;Gävleborg;hamlet
+287439405;Axmarby;Gävleborg;hamlet
+287472266;Teg;Västerbotten;suburb
+287524629;Messlingen;Jämtland;village
+287575113;Ruggstorp;Kalmar;village
+287588180;Färingtofta;Skåne;village
+287594594;Kåremo;Kalmar;village
+287596274;Rockneby;Kalmar;village
+287809773;Mellbystrand;Halland;village
+287810227;Ysby;Halland;village
+287810228;Edenberga;Halland;village
+287811705;Koled;Värmland;hamlet
+287982648;Lingarö;Gävleborg;hamlet
+287986345;Furuberg;Gävleborg;hamlet
+287986501;Friggesund;Gävleborg;village
+287996271;Tännäs;Jämtland;village
+288022332;Skogaby;Halland;village
+288086012;Mittilia;Jämtland;hamlet
+288086013;Södra Blåsjön;Jämtland;hamlet
+288086671;Jormvattnet;Jämtland;hamlet
+288086672;Blåsjöfallet;Jämtland;hamlet
+288086673;Rolandstorp;Jämtland;hamlet
+288086674;Junsternäs;Jämtland;hamlet
+288088964;Valsjöbyn;Jämtland;village
+288088965;Hotagen;Jämtland;village
+288088966;Rötviken;Jämtland;village
+288088967;Norrviken;Jämtland;hamlet
+288088968;Häggsjövik;Jämtland;hamlet
+288088969;Norra Skärvången;Jämtland;village
+288088970;Storholmsjö;Jämtland;hamlet
+288088971;Lillholmsjö;Jämtland;hamlet
+288089164;Landön;Jämtland;hamlet
+288089175;Långan;Jämtland;hamlet
+288089639;Offerdalsberg;Jämtland;hamlet
+288089640;Åsen;Jämtland;hamlet
+288089641;Tulleråsen;Jämtland;village
+288089642;Nordannälden;Jämtland;hamlet
+288089643;Dvärsätt;Jämtland;village
+288089644;Spännviken;Jämtland;hamlet
+288089645;Håkafot;Jämtland;hamlet
+288089646;Torsfjärden;Jämtland;hamlet
+288089647;Lidsjöberg;Jämtland;village
+288089648;Gubbhögen;Jämtland;village
+288090276;Älvros;Jämtland;village
+288090598;Extjärn;Jämtland;hamlet
+288090599;Nilsvallen;Jämtland;hamlet
+288091323;Sjöändan;Gävleborg;hamlet
+288091331;Tandsjöborg;Gävleborg;hamlet
+288091333;Tandhem;Gävleborg;locality
+288091334;Västbacka;Gävleborg;hamlet
+288091384;Noppikoski;Gävleborg;hamlet
+288091655;Kvarnberg;Dalarna;hamlet
+288092234;Holen;Dalarna;hamlet
+288093212;Siljansfors;Dalarna;hamlet
+288095165;Johannisholm;Dalarna;hamlet
+288095168;Siknäs;Dalarna;hamlet
+288102022;Tvååker;Halland;village
+288285316;Hjulbäck;Dalarna;hamlet
+288501489;Knåpbodarna;Dalarna;village
+288501490;Oxberg;Dalarna;village
+288501491;Rexbo;Dalarna;village
+288503292;Grycksbo;Dalarna;village
+288503446;Hoppsveden;Dalarna;hamlet
+288503448;Strömbo;Dalarna;hamlet
+288522544;Blomberg;Västra Götaland;hamlet
+288534138;Morshyttan;Dalarna;hamlet
+288556094;Dalgränsen;Gävleborg;village
+288556368;Bodås;Gävleborg;hamlet
+288561297;Hästbo;Gävleborg;village
+288565081;Ekkällan;Östergötland;suburb
+288565341;Ålbron;Gävleborg;village
+288598772;Hishult;Halland;village
+288613921;Ränneslöv;Halland;village
+288618893;Vallberga;Halland;village
+288703800;Billingsfors;Västra Götaland;village
+288731537;Dals Rostock;Västra Götaland;village
+288775924;Sollarö;Stockholm;island
+288779009;Vreta Handel;Stockholm;locality
+288787626;Ekholmen;Stockholm;locality
+288787679;Sollarö sundet;Stockholm;locality
+288799305;Hattudden;Stockholm;hamlet
+288802210;Björnösund;Stockholm;hamlet
+288804591;Södrahamnen Bad;Stockholm;locality
+288806475;Bernsholme;Stockholm;island
+288806509;Rådmansö;Stockholm;island
+288812876;Björknäs;Stockholm;hamlet
+288844448;Konga;Kronoberg;village
+288910461;N. Kaggeboda;Stockholm;hamlet
+289205716;Nikkaluokta;Norrbotten;village
+289233065;Älandsbro;Västernorrland;town
+289319681;Gammelstad;Norrbotten;suburb
+289415956;Tännforsen;Jämtland;hamlet
+289421191;Danholn;Dalarna;village
+289468490;Ullånger;Västernorrland;town
+289485937;Docksta;Västernorrland;town
+289593108;Källby;Västra Götaland;village
+289717115;Östlyckan;Västra Götaland;suburb
+289717152;Brogården;Västra Götaland;suburb
+289717215;Nolby;Västra Götaland;suburb
+289717450;Dammtorpet;Västra Götaland;suburb
+289717555;Kvarnbacken;Västra Götaland;suburb
+289717701;Tegelbruket;Västra Götaland;suburb
+289719295;Sörhaga;Västra Götaland;suburb
+289719576;Kullingsberg;Västra Götaland;suburb
+289720350;Stockslycke;Västra Götaland;suburb
+289720695;Ängabo;Västra Götaland;suburb
+290021850;Kavlås;Västra Götaland;suburb
+290021892;Hedvigsberg;Västra Götaland;suburb
+290058586;Noltorp;Västra Götaland;suburb
+290107154;Grönalund;Skåne;hamlet
+290109611;Fjärdingslöv;Skåne;hamlet
+290109612;Västra Virestad;Skåne;hamlet
+290251237;Enehagen;Västra Götaland;suburb
+290374501;Katthult;Kalmar;hamlet
+290474779;Fröå-gruva;Jämtland;locality
+290482961;Haxäng;Jämtland;village
+290482981;Pilgrimstad;Jämtland;village
+290482990;Gällö;Jämtland;village
+290483379;Bergafjärden;Västernorrland;hamlet
+290483381;Njurundabommen;Västernorrland;village
+290491813;Njutånger;Gävleborg;village
+290491815;Enånger;Gävleborg;village
+290507291;Langsand;Uppsala;hamlet
+290507318;Gårdskär;Uppsala;village
+290723271;Torrskog;Västra Götaland;hamlet
+290771076;Björnliden;Dalarna;hamlet
+290786478;Snipen;Västra Götaland;hamlet
+290791641;Östra Lindås;Västra Götaland;hamlet
+290792214;Västra Lindås;Västra Götaland;hamlet
+290793411;Killingsholmen;Västra Götaland;islet
+290794371;Skintebo;Västra Götaland;hamlet
+290825097;Tångböle;Jämtland;hamlet
+290825098;Ånn;Jämtland;village
+290884943;Jungfruboda;Orebro;locality
+290954744;Skåpafors;Västra Götaland;village
+290954955;Baldersnäs;Västra Götaland;locality
+290955110;Skifors;Västra Götaland;locality
+290955647;Gustavsfors;Västra Götaland;locality
+290955710;Herrenäs;Västra Götaland;locality
+291092396;Ingelstad;Kronoberg;village
+291130816;Carlshöjd;Västerbotten;suburb
+291143814;Hanaskog;Skåne;village
+291185257;Idkerberget;Dalarna;village
+291204585;Hörja;Skåne;hamlet
+291208266;Hästholmen;Östergötland;village
+291383343;Brotorpet;Blekinge;locality
+291461474;Norra Sandby;Skåne;hamlet
+291461475;Laxbro;Skåne;hamlet
+291461706;Gryt;Skåne;hamlet
+291463468;Beateberg;Skåne;farm
+291463469;Almö;Skåne;farm
+291463510;Hjärsåslilla;Skåne;hamlet
+291474806;Skansholm;Västerbotten;village
+291477665;Meselefors;Västerbotten;village
+291502365;Hellasgården;Stockholm;locality
+291606322;Tydinge;Skåne;hamlet
+291606327;Oröd;Skåne;hamlet
+291654935;Solberga;Skåne;hamlet
+291844918;Vankiva;Skåne;village
+292011685;Dala-Järna flygfält;Dalarna;airport
+292167626;Sillerud;Värmland;village
+292278313;Rävsnäs;Dalarna;locality
+292432463;Ramshäll;Östergötland;suburb
+292542521;Spraxkya;Dalarna;hamlet
+292542522;Storsveden;Dalarna;hamlet
+292542523;Frostbo;Dalarna;hamlet
+292542524;Täkt;Dalarna;hamlet
+292542525;Alderbäcken;Dalarna;hamlet
+292543199;Murbo;Dalarna;hamlet
+292717844;Gamla Bo;Skåne;hamlet
+292726460;Sätofta;Skåne;village
+292735720;Jularp;Skåne;hamlet
+292804753;Torget;Orebro;locality
+292823699;Vanås;Skåne;hamlet
+292921397;Dimbo;Västra Götaland;locality
+293106139;Swanhalla;Blekinge;hamlet
+293430231;Jörlanda;Västra Götaland;village
+293430854;Getskär;Västra Götaland;village
+293741543;Lövskatan;Norrbotten;suburb
+293741640;Svartöstan;Norrbotten;suburb
+294052809;Holmsund;Västerbotten;village
+294052826;Obbola;Västerbotten;village
+294114338;Bergviken;Norrbotten;suburb
+294127228;Stöcke;Västerbotten;village
+294138160;Pello;Norrbotten;village
+294206202;Junosuando;Norrbotten;village
+294510077;Ålidbacken;Västerbotten;suburb
+294523837;Baggensstäket;Stockholm;locality
+294524388;Skurusundet;Stockholm;locality
+294639353;Kungsladugård;Västra Götaland;suburb
+294639356;Högsbohöjd;Västra Götaland;suburb
+294708692;Kaga;Östergötland;hamlet
+294850631;Lovikka;Norrbotten;village
+294851776;Masugnbyn;Norrbotten;village
+294867980;Vittangi;Norrbotten;village
+295001481;Snogeröd;Skåne;hamlet
+295151698;Rönnäs;Västerbotten;hamlet
+295251454;Saxemara;Blekinge;village
+295304333;Bräkne Hoby;Blekinge;village
+295304842;Åryd;Blekinge;village
+295309321;Asarum;Blekinge;village
+295539442;Ekensbergshöjden;Stockholm;locality
+295721077;Segerstorp;Västra Götaland;suburb
+295995399;Leonardsberg;Östergötland;hamlet
+296015815;Hanö;Blekinge;island
+296385009;Mem;Östergötland;hamlet
+296385010;Tåby;Östergötland;hamlet
+296508404;Hästveda;Skåne;village
+296517693;Vinslöv;Skåne;village
+296517697;Önnestad;Skåne;village
+296533655;Färlöv;Skåne;village
+296616579;Glimåkra;Skåne;village
+296700126;Torsebro;Skåne;village
+297343809;Flötningen;Dalarna;hamlet
+297564759;Svensköp;Skåne;hamlet
+297564915;Västra Vram;Skåne;hamlet
+297565005;Träne;Skåne;hamlet
+297779966;Lunda;Stockholm;suburb
+297960582;Sörgården;Stockholm;suburb
+298114831;Stjärnsund;Dalarna;hamlet
+298730239;Fäjö;Blekinge;island
+298820412;Norrala;Gävleborg;village
+298820689;Ale;Gävleborg;village
+298877949;Lannavaara;Norrbotten;village
+298879891;Viikusjärvi;Norrbotten;hamlet
+298888823;Järämä;Norrbotten;hamlet
+298889220;Pulsujärvi;Norrbotten;hamlet
+298889682;Jårkastakka;Norrbotten;hamlet
+298976288;Bäcksände;Orebro;locality
+299170999;Norra Fågelås;Västra Götaland;hamlet
+299211408;Värsås;Västra Götaland;village
+299211409;Djursätra;Västra Götaland;hamlet
+299211761;Varola;Västra Götaland;hamlet
+299214269;Klagstorp;Västra Götaland;hamlet
+299219281;Backabo;Västra Götaland;hamlet
+299219282;Gate;Västra Götaland;hamlet
+299219283;Korsgården;Västra Götaland;hamlet
+299472388;Baggeby;Stockholm;hamlet
+299502069;Tryde;Skåne;village
+299510220;Listerby;Blekinge;village
+299685178;Kapellskär;Stockholm;hamlet
+299727799;Gropen;Stockholm;locality
+299791364;Tungelsta;Stockholm;suburb
+299794958;Norrskogen;Stockholm;village
+299794965;Jägartorp;Stockholm;village
+299795114;Lillgården;Stockholm;village
+299855002;Örby;Stockholm;hamlet
+299864257;Högdalen;Stockholm;suburb
+299924645;Sevedstorp;Kalmar;hamlet
+299953872;Södra Grindstugan;Västra Götaland;locality
+299953874;Norra Grindstugan;Västra Götaland;locality
+300085735;Hammarlunda;Skåne;hamlet
+300196676;Klara Sjö;Stockholm;locality
+300196844;Barnhusviken;Stockholm;locality
+300197271;Karlbergssjön;Stockholm;locality
+300197354;Ulvsundasjön;Stockholm;locality
+300235201;Lappkärrsberget;Stockholm;suburb
+300237363;Stora Lappkärrsberget;Stockholm;locality
+300623267;Månstad;Västra Götaland;village
+300644755;Vegby;Västra Götaland;village
+300667644;Limmared;Västra Götaland;village
+300677603;Påverås;Västra Götaland;hamlet
+300678236;Skyberg;Västra Götaland;hamlet
+300678559;Marka;Västra Götaland;hamlet
+300726559;Härlöv;Kronoberg;hamlet
+300828284;Vattle;Skåne;hamlet
+300898348;Kusfors;Västerbotten;hamlet
+300932452;Flivik;Kalmar;hamlet
+300935339;Misterhult;Kalmar;village
+300949035;Söderåkra;Kalmar;village
+301115299;Ornö;Stockholm;island
+301115711;Ingarö;Stockholm;island
+301128911;Värmdö;Stockholm;island
+301129732;Kalvsvik;Stockholm;hamlet
+301130442;Kopparmora;Stockholm;village
+301133483;Ängsvik;Stockholm;village
+301144797;Ramsö;Stockholm;island
+301144819;Skogsö;Stockholm;island
+301144908;Karlsudd;Stockholm;hamlet
+301145362;Mörtnäs;Stockholm;village
+301145979;Fruvik;Stockholm;hamlet
+301146044;Hemmesta;Stockholm;village
+301147766;Brunn;Stockholm;village
+301164455;Forsbäck;Västerbotten;village
+301166952;Vimanshäll;Östergötland;suburb
+301319219;Södra Lagnö;Stockholm;island
+301319220;Storholmen;Stockholm;island
+301415505;Frölunda Torg;Västra Götaland;suburb
+301606142;Igelösa;Skåne;hamlet
+301645347;Odensala;Jämtland;village
+301655461;Vittsjö;Skåne;village
+301655462;Bjärnum;Skåne;village
+301724529;Rudboda torg;Stockholm;locality
+301732602;Eriksberg;Stockholm;locality
+301843547;Hå;Kronoberg;hamlet
+301843548;Hamneda;Kronoberg;village
+301862940;Bua;Halland;village
+301866263;Lerhagen;Jönköping;suburb
+301866350;Åbolid;Jönköping;suburb
+301866381;Dalvik;Jönköping;suburb
+301866401;Bymarken;Jönköping;suburb
+301866431;Dunkehalla;Jönköping;suburb
+301866570;Vätterslund;Jönköping;suburb
+301866655;Hisingstorp;Jönköping;suburb
+301866791;Skänkeberg;Jönköping;suburb
+301866911;Sveahäll;Jönköping;suburb
+301866916;Samset;Jönköping;suburb
+301868639;Mariebo;Jönköping;suburb
+301868748;Klämmestorp;Jönköping;hamlet
+301868893;Järstorp;Jönköping;village
+301868964;Björneberg;Jönköping;hamlet
+301869208;Bäckalyckan;Jönköping;suburb
+301869352;Torpa;Jönköping;suburb
+301869420;Gräshagen;Jönköping;suburb
+301869470;Tokarp;Jönköping;suburb
+301869676;Haga;Jönköping;suburb
+301869793;Vattenledningsområdet;Jönköping;suburb
+301869985;Fridhem;Jönköping;suburb
+301869986;Kättilstorp;Jönköping;suburb
+301870111;Grästorp;Jönköping;suburb
+301870629;Ryhov;Jönköping;suburb
+301892774;Kortebo;Jönköping;suburb
+301892778;Vilhelmsro;Jönköping;suburb
+301970640;Arnö;Blekinge;island
+301970641;Älleskär;Blekinge;island
+302120168;Forsvik;Västerbotten;hamlet
+302120171;Stensele;Västerbotten;hamlet
+302260468;Brintbodarna;Dalarna;hamlet
+302260539;Landbobyn;Dalarna;hamlet
+302262431;Älvsborgs län;Västra Götaland;county
+302262432;Blekinge län;Blekinge;county
+302262433;Gävleborgs län;Gävleborg;county
+302262434;Göteborgs och Bohus län;Västra Götaland;county
+302262435;Gotlands län;Gotland;county
+302262436;Hallands län;Halland;county
+302262437;Jämtlands län;Jämtland;county
+302262438;Jönköpings län;Jönköping;county
+302262439;Kalmar län;Kalmar;county
+302262440;Dalarnas län;Dalarna;county
+302262442;Kronobergs län;Kronoberg;county
+302262456;Norrbottens län;Norrbotten;county
+302262457;Örebro län;Orebro;county
+302262458;Östergötlands län;Östergötland;county
+302262459;Södermanlands län;Södermanland;county
+302262460;Skaraborgs län;Västra Götaland;county
+302262465;Uppsala län;Uppsala;county
+302262469;Stockholms län;Stockholm;county
+302262472;Västerbottens län;Västerbotten;county
+302262473;Värmlands län;Värmland;county
+302262474;Västmanlands län;Västmanland;county
+302262475;Västernorrlands län;Västernorrland;county
+302262476;Västra Götalands län;Västra Götaland;county
+302262505;Skåne län;Skåne;county
+302269571;Ale kommun;Västra Götaland;municipality
+302269572;Alingsås kommun;Västra Götaland;municipality
+302269573;Älmhults kommun;Kronoberg;municipality
+302269574;Älvdalens kommun;Dalarna;municipality
+302269575;Alvesta kommun;Kronoberg;municipality
+302269576;Älvkarleby kommun;Uppsala;municipality
+302269577;Älvsbyns kommun;Norrbotten;municipality
+302269578;Åmåls kommun;Västra Götaland;municipality
+302269579;Aneby kommun;Jönköping;municipality
+302269580;Ånge kommun;Jämtland;municipality
+302269581;Ängelholms kommun;Skåne;municipality
+302269582;Arboga kommun;Västmanland;municipality
+302269583;Åre kommun;Jämtland;municipality
+302269584;Årjängs kommun;Värmland;municipality
+302269585;Arjeplogs kommun;Norrbotten;municipality
+302269586;Arvidsjaurs kommun;Norrbotten;municipality
+302269587;Åsele kommun;Västerbotten;municipality
+302269588;Arvika kommun;Värmland;municipality
+302269589;Åstorps kommun;Skåne;municipality
+302269590;Askersunds kommun;Orebro;municipality
+302269591;Avesta kommun;Dalarna;municipality
+302269592;Åtvidabergs kommun;Östergötland;municipality
+302269593;Bengtsfors kommun;Västra Götaland;municipality
+302269594;Båstads kommun;Skåne;municipality
+302269595;Bjurholms kommun;Västerbotten;municipality
+302269596;Bergs kommun;Jämtland;municipality
+302269597;Bodens kommun;Norrbotten;municipality
+302269598;Bjuvs kommun;Skåne;municipality
+302269599;Borås kommun;Västra Götaland;municipality
+302269600;Bollnäs kommun;Gävleborg;municipality
+302269601;Borlänge kommun;Dalarna;municipality
+302269651;Bräcke kommun;Jämtland;municipality
+302269652;Bromölla kommun;Skåne;municipality
+302269653;Botkyrka kommun;Stockholm;municipality
+302269655;Boxholms kommun;Östergötland;municipality
+302269729;Danderyds kommun;Stockholm;municipality
+302269730;Degerfors kommun;Orebro;municipality
+302269731;Burlövs kommun;Skåne;municipality
+302269733;Dals-Ed kommun;Västra Götaland;municipality
+302269734;Ekerö kommun;Stockholm;municipality
+302269735;Eksjö kommun;Jönköping;municipality
+302269736;Dorotea kommun;Västerbotten;municipality
+302269737;Eda kommun;Värmland;municipality
+302269738;Eskilstuna kommun;Södermanland;municipality
+302269739;Eslövs kommun;Skåne;municipality
+302269740;Emmaboda kommun;Kalmar;municipality
+302269741;Enköpings kommun;Uppsala;municipality
+302269787;Falköpings kommun;Västra Götaland;municipality
+302269788;Falkenbergs kommun;Halland;municipality
+302269789;Fagersta kommun;Västmanland;municipality
+302269790;Essunga kommun;Västra Götaland;municipality
+302269791;Finspångs kommun;Östergötland;municipality
+302269792;Filipstads kommun;Värmland;municipality
+302269793;Färgelanda kommun;Västra Götaland;municipality
+302269794;Faluns kommun;Dalarna;municipality
+302269837;Gällivare kommun;Norrbotten;municipality
+302269843;Gagnefs kommun;Dalarna;municipality
+302269846;Forshaga kommun;Värmland;municipality
+302269847;Flens kommun;Södermanland;municipality
+302269848;Göteborgs kommun;Västra Götaland;municipality
+302269849;Gnosjö kommun;Jönköping;municipality
+302269851;Gislaveds kommun;Jönköping;municipality
+302269852;Gävle kommun;Gävleborg;municipality
+302269853;Gullspångs kommun;Västra Götaland;municipality
+302269854;Habo kommun;Västra Götaland;municipality
+302269856;Håbo kommun;Uppsala;municipality
+302269884;Götene kommun;Västra Götaland;municipality
+302269885;Gotlands kommun;Gotland;municipality
+302269886;Grästorps kommun;Västra Götaland;municipality
+302269888;Grums kommun;Värmland;municipality
+302269889;Hammarö kommun;Värmland;municipality
+302269891;Haparanda kommun;Norrbotten;municipality
+302269893;Härjedalens kommun;Jämtland;municipality
+302269894;Hällefors kommun;Orebro;municipality
+302269896;Hallsbergs kommun;Orebro;municipality
+302269897;Hallstahammars kommun;Västmanland;municipality
+302269898;Halmstads kommun;Halland;municipality
+302270022;Helsingborgs kommun;Skåne;municipality
+302270023;Hedemora kommun;Dalarna;municipality
+302270024;Hjo kommun;Västra Götaland;municipality
+302270025;Herrljunga kommun;Västra Götaland;municipality
+302270026;Härryda kommun;Västra Götaland;municipality
+302270027;Härnösands kommun;Västernorrland;municipality
+302270028;Heby kommun;Västmanland;municipality
+302270030;Hässleholms kommun;Skåne;municipality
+302270113;Huddinge kommun;Stockholm;municipality
+302270114;Hörby kommun;Skåne;municipality
+302270115;Hultsfreds kommun;Kalmar;municipality
+302270116;Hudiksvalls kommun;Gävleborg;municipality
+302270117;Höganäs kommun;Skåne;municipality
+302270118;Hofors kommun;Gävleborg;municipality
+302270119;Höörs kommun;Skåne;municipality
+302270120;Högsby kommun;Kalmar;municipality
+302270122;Karlsborgs kommun;Västra Götaland;municipality
+302270123;Karlshamns kommun;Blekinge;municipality
+302270124;Kalix kommun;Norrbotten;municipality
+302270125;Kalmar kommun;Kalmar;municipality
+302270126;Jokkmokks kommun;Norrbotten;municipality
+302270127;Jönköpings kommun;Jönköping;municipality
+302270128;Hylte kommun;Halland;municipality
+302270129;Järfälla kommun;Stockholm;municipality
+302270130;Kinda kommun;Östergötland;municipality
+302270131;Kiruna kommun;Norrbotten;municipality
+302270133;Kävlinge kommun;Skåne;municipality
+302270134;Kils kommun;Värmland;municipality
+302270135;Karlstads kommun;Värmland;municipality
+302270136;Katrineholms kommun;Södermanland;municipality
+302270137;Karlskoga kommun;Orebro;municipality
+302270138;Karlskrona kommun;Blekinge;municipality
+302270188;Kungälvs kommun;Västra Götaland;municipality
+302270190;Kumla kommun;Orebro;municipality
+302270191;Krokoms kommun;Jämtland;municipality
+302270192;Kristinehamns kommun;Värmland;municipality
+302270193;Kristianstads kommun;Skåne;municipality
+302270195;Kramfors kommun;Västernorrland;municipality
+302270196;Köpings kommun;Västmanland;municipality
+302270198;Klippans kommun;Skåne;municipality
+302270199;Lessebo kommun;Kronoberg;municipality
+302270200;Lerums kommun;Västra Götaland;municipality
+302270201;Leksands kommun;Dalarna;municipality
+302270203;Laxå kommun;Orebro;municipality
+302270204;Landskrona kommun;Skåne;municipality
+302270205;Laholms kommun;Halland;municipality
+302270207;Kungsörs kommun;Västmanland;municipality
+302270208;Kungsbacka kommun;Halland;municipality
+302270209;Ludvika kommun;Dalarna;municipality
+302270211;Lomma kommun;Skåne;municipality
+302270212;Lunds kommun;Skåne;municipality
+302270213;Luleå kommun;Norrbotten;municipality
+302270214;Lysekils kommun;Västra Götaland;municipality
+302270216;Lycksele kommun;Västerbotten;municipality
+302270218;Malmö kommun;Skåne;municipality
+302270219;Malå kommun;Västerbotten;municipality
+302270220;Lidköpings kommun;Västra Götaland;municipality
+302270224;Lindesbergs kommun;Orebro;municipality
+302270278;Lilla Edets kommun;Västra Götaland;municipality
+302270280;Ljungby kommun;Kronoberg;municipality
+302270282;Linköpings kommun;Östergötland;municipality
+302270283;Ljusnarsbergs kommun;Orebro;municipality
+302270285;Ljusdals kommun;Gävleborg;municipality
+302270286;Mora kommun;Dalarna;municipality
+302270290;Mörbylånga kommun;Kalmar;municipality
+302270291;Motala kommun;Östergötland;municipality
+302270292;Mullsjö kommun;Västra Götaland;municipality
+302270293;Munkedals kommun;Västra Götaland;municipality
+302270294;Munkfors kommun;Värmland;municipality
+302270296;Nacka kommun;Södermanland;municipality
+302270297;Nässjö kommun;Jönköping;municipality
+302270298;Malungs kommun;Dalarna;municipality
+302270300;Mariestads kommun;Västra Götaland;municipality
+302270301;Markaryds kommun;Kronoberg;municipality
+302270303;Marks kommun;Västra Götaland;municipality
+302270304;Melleruds kommun;Västra Götaland;municipality
+302270305;Mjölby kommun;Östergötland;municipality
+302270306;Mölndals kommun;Västra Götaland;municipality
+302270307;Mönsterås kommun;Kalmar;municipality
+302270309;Öckerö kommun;Västra Götaland;municipality
+302270310;Ockelbo kommun;Gävleborg;municipality
+302270311;Nynäshamns kommun;Stockholm;municipality
+302270312;Nyköpings kommun;Södermanland;municipality
+302270314;Örkelljunga kommun;Skåne;municipality
+302270316;Örebro kommun;Orebro;municipality
+302270317;Olofströms kommun;Blekinge;municipality
+302270318;Ödeshögs kommun;Östergötland;municipality
+302270319;Nordmalings kommun;Västerbotten;municipality
+302270320;Nordanstigs kommun;Gävleborg;municipality
+302270321;Norbergs kommun;Västmanland;municipality
+302270322;Nora kommun;Orebro;municipality
+302270323;Nybro kommun;Kalmar;municipality
+302270324;Norsjö kommun;Västerbotten;municipality
+302270325;Norrtälje kommun;Stockholm;municipality
+302270326;Norrköpings kommun;Östergötland;municipality
+302270327;Överkalix kommun;Norrbotten;municipality
+302270328;Övertorneå kommun;Norrbotten;municipality
+302270329;Östra Göinge kommun;Skåne;municipality
+302270330;Ovanåkers kommun;Gävleborg;municipality
+302270331;Partille kommun;Västra Götaland;municipality
+302270332;Perstorps kommun;Skåne;municipality
+302270333;Oxelösunds kommun;Södermanland;municipality
+302270334;Pajala kommun;Norrbotten;municipality
+302270335;Orusts kommun;Västra Götaland;municipality
+302270336;Osby kommun;Skåne;municipality
+302270337;Örnsköldsviks kommun;Västernorrland;municipality
+302270358;Orsa kommun;Dalarna;municipality
+302270361;Östersunds kommun;Jämtland;municipality
+302270362;Östhammars kommun;Uppsala;municipality
+302270365;Oskarshamns kommun;Kalmar;municipality
+302270368;Österåkers kommun;Stockholm;municipality
+302270372;Sjöbo kommun;Skåne;municipality
+302270377;Simrishamns kommun;Skåne;municipality
+302270380;Skellefteå kommun;Västerbotten;municipality
+302270384;Skara kommun;Västra Götaland;municipality
+302270387;Säters kommun;Dalarna;municipality
+302270389;Sandvikens kommun;Gävleborg;municipality
+302270390;Sigtuna kommun;Stockholm;municipality
+302270392;Sävsjö kommun;Jönköping;municipality
+302270394;Säffle kommun;Värmland;municipality
+302270396;Ronneby kommun;Blekinge;municipality
+302270397;Salems kommun;Stockholm;municipality
+302270400;Sala kommun;Västmanland;municipality
+302270402;Ragunda kommun;Jämtland;municipality
+302270403;Piteå kommun;Norrbotten;municipality
+302270406;Robertsfors kommun;Västerbotten;municipality
+302270407;Rättviks kommun;Dalarna;municipality
+302270408;Sotenäs kommun;Västra Götaland;municipality
+302270410;Staffanstorps kommun;Skåne;municipality
+302270411;Stenungsunds kommun;Västra Götaland;municipality
+302270413;Stockholms kommun;Stockholm;municipality
+302270414;Sollentuna kommun;Stockholm;municipality
+302270415;Solna kommun;Stockholm;municipality
+302270417;Sölvesborgs kommun;Blekinge;municipality
+302270485;Sorsele kommun;Västerbotten;municipality
+302270553;Söderhamns kommun;Gävleborg;municipality
+302270554;Söderköpings kommun;Östergötland;municipality
+302270555;Södertälje kommun;Stockholm;municipality
+302270556;Sollefteå kommun;Västernorrland;municipality
+302270557;Skinnskattebergs kommun;Västmanland;municipality
+302270558;Skövde kommun;Västra Götaland;municipality
+302270559;Skurups kommun;Skåne;municipality
+302270560;Smedjebackens kommun;Dalarna;municipality
+302270561;Tidaholms kommun;Västra Götaland;municipality
+302270562;Tibro kommun;Västra Götaland;municipality
+302270563;Tanums kommun;Västra Götaland;municipality
+302270564;Täby kommun;Stockholm;municipality
+302270594;Svenljunga kommun;Västra Götaland;municipality
+302270596;Svedala kommun;Skåne;municipality
+302270624;Svalövs kommun;Skåne;municipality
+302270626;Surahammars kommun;Västmanland;municipality
+302270631;Sunne kommun;Värmland;municipality
+302270632;Sundsvalls kommun;Västernorrland;municipality
+302270633;Sundbybergs kommun;Stockholm;municipality
+302270634;Strömsunds kommun;Jämtland;municipality
+302270635;Strömstads kommun;Västra Götaland;municipality
+302270696;Strängnäs kommun;Södermanland;municipality
+302270697;Storumans kommun;Västerbotten;municipality
+302270698;Storfors kommun;Värmland;municipality
+302270699;Ulricehamns kommun;Västra Götaland;municipality
+302270700;Umeå kommun;Västerbotten;municipality
+302270702;Uddevalla kommun;Västra Götaland;municipality
+302270703;Trelleborgs kommun;Skåne;municipality
+302270704;Trollhättans kommun;Västra Götaland;municipality
+302270705;Tranås kommun;Jönköping;municipality
+302270706;Tranemo kommun;Västra Götaland;municipality
+302270707;Torsås kommun;Kalmar;municipality
+302270708;Torsby kommun;Värmland;municipality
+302270754;Tomelilla kommun;Skåne;municipality
+302270756;Töreboda kommun;Västra Götaland;municipality
+302270757;Tingsryds kommun;Kronoberg;municipality
+302270758;Tjörns kommun;Västra Götaland;municipality
+302270759;Tierps kommun;Uppsala;municipality
+302270761;Timrå kommun;Västernorrland;municipality
+302270762;Växjö kommun;Kronoberg;municipality
+302270763;Vaxholms kommun;Stockholm;municipality
+302270764;Västerviks kommun;Kalmar;municipality
+302270765;Västerås kommun;Västmanland;municipality
+302270766;Vimmerby kommun;Kalmar;municipality
+302270768;Vilhelmina kommun;Västerbotten;municipality
+302270769;Vetlanda kommun;Jönköping;municipality
+302270770;Vellinge kommun;Skåne;municipality
+302270771;Ystads kommun;Skåne;municipality
+302270772;Ydre kommun;Östergötland;municipality
+302270773;Vingåkers kommun;Södermanland;municipality
+302270774;Vindelns kommun;Västerbotten;municipality
+302270775;Bollebygds kommun;Västra Götaland;municipality
+302270814;Knivsta kommun;Uppsala;municipality
+302270870;Trosa kommun;Södermanland;municipality
+302270871;Gnesta kommun;Södermanland;municipality
+302270873;Uppsala kommun;Uppsala;municipality
+302270874;Uppvidinge kommun;Kronoberg;municipality
+302270875;Upplands-Bro kommun;Stockholm;municipality
+302270876;Upplands-Väsby kommun;Stockholm;municipality
+302270878;Valdemarsviks kommun;Östergötland;municipality
+302270879;Vallentuna kommun;Stockholm;municipality
+302270880;Vadstena kommun;Östergötland;municipality
+302270881;Vaggeryds kommun;Jönköping;municipality
+302270882;Vansbro kommun;Dalarna;municipality
+302270883;Vara kommun;Västra Götaland;municipality
+302270884;Vänersborgs kommun;Västra Götaland;municipality
+302270885;Vännäs kommun;Västerbotten;municipality
+302270886;Värmdö kommun;Stockholm;municipality
+302270887;Värnamo kommun;Jönköping;municipality
+302270888;Varbergs kommun;Halland;municipality
+302270889;Vårgårda kommun;Västra Götaland;municipality
+302270890;Lekebergs kommun;Orebro;municipality
+302270891;Nykvarns kommun;Stockholm;municipality
+302592298;Härkeberga;Uppsala;hamlet
+302603409;Nåntuna Backe;Uppsala;suburb
+302604452;Sunnersta;Uppsala;suburb
+302838204;Reftele;Jönköping;village
+302900752;Brf. Holaveden;Stockholm;locality
+302938560;Stavsnäs;Stockholm;village
+302946280;Tun;Västra Götaland;village
+302946289;Friel;Västra Götaland;hamlet
+302946312;Tådene;Västra Götaland;hamlet
+302946317;Norra Kedum;Västra Götaland;hamlet
+303017849;Trasthagen;Stockholm;hamlet
+303019304;Koltorp;Stockholm;locality
+303019530;Ekholmsnäs;Stockholm;locality
+303057459;Mossebo;Västra Götaland;village
+303061683;Anderstorp;Jönköping;town
+303072760;Björkudden;Stockholm;locality
+303072762;Bosön;Stockholm;island
+303072763;Brevik;Stockholm;village
+303072765;Gåshaga;Stockholm;suburb
+303072769;Hjorthagen;Stockholm;suburb
+303072777;Käppala;Stockholm;suburb
+303072778;Killinge;Stockholm;suburb
+303072782;Kottla;Stockholm;suburb
+303072786;Lidingö Kommun;Stockholm;municipality
+303072791;Lidingön;Stockholm;island
+303072793;Östra Yttringe;Stockholm;locality
+303072796;Mölna;Stockholm;suburb
+303072800;Skärsätra;Stockholm;suburb
+303072805;Torsvik;Stockholm;suburb
+303072807;Stora Höggarn;Stockholm;island
+303072810;Västra Yttringe;Stockholm;village
+303072811;Tyktorp;Stockholm;locality
+303081159;Arninge;Stockholm;suburb
+303224957;Gamla Hulta;Blekinge;suburb
+303312821;Vallhov;Gävleborg;suburb
+303484063;Almö;Blekinge;island
+303484270;Västra Hästholmen;Blekinge;island
+303575964;Smygehamn;Skåne;village
+303598950;Gunnes gard;Stockholm;hamlet
+303729275;Gästholmen;Stockholm;island
+303737988;Egna Hem;Jönköping;suburb
+303739155;Jutaholm;Jönköping;suburb
+303739167;Fagerslätt;Jönköping;suburb
+303739280;Pettersberg;Jönköping;suburb
+303739348;Stensholm;Jönköping;suburb
+303739544;Jöransberg;Jönköping;suburb
+303739679;Bråneryd;Jönköping;suburb
+303739972;Kaxholmen;Jönköping;village
+303743048;Söder;Jönköping;suburb
+304050386;Årsta havsbad;Stockholm;village
+304051622;Jordbro;Stockholm;village
+304096659;Nitta;Västra Götaland;village
+304097077;Härna;Västra Götaland;hamlet
+304103216;Molla;Västra Götaland;hamlet
+304119248;Skölvene;Västra Götaland;hamlet
+304575099;Fågelåsen;Dalarna;hamlet
+304575100;Brunnsätern;Dalarna;hamlet
+304575101;Id-Persätern;Dalarna;locality
+304575105;Gördalen;Dalarna;hamlet
+304587218;Sörsjön;Dalarna;hamlet
+304587219;Fulunäs;Dalarna;hamlet
+304587220;Morbäckssätern;Dalarna;hamlet
+304587242;Våtkölssätern;Dalarna;hamlet
+304587254;Storbron;Dalarna;locality
+304589896;Skarsåsen;Dalarna;hamlet
+304777094;Koppom;Värmland;village
+304874809;Håverud;Västra Götaland;hamlet
+304950828;Säbyholm;Stockholm;hamlet
+305107090;Algutsrum;Kalmar;village
+305160325;Gislövs läge;Skåne;village
+305163756;Byxelkrok;Kalmar;village
+305163949;Gärdslösa;Kalmar;village
+305165030;Österskog;Kalmar;village
+305165538;Torp (Öland);Kalmar;village
+305165661;Strandtorp;Kalmar;village
+305165872;Störlinge;Kalmar;village
+305166105;Sandvik (Öland);Kalmar;village
+305166357;Ramsättra;Kalmar;village
+305183628;Östermalm;Norrbotten;suburb
+305186855;Gimo;Uppsala;village
+305237225;Stömne;Värmland;village
+305240299;Ivla hembygdsgård;Kronoberg;locality
+305368688;Dammtorp;Stockholm;locality
+305369137;Sorentorp;Stockholm;locality
+305736258;Tomten;Västra Götaland;hamlet
+305740422;Folkeslunda;Kalmar;village
+305745118;Ivla;Kronoberg;hamlet
+305745528;Sodra Ljunga;Kronoberg;village
+305773502;Rosenlund;Västra Götaland;village
+305784823;Daglösen;Värmland;hamlet
+306181128;Mjölkudden;Norrbotten;suburb
+306217138;Risängen;Östergötland;suburb
+306244078;Tärnaby;Västerbotten;village
+306690473;Gråen;Skåne;island
+307431092;Tolarp;Jönköping;hamlet
+307431615;Lalleryd;Jönköping;hamlet
+307431725;Eskilstorp;Jönköping;hamlet
+307433247;Daräng;Västra Götaland;hamlet
+307435581;Åsen;Jönköping;hamlet
+307458214;Kålgården;Jönköping;suburb
+307458290;Öster;Jönköping;suburb
+307458404;Liljeholmen;Jönköping;suburb
+307458580;Solåsen;Jönköping;suburb
+307458620;Ljungarum;Jönköping;suburb
+307458674;Ljungarum södra;Jönköping;suburb
+307458715;Ljungarum norra;Jönköping;suburb
+307458905;Gamla flygfältet;Jönköping;suburb
+307458971;Gamla Råslätt;Jönköping;suburb
+307459028;Vistorp;Västra Götaland;hamlet
+307459031;Margreteholm;Västra Götaland;hamlet
+307459260;Backamo;Västra Götaland;suburb
+307459334;Attarp;Jönköping;suburb
+307459442;Gröna ängar;Jönköping;suburb
+307459462;Nyarp;Jönköping;suburb
+307459480;Torp;Jönköping;suburb
+307459507;Berghalla;Jönköping;suburb
+307459521;Sjöåkra;Jönköping;suburb
+307459618;Prinseryd;Jönköping;hamlet
+307459740;Domsand;Västra Götaland;hamlet
+307460152;Ätran;Halland;village
+307466779;Skeppshult;Jönköping;village
+307466788;Fegen;Halland;hamlet
+307466789;Bolmsö kyrkby;Kronoberg;village
+307466790;Sporda;Jönköping;hamlet
+307558434;Saxhult;Halland;hamlet
+307558435;Sofieslätt;Halland;hamlet
+307558436;Högshult;Halland;hamlet
+307559540;Tofta;Kronoberg;hamlet
+307559541;Hovdinge;Kronoberg;hamlet
+307559543;Bjärnaryd;Kronoberg;hamlet
+307559544;Bolmstad;Kronoberg;hamlet
+307560130;Tannåker;Kronoberg;hamlet
+307560134;Bolmsö;Kronoberg;island
+307560135;Hölminge;Kronoberg;hamlet
+307560136;Hov;Kronoberg;hamlet
+307560137;Österås;Kronoberg;hamlet
+307560138;Sunnaryd;Jönköping;hamlet
+307560139;Jälluntofta;Halland;hamlet
+307560140;Käringanäs;Jönköping;hamlet
+307561299;Sandsered;Halland;hamlet
+307740797;Östra Vemmerlöv;Skåne;village
+307747375;Gladsax;Skåne;village
+307791882;Rörum;Skåne;hamlet
+307798139;Marielundsområdet;Jönköping;suburb
+307803708;Gröstorp;Skåne;village
+307803751;Gyllebo;Skåne;hamlet
+307956361;Simpnäs;Stockholm;village
+307956733;Skeppsmyra;Stockholm;hamlet
+307956755;Skaten;Stockholm;village
+308013734;Lerkaka;Kalmar;village
+308013986;Kårehamn;Kalmar;village
+308014224;Hörninge;Kalmar;village
+308025913;Bottnaryd;Jönköping;village
+308026322;Tenhult;Jönköping;village
+308026368;Barnarp;Jönköping;village
+308050087;Taberg;Jönköping;village
+308051200;Norrahammar;Jönköping;village
+308053262;Byarum;Jönköping;village
+308053304;Hok;Jönköping;village
+308053449;Malmbäck;Jönköping;village
+308053648;Hörle;Jönköping;village
+308053936;Smålandsstenar;Jönköping;town
+308054286;Lanna;Jönköping;village
+308054405;Forsheda;Jönköping;village
+308055126;Horda;Jönköping;village
+308188139;Nora;Stockholm;suburb
+308259678;Lulsundet;Norrbotten;suburb
+308302544;Brantevik;Skåne;village
+308302548;Örnahusen;Skåne;village
+308303437;Hannas;Skåne;hamlet
+308505573;Nyhamnsläge;Skåne;village
+308679692;Norra Härene;Västra Götaland;hamlet
+308679693;Resville;Västra Götaland;hamlet
+308796549;Iggesund;Gävleborg;village
+308814875;Genevad;Halland;village
+308818077;Skurholmen;Norrbotten;suburb
+308828064;Veinge kyrkby;Halland;hamlet
+308832688;Verum;Skåne;hamlet
+308837361;Visseltofta;Skåne;hamlet
+308868347;Gävunda;Dalarna;hamlet
+308902839;Vittersjön;Gävleborg;hamlet
+308903281;Gammelfäbodarna;Gävleborg;hamlet
+308958985;Östermo;Jönköping;suburb
+308959066;Hjortsjö;Jönköping;suburb
+308959134;Götafors;Jönköping;suburb
+308959208;Södrapark;Jönköping;suburb
+309330427;Skedemosse;Kalmar;hamlet
+309368683;Slaka;Östergötland;village
+309480744;Gissebäck;Jönköping;hamlet
+309491770;Stensjön;Jönköping;village
+309491773;Ekenässjön;Jönköping;village
+309521679;Gustav Adolf;Västra Götaland;hamlet
+309528433;Härja;Västra Götaland;hamlet
+309535597;Furusjö;Västra Götaland;village
+309538934;Kymbo;Västra Götaland;hamlet
+309559768;Värestorp;Skåne;hamlet
+309560009;Immeln;Skåne;village
+309822959;Heden;Gävleborg;hamlet
+309845990;Huseby bruk;Kronoberg;hamlet
+309967940;Hjärsta;Orebro;suburb
+309967950;Baronbackarna;Orebro;suburb
+309968601;Vivalla;Orebro;suburb
+309969252;Holmen;Orebro;suburb
+309969519;Boglundsängen;Orebro;suburb
+309970070;Hagaby;Orebro;suburb
+309970919;Ladugårdsängen;Orebro;suburb
+309971139;Sörbyängen;Orebro;suburb
+310255429;Hejdegården;Östergötland;suburb
+310509483;Nykvarn;Uppsala;hamlet
+310509523;Nor;Uppsala;hamlet
+310514318;Skottstilla;Uppsala;hamlet
+310514894;Forsby;Uppsala;hamlet
+310559660;Örnäset;Norrbotten;suburb
+310619717;Solhöjden;Stockholm;hamlet
+311012890;Lövstabruk;Uppsala;village
+311156914;Snarringe;Skåne;hamlet
+311157272;Stora Slågarp;Skåne;hamlet
+311157279;Klörup;Skåne;hamlet
+311211785;Melldala;Västra Götaland;hamlet
+311344034;Forsmark;Uppsala;village
+311348336;Österbybruk;Uppsala;village
+311349605;Vattholma;Uppsala;village
+311570278;Sandbäck;Jönköping;village
+312095610;Önneslöv;Skåne;hamlet
+312345791;Yttertavle;Västerbotten;hamlet
+312457125;Rödåsel;Västerbotten;hamlet
+312457127;Rödånäs;Västerbotten;hamlet
+312466407;Kvarnsvedjan;Västerbotten;hamlet
+312646243;Danskagården;Västra Götaland;hamlet
+312646246;Dala;Västra Götaland;hamlet
+312653734;Kämpersvik;Västra Götaland;hamlet
+312657120;Stennäs;Västerbotten;hamlet
+312657132;Nilsland;Västerbotten;hamlet
+312662341;Kvarntorp;Västerbotten;hamlet
+312662355;Hälsingfors;Västerbotten;village
+312662493;Hälsingborg;Västerbotten;village
+312662497;Bjurfors;Västerbotten;village
+312662571;Näsland;Västerbotten;hamlet
+312662617;Hednäs;Västerbotten;hamlet
+312662637;Tegsnäset;Västerbotten;hamlet
+312662682;Norrfors;Västerbotten;hamlet
+312662688;Granö;Västerbotten;village
+312662739;Strandåker;Västerbotten;hamlet
+312662751;Videlund;Västerbotten;hamlet
+312662758;Vidstrandsnäs;Västerbotten;hamlet
+312667451;Granölund;Västerbotten;hamlet
+312667513;Lillsele;Västerbotten;hamlet
+312667636;Benders;Västerbotten;hamlet
+312667744;Ringaborg;Västerbotten;hamlet
+312667750;Karonsbo;Västerbotten;hamlet
+312667756;Österlund;Västerbotten;hamlet
+312667769;Hede;Västerbotten;hamlet
+312667793;Furuvik;Västerbotten;suburb
+312681171;Bäsksele;Västerbotten;hamlet
+312681172;Latikberg;Västerbotten;hamlet
+312703020;Norrlunda;Västerbotten;hamlet
+312703124;Brännland;Västerbotten;hamlet
+312703144;Umgransele;Västerbotten;village
+312787581;Högsbotorp;Västra Götaland;suburb
+312914542;Kaverös;Västra Götaland;suburb
+312914554;Flatås;Västra Götaland;suburb
+312914568;Högsbo;Västra Götaland;suburb
+312914689;Ruddalen;Västra Götaland;suburb
+312914707;Järnbrott;Västra Götaland;suburb
+312914757;Tofta;Västra Götaland;suburb
+313103322;Brattby;Västerbotten;village
+313103332;Vännäsby;Västerbotten;village
+313104072;Älgsjö;Västerbotten;hamlet
+313106032;Bollstabruk;Västernorrland;village
+313106445;Sandö;Västernorrland;island
+313106486;Lunde;Västernorrland;village
+313106520;Klockestrand;Västernorrland;hamlet
+313178682;Sörfors;Västerbotten;village
+313178685;Baggböle;Västerbotten;village
+313178688;Kåddis;Västerbotten;hamlet
+313178690;Klabböle;Västerbotten;village
+313181299;Umedalen;Västerbotten;suburb
+313181301;Backen;Västerbotten;suburb
+313240994;Aggarp;Skåne;hamlet
+313437624;Rödäng;Västerbotten;suburb
+313437748;Västerslätt;Västerbotten;suburb
+313438537;Röbäcksdalen;Västerbotten;locality
+313622050;Näsum;Skåne;village
+313622440;Vånga;Skåne;hamlet
+313622499;Arkelstorp;Skåne;village
+313708912;Lilla Åby;Östergötland;hamlet
+313980068;Aspö MAD;Blekinge;hamlet
+313980072;Hornudden;Blekinge;hamlet
+313980075;Drottingskär;Blekinge;hamlet
+313980086;Ryd;Blekinge;hamlet
+313980092;Kroken;Blekinge;hamlet
+313980095;Bäck;Blekinge;hamlet
+314429692;Källö-Knippla;Västra Götaland;island
+314442206;Kvarnby;Skåne;hamlet
+314516196;Smygehuk;Skåne;hamlet
+314519260;Fosie;Skåne;suburb
+314519263;Hyllie;Skåne;suburb
+314525854;Centrum;Skåne;suburb
+314525856;Västra Innerstaden;Skåne;suburb
+314525857;Södra Innerstaden;Skåne;suburb
+314525859;Rosengård;Skåne;suburb
+314525860;Husie;Skåne;suburb
+314525863;Kirseberg;Skåne;suburb
+314525865;Limhamn-Bunkeflo;Skåne;suburb
+314929945;Vägasked;Skåne;hamlet
+315425843;Söderslätt;Västerbotten;suburb
+315425909;Centrum;Västerbotten;suburb
+315665360;Jägarvallen;Östergötland;suburb
+315798539;Universitetsområdet;Östergötland;suburb
+315848354;Tornsborg;Skåne;hamlet
+315848620;Snälleröd;Skåne;hamlet
+315848634;Torraröd;Skåne;hamlet
+315850013;Hallaröd;Skåne;hamlet
+315929815;Åsa;Halland;village
+315967504;Livered;Västra Götaland;hamlet
+315972839;Skepplanda;Västra Götaland;village
+315973659;Gräfsnäs;Västra Götaland;village
+315993233;Långsjö;Stockholm;suburb
+315998736;Blåviksjön;Västerbotten;village
+316000629;Åskilje;Västerbotten;village
+316125083;Herrängen;Stockholm;suburb
+316650076;Gottröra;Stockholm;hamlet
+316650151;Närtuna;Stockholm;hamlet
+316650985;Rånäs;Stockholm;village
+316674088;Norra Åby;Skåne;hamlet
+317197478;Strömsund;Västerbotten;village
+317450739;Bruksvallarna;Jämtland;hamlet
+317453396;Ramundberget;Jämtland;hamlet
+317477458;Östra Svenstorp;Skåne;hamlet
+317611182;Kysinge;Uppsala;hamlet
+317677206;Solhaga;Orebro;suburb
+317677207;Västhaga;Orebro;suburb
+317677208;Älvtomta;Orebro;suburb
+317677209;Rosta;Orebro;suburb
+317677210;Örnsro;Orebro;suburb
+317677211;Markbacken;Orebro;suburb
+317677212;Varberga;Orebro;suburb
+317686878;Nyvik;Västerbotten;suburb
+317946815;Ankarsund;Västerbotten;village
+317954405;Slussfors;Västerbotten;village
+317959578;Umnäs;Västerbotten;village
+317967846;Vallnäs;Västerbotten;suburb
+317967849;Norrbacka;Västerbotten;suburb
+317976474;Forsmark;Västerbotten;village
+317978934;Gardvik;Västerbotten;hamlet
+318077366;Veddige;Halland;village
+318077613;Limabacka;Halland;village
+318077651;Väröbacka;Halland;village
+318116466;Görslöv;Skåne;hamlet
+318261652;Kölnans fritidsby;Skåne;hamlet
+318325211;Almåsa fritidsby;Skåne;hamlet
+318356522;Västerhiske;Västerbotten;suburb
+318625706;Riddarfjärden;Stockholm;locality
+318627825;Karlbergskanalen;Stockholm;locality
+319311027;Böste läge;Skåne;hamlet
+319431936;Sunnanå;Skåne;hamlet
+319792923;Stugun;Jämtland;village
+320201162;Bergshamra;Stockholm;village
+320526605;Bjursås;Dalarna;village
+320621173;Persbacka;Gävleborg;hamlet
+320881828;Sävsjöström;Kronoberg;village
+320881844;Ideboås;Kronoberg;hamlet
+320881845;Björkshult;Kalmar;hamlet
+320881847;Pikaböl;Kalmar;hamlet
+320907610;Riala;Stockholm;village
+320907612;Finsta;Stockholm;hamlet
+321189359;Hagsätra;Stockholm;suburb
+321191173;Zinkgruvan;Orebro;village
+321191608;Godegård;Östergötland;village
+321191609;Mariedamm;Orebro;hamlet
+321191610;Tybble;Östergötland;hamlet
+321237865;Korset;Dalarna;locality
+321398018;Ammarnäs;Västerbotten;village
+321401009;Böleäng;Västerbotten;suburb
+321401414;Västteg;Västerbotten;suburb
+321438572;Nordanö;Dalarna;village
+321438812;Fors;Dalarna;village
+321439191;Näs bruk;Dalarna;village
+321441529;Västerby;Dalarna;village
+321442877;Grangärde;Dalarna;village
+321443150;Saxdalen;Dalarna;village
+321443248;Gonäs;Dalarna;village
+321444006;Blötberget;Dalarna;village
+321445211;Sörvik;Dalarna;village
+321445884;Hagge;Dalarna;village
+321446242;Håksberg;Dalarna;village
+321446281;Persbo;Dalarna;village
+321446596;Gubbo;Dalarna;village
+321447080;Vad;Dalarna;village
+321447799;Björsjö;Dalarna;hamlet
+321448794;Mora;Dalarna;village
+321451316;Torsång;Dalarna;village
+321452998;Repbäcken;Dalarna;village
+321453425;Norr Amsberg;Dalarna;village
+321454925;Toftbyn;Dalarna;village
+321455102;Bengtsheden;Dalarna;village
+321455418;Bingsjö;Dalarna;hamlet
+321472609;Sågmyra;Dalarna;village
+321474894;Nedre Gärdsjö;Dalarna;village
+321477328;Skattungbyn;Dalarna;village
+321480194;Vinäs;Dalarna;village
+321485248;Torgåsmon;Dalarna;hamlet
+321485566;Lima;Dalarna;village
+321485750;Limedsforsen;Dalarna;village
+321486128;Malungsfors;Dalarna;village
+321487059;Yttermalung;Dalarna;village
+321490232;Djurmo;Dalarna;village
+321490241;Bäsna;Dalarna;village
+321490281;Sifferbo;Dalarna;village
+321490803;Djura;Dalarna;village
+321491773;Häradsbygden;Dalarna;village
+321492367;Alvik;Dalarna;village
+321492520;Hjortnäs;Dalarna;hamlet
+321517816;Hinken;Dalarna;locality
+321561878;Bureå;Västerbotten;village
+321796008;Slätmossen;Stockholm;locality
+321878135;Brämhult;Västra Götaland;suburb
+321880386;Hässleholmen;Västra Götaland;suburb
+321998039;Göta;Västra Götaland;suburb
+321998775;Sjöbo;Västra Götaland;suburb
+322010101;Alby Friluftsgård;Stockholm;farm
+322010114;Uddby Gård;Stockholm;farm
+322053513;Atjiknäset;Västerbotten;island
+322053519;Stenträsk;Västerbotten;hamlet
+322053523;Rönnbäcksnäset;Västerbotten;island
+322053578;Lövlund;Västerbotten;hamlet
+322055802;Kaunatsnäset;Västerbotten;locality
+322055814;Bränna;Västerbotten;hamlet
+322055821;Vallenäs;Västerbotten;hamlet
+322056383;Fällan;Västerbotten;locality
+322079129;Gånghester;Västra Götaland;suburb
+322079240;Målsryd;Västra Götaland;village
+322079247;Trandared;Västra Götaland;suburb
+322079467;Hulta;Västra Götaland;suburb
+322079555;Norrmalm;Västra Götaland;suburb
+322079626;Hestra;Västra Götaland;suburb
+322079691;Jutabo;Västra Götaland;hamlet
+322089681;Ekås;Västra Götaland;hamlet
+322089786;Sandhult;Västra Götaland;village
+322089975;Sjömarken;Västra Götaland;village
+322090162;Olsfors;Västra Götaland;hamlet
+322135383;Hulu;Västra Götaland;village
+322182038;Sannäs;Västra Götaland;village
+322254406;Håby;Västra Götaland;hamlet
+322329736;Handen;Stockholm;town
+322478183;Dannike;Västra Götaland;village
+322478887;Fågelsta;Östergötland;village
+322521540;Stålfjäll;Västerbotten;hamlet
+322524898;Yttervik;Västerbotten;village
+322534385;Klimpnäset;Västerbotten;locality
+322569731;Sundsliden;Västerbotten;hamlet
+322569738;Storsand;Västerbotten;hamlet
+322569740;Bäcknäs;Västerbotten;hamlet
+322569750;Sundsgården;Västerbotten;hamlet
+322575442;Nedre Granås;Västerbotten;hamlet
+322641304;Konäset;Västerbotten;hamlet
+322641305;Getviken;Västerbotten;hamlet
+322641720;Laisholm;Västerbotten;hamlet
+322643663;Norra Fjällnäs;Västerbotten;village
+322643664;Siamsbäcken;Västerbotten;hamlet
+322673761;Västansjö;Västerbotten;village
+322678376;Portbron;Västerbotten;hamlet
+322680044;Hemavan;Västerbotten;village
+322686955;Söderby;Stockholm;hamlet
+322738008;Vittene;Västra Götaland;hamlet
+322765710;Björkeberga;Skåne;hamlet
+322814101;Rabbalshede;Västra Götaland;village
+322824826;Ön;Västra Götaland;hamlet
+322825186;Kville;Västra Götaland;village
+322838197;Bärfendal;Västra Götaland;hamlet
+322880462;Munkedalsparken;Västra Götaland;locality
+323123160;Såghyttan;Dalarna;locality
+323123200;Skvalta;Dalarna;locality
+323126959;Stenkumlet;Dalarna;locality
+323126979;Trotzigs koja;Dalarna;locality
+323138550;Kivnäbben;Dalarna;hamlet
+323138603;Busktäkt;Dalarna;hamlet
+323138615;Eriksberg;Dalarna;hamlet
+323138670;Fernviken;Dalarna;hamlet
+323211020;Barnängen;Stockholm;locality
+323234133;Danvikstull;Stockholm;locality
+323238489;Hammarbysjöstad;Stockholm;locality
+323815197;Idresjöns Stugby;Dalarna;hamlet
+323867126;Munkeland;Västra Götaland;locality
+324111238;Arctic Paper Munkedal;Västra Götaland;locality
+324572882;Bullarebygden;Västra Götaland;village
+324580012;Östad;Västra Götaland;village
+324590172;Hamburgsund;Västra Götaland;village
+324590192;Slottet;Västra Götaland;village
+324591864;Svenneby;Västra Götaland;hamlet
+324660956;Mariefred;Södermanland;town
+324660981;Öster;Södermanland;suburb
+325065538;Tyresta by;Stockholm;hamlet
+325156247;Foskdalsvallen;Dalarna;hamlet
+325192556;Kolsva;Västmanland;village
+325791967;Önnarp;Skåne;hamlet
+325870707;Brofall;Kalmar;hamlet
+325898110;Rydsgård;Skåne;village
+325920044;Svarte;Skåne;village
+325963948;Spjutstorp;Skåne;village
+327264705;Norrmjöle;Västerbotten;village
+327265635;Sörmjöle;Västerbotten;village
+327265639;Ansmark;Västerbotten;village
+327477321;Gislöv;Skåne;hamlet
+327493480;Klämma;Västra Götaland;hamlet
+327506626;Svinåsa;Västra Götaland;hamlet
+327508618;Skogsryd;Västra Götaland;hamlet
+327514182;Eskilsryd;Västra Götaland;hamlet
+327514477;Bäckäng;Västra Götaland;hamlet
+327536432;Vallby;Skåne;hamlet
+328729032;Frufällan;Västra Götaland;village
+328730022;Sparsör;Västra Götaland;village
+328742440;Rångedala;Västra Götaland;village
+328991988;Kallebäck;Västra Götaland;suburb
+328996112;Örgryte;Västra Götaland;suburb
+329138480;Tollered;Västra Götaland;village
+329143581;Skogatorp;Västra Götaland;hamlet
+329143712;Harås;Västra Götaland;hamlet
+329437909;Främgärde;Västra Götaland;hamlet
+330066800;Värpinge by;Skåne;hamlet
+330170422;Emmaljunga;Skåne;village
+330192080;Bye;Västernorrland;village
+330311260;Glemmingebro;Skåne;village
+330312628;Hedeskoga;Skåne;village
+330317247;Bjäresjö;Skåne;hamlet
+330318962;Hagestad;Skåne;hamlet
+330321891;Janstorp;Skåne;hamlet
+330325751;Lindby;Skåne;hamlet
+330327583;Sandåkra;Skåne;hamlet
+330328122;Slimminge;Skåne;hamlet
+330328813;Västra Nöbbelöv;Skåne;hamlet
+330426116;Våge;Jämtland;hamlet
+330426142;Hallen;Jämtland;village
+330426176;Låsböle;Jämtland;hamlet
+330426187;Höla;Jämtland;hamlet
+330426189;Hölåsen;Jämtland;hamlet
+330426283;Gärdsta;Jämtland;hamlet
+330426286;Svedje;Jämtland;hamlet
+330426288;Brattåsen;Jämtland;hamlet
+330426289;Böle;Jämtland;hamlet
+330426291;Månsåsen;Jämtland;hamlet
+330426298;Bölåsen;Jämtland;hamlet
+330426301;Borgen;Jämtland;hamlet
+330426356;Hoverberg;Jämtland;hamlet
+330426358;Vigge;Jämtland;hamlet
+330426365;Hovermo;Jämtland;hamlet
+330426370;Västnor;Jämtland;hamlet
+330432505;Karlsberg;Gävleborg;hamlet
+330443046;Lomsjöhed;Gävleborg;hamlet
+330457838;Överbo;Gävleborg;hamlet
+330457909;Norrgårdarna;Gävleborg;hamlet
+330458006;Voxna;Gävleborg;hamlet
+330458083;Finnstuga;Gävleborg;hamlet
+330458560;Dalfors;Dalarna;hamlet
+330458562;Åssjöbo;Dalarna;hamlet
+330472246;Mattsmyra;Gävleborg;hamlet
+330472249;Lobonäs;Gävleborg;hamlet
+330472252;Brännmyra;Gävleborg;hamlet
+330472255;Karsvall;Gävleborg;hamlet
+330472258;Gammeltorp;Gävleborg;hamlet
+330472261;Borrsjö;Gävleborg;hamlet
+330472264;Kårböleskog;Gävleborg;hamlet
+330473476;Huskölen;Jämtland;hamlet
+330480696;Åsarna;Jämtland;village
+330480698;Gällnäskrogen;Jämtland;hamlet
+330480700;Brånan;Jämtland;hamlet
+330781197;Ål-Kilen;Dalarna;hamlet
+330794643;Ulvshyttan;Dalarna;hamlet
+330795144;Landforsen;Dalarna;hamlet
+330802864;Silverhöjden;Orebro;hamlet
+330802865;Bastkärn;Orebro;hamlet
+330802867;Högfors;Orebro;hamlet
+330802871;Guldsmedshyttan;Orebro;suburb
+330802872;Fanthyttan;Orebro;hamlet
+330802873;Hällabacken;Orebro;hamlet
+330802874;Fornaboda;Orebro;hamlet
+330919887;Gustavsvik;Stockholm;village
+331072240;Röke;Skåne;village
+331169584;Ljungverk;Västernorrland;village
+331212569;Hedenäset;Norrbotten;village
+331248626;Ekhov;Södermanland;suburb
+331249313;Målartorp;Södermanland;suburb
+331249680;Slottsbrinken;Södermanland;suburb
+331250180;Ryborg;Södermanland;suburb
+331250371;Skogsborg;Södermanland;suburb
+331250720;Bondängen;Södermanland;suburb
+331254408;Nevishög;Skåne;hamlet
+331368907;Västra Torup;Skåne;village
+332333143;Mellanberg;Stockholm;hamlet
+332333175;Rudans gård;Stockholm;hamlet
+332333211;Kalvsvik;Stockholm;hamlet
+332423024;Hällnäs;Västerbotten;village
+332533055;Spjutsbygd;Blekinge;village
+332533058;Vissefjärda;Kalmar;village
+333113411;Skogskyrkan;Skåne;locality
+333125066;Uggleskrik;Skåne;hamlet
+333129294;Nyvla gård;Uppsala;farm
+333277109;Sjogerstad;Västra Götaland;hamlet
+333676847;Kärradal;Halland;village
+333795398;Kumlatofta;Skåne;hamlet
+333862600;Folkestorp;Skåne;hamlet
+334646749;Ekängen;Östergötland;hamlet
+335344039;Riddarhyttan;Västmanland;village
+335348749;Morgongåva;Västmanland;village
+335349170;Vittinge;Västmanland;village
+335349547;Runhällen;Västmanland;village
+335350017;Tärnsjö;Västmanland;village
+335351065;Harbo;Västmanland;village
+335352996;Valskog;Västmanland;village
+335353872;Sörstafors;Västmanland;village
+335354595;Kolbäck;Västmanland;village
+335355293;Strömsholm;Västmanland;village
+335359186;Tillberga;Västmanland;village
+335359505;Hökåsen;Västmanland;village
+335360345;Skultuna;Västmanland;village
+335362028;Munga;Västmanland;village
+335364622;Irsta;Västmanland;village
+335366297;Enhagen-Ekbacken;Västmanland;village
+335366492;Barkarö;Västmanland;village
+335366702;Tidö-Lindö;Västmanland;village
+335367213;Kvicksund;Västmanland;village
+335367484;Dingtuna;Västmanland;village
+335369622;Ransta;Västmanland;village
+335370721;Kumla kyrkby;Västmanland;village
+335371271;Sätra brunn;Västmanland;village
+335372498;Salbohed;Västmanland;village
+335372996;Västerfärnebo;Västmanland;village
+335387826;Munktorp;Västmanland;village
+335389194;Medåker;Västmanland;village
+335390355;Götlunda;Västmanland;village
+335582741;Tived;Orebro;village
+335655712;Löwenströmska lasarettet;Stockholm;village
+335655819;Ekeby;Stockholm;village
+335659677;Råby;Uppsala;village
+335659971;Krägga;Uppsala;village
+335661254;Häggeby;Uppsala;hamlet
+335661521;Vreta;Uppsala;village
+335661929;Söderskogen;Uppsala;village
+335661986;Slottsskogen;Uppsala;village
+335662486;Grillby;Uppsala;village
+335663873;Lillkyrka;Uppsala;village
+335668912;Fjärdhundra;Uppsala;village
+335669612;Hummelsta;Uppsala;village
+335670411;Haga;Uppsala;village
+335670857;Öregrund;Uppsala;village
+335671165;Hargshamn;Uppsala;village
+335671777;Skoby;Uppsala;village
+335672695;Dannemora;Uppsala;village
+335673287;Norrskedika;Uppsala;village
+335673543;Skyttorp;Uppsala;village
+335673748;Läby;Uppsala;village
+335674083;Björklinge;Uppsala;village
+335674765;Storvreta;Uppsala;village
+335675027;Gåvsta;Uppsala;village
+335675797;Ullbolsta;Uppsala;hamlet
+335675820;Oxsätra;Uppsala;hamlet
+335675944;Vänge;Uppsala;village
+335695457;Gunsta;Uppsala;village
+335695587;Länna;Uppsala;village
+335695674;Almunge;Uppsala;village
+335695847;Knutby;Uppsala;village
+335697781;Vreta;Uppsala;village
+335697863;Ytternäs;Uppsala;hamlet
+335698329;Skölsta;Uppsala;village
+335700976;Järlåsa;Uppsala;village
+335701557;Bärby;Uppsala;village
+335701736;Örbyhus;Uppsala;village
+335701869;Upplanda;Uppsala;village
+335701942;Tobo;Uppsala;village
+335702027;Månkarbo;Uppsala;village
+335702546;Mehedeby;Uppsala;village
+335703133;Marma;Uppsala;village
+335704368;Karlholmsbruk;Uppsala;village
+335707596;Eggegrund;Uppsala;island
+335707755;Fågelsundet;Uppsala;hamlet
+335711014;Fogdö;Stockholm;island
+335711015;Singö;Stockholm;island
+335711218;Väddö;Stockholm;island
+335711672;Herräng;Stockholm;village
+335711697;Hallstavik;Stockholm;village
+335712133;Häverödal;Stockholm;hamlet
+335712320;Skebobruk;Stockholm;village
+335712624;Söderby-Karl;Stockholm;village
+335712843;Svanberga;Stockholm;village
+335713270;Södersvik;Stockholm;village
+335713485;Spillersboda;Stockholm;village
+335713815;Östhamra;Stockholm;village
+335714677;Edsbro;Stockholm;village
+335715224;Furusund;Stockholm;hamlet
+335715229;Köpmanholm;Stockholm;hamlet
+335715280;Yxlan;Stockholm;island
+335715371;Blidö;Stockholm;island
+335715402;Svartlöga;Stockholm;island
+335715980;Ljusterö;Stockholm;island
+335716689;Skärgårdsstad;Stockholm;village
+335716718;Solberga;Stockholm;village
+335716897;Resarö;Stockholm;village
+335716931;Oskar-Fredriksborg;Stockholm;village
+335717120;Kullö;Stockholm;village
+335717396;Tynningö;Stockholm;island
+335718057;Svinninge;Stockholm;village
+336131384;Dala kvarn;Västra Götaland;hamlet
+336225752;Vårholma;Stockholm;island
+337440351;Täljö;Stockholm;village
+337442298;Bammarboda;Stockholm;village
+337443415;Norrö;Stockholm;village
+337443641;Stava;Stockholm;village
+337450648;Torsby;Stockholm;village
+337451139;Evlinge;Stockholm;village
+337468998;Norra Lagnö;Stockholm;village
+337471829;Skeppsdalsström;Stockholm;village
+337474094;Ingaröstrand;Stockholm;village
+337475824;Långvik;Stockholm;village
+337479784;Djurö;Stockholm;village
+337502055;Strömma;Stockholm;village
+337505143;Skälsmara;Stockholm;village
+337506428;Klacknäset;Stockholm;village
+337515266;Återvall;Stockholm;village
+337521536;Fagerholm;Stockholm;village
+337526646;Rosersberg;Stockholm;village
+337530996;Håbo-Tibble kyrkby;Stockholm;village
+337532536;Mariedal;Stockholm;village
+337541585;Sylta;Stockholm;village
+337546905;Tranholmen;Stockholm;village
+337560426;Stenhamra;Stockholm;village
+337562444;Kungsberga;Stockholm;village
+337565332;Älvnäs;Stockholm;village
+337567754;Ekerö sommarstad;Stockholm;village
+337571382;Tureholm;Stockholm;village
+337576269;Drottningholm;Stockholm;village
+337578753;Sundby;Stockholm;village
+337587059;Solsidan;Stockholm;village
+337587089;Parksidan;Stockholm;village
+337601988;Saltsjöbaden;Stockholm;village
+337606750;Älta;Stockholm;village
+337607656;Hästhagen;Stockholm;village
+337610704;Kummelnäs;Stockholm;village
+337613056;Kil;Stockholm;village
+337617821;Finkarby;Stockholm;village
+337845106;Brevik;Stockholm;village
+337845442;Raksta;Stockholm;village
+337845818;Gimmersta;Stockholm;village
+337846684;Tyresö;Stockholm;town
+337856801;Väländan;Stockholm;village
+337857489;Muskö;Stockholm;village
+337863543;Vidja;Stockholm;village
+337865041;Gladö kvarn;Stockholm;village
+337871629;Frövi;Orebro;village
+337871633;Hovsta;Orebro;village
+337871637;Ervalla;Orebro;village
+337881285;Pershagen;Stockholm;village
+337886717;Hölö;Stockholm;village
+337887420;Mölnbo;Stockholm;village
+337889591;Ekeby;Stockholm;village
+337890161;Vattubrinken;Stockholm;village
+337892387;Tuna;Stockholm;village
+337893190;Sandviken;Stockholm;village
+337897453;Ösmo;Stockholm;village
+337897900;Sorunda;Stockholm;village
+337901739;Stora Vika;Stockholm;village
+337902250;Oaxen;Stockholm;islet
+337902731;Mörkö;Stockholm;island
+337904719;Grödby;Stockholm;village
+337905478;Landfjärden;Stockholm;village
+337914955;Mjärdevi;Östergötland;suburb
+338084615;Sundsjön;Värmland;hamlet
+338085251;Motjärnshyttan;Värmland;hamlet
+338441902;Södra Ryd;Västra Götaland;suburb
+338460822;Hentorp;Västra Götaland;suburb
+338806423;Nämdö;Stockholm;island
+338885173;Ranstad;Västra Götaland;hamlet
+338885821;Hökaberg;Västra Götaland;hamlet
+338896437;Klintemala;Kalmar;village
+339095009;Stigen;Gävleborg;hamlet
+339530355;Vidingsjö;Östergötland;suburb
+339535826;Handöl;Jämtland;village
+339869016;Berga;Östergötland;suburb
+339943027;Lunda;Uppsala;hamlet
+340006699;Bränteknuva;Blekinge;hamlet
+340006701;Björkeryd;Blekinge;village
+340389456;Duvholmen brygga;Stockholm;locality
+340393647;Elfviks udde;Stockholm;locality
+340421130;Lombolo Backe;Norrbotten;suburb
+340469949;Tvärskog;Kalmar;hamlet
+340823541;Jukkasjärvi;Norrbotten;village
+341785511;Sund;Värmland;suburb
+341785513;Stjärnsnäs;Värmland;suburb
+341785515;Sättra;Värmland;suburb
+341785517;Gärdet;Värmland;suburb
+341785519;Hagälven;Värmland;suburb
+341785522;Björnängen;Värmland;suburb
+341785524;Björkliden;Värmland;suburb
+341785526;Dalen;Värmland;suburb
+341785529;Ängfallheden;Värmland;suburb
+341785531;Kallkälldalen;Värmland;suburb
+343042566;Liakroken;Skåne;locality
+343138686;Skabram;Norrbotten;village
+343142243;Sarkavare;Norrbotten;village
+343395172;Riksby;Stockholm;suburb
+343402727;Herstaberg;Östergötland;suburb
+343673545;Järnvägen;Norrbotten;suburb
+343674209;Övre Norrmalm;Norrbotten;suburb
+343682207;Östermalm;Norrbotten;suburb
+343683320;Triangeln;Norrbotten;suburb
+343771368;Fredhäll;Stockholm;suburb
+344138034;Råå;Skåne;village
+344444258;Nikkaluokta;Norrbotten;village
+344444740;Kaalasjärvi;Norrbotten;village
+344445229;Fjällnäs;Norrbotten;village
+344969321;Hjärnarp;Skåne;village
+345176333;Steninge;Stockholm;suburb
+345559393;Tuolluvaara;Norrbotten;suburb
+345577198;Nedre Norrmalm;Norrbotten;suburb
+345577802;Lombolo Strand;Norrbotten;suburb
+345578187;Solvinden;Norrbotten;suburb
+345578502;Glaciären;Norrbotten;suburb
+345578871;Bolaget;Norrbotten;suburb
+345579016;Västra Industriomradet;Norrbotten;suburb
+345579099;Stallverkets Industriomrade;Norrbotten;suburb
+345579216;Tuolluvaara Industriomrade;Norrbotten;suburb
+345579423;Östra Industriomrade;Norrbotten;suburb
+345599289;Munka-Ljungby;Skåne;village
+345604415;Våxtorp;Halland;village
+345647631;Ryd;Kronoberg;village
+345770008;Hallsjö;Kronoberg;hamlet
+345812442;Sköttning;Västra Götaland;hamlet
+345831213;Östermalm;Västra Götaland;suburb
+346292611;Aspö;Västra Götaland;locality
+346307320;Hasslum;Västra Götaland;suburb
+346307424;Aspelund;Västra Götaland;suburb
+346612627;Norrmalm;Västra Götaland;suburb
+346615976;Dälderna;Västra Götaland;suburb
+346904208;Kälvene;Västra Götaland;hamlet
+347428197;Korsbacka;Skåne;suburb
+347542788;Rinnebäck;Skåne;suburb
+347635449;Ullervad;Västra Götaland;village
+348000485;Boalt;Skåne;hamlet
+348030719;Fleninge;Skåne;village
+348030792;Allerum;Skåne;village
+348031690;Hasslarp;Skåne;village
+348122991;Gryet;Skåne;suburb
+348130570;Arvidsborg;Skåne;suburb
+348371978;Västra Torp;Skåne;hamlet
+349063117;Ängebo;Gävleborg;hamlet
+349063986;Brännås;Gävleborg;village
+349110735;Svärtinge;Östergötland;village
+349271245;Leaby;Västra Götaland;hamlet
+350498054;Bjuråker;Gävleborg;hamlet
+350499791;Näsviken;Gävleborg;village
+350503914;Jättendal;Gävleborg;village
+350504541;Mellanfjärden;Gävleborg;village
+350519197;Harmånger;Gävleborg;village
+350528896;Strömsbruk;Gävleborg;village
+350529970;Stocka;Gävleborg;village
+350531122;Masbo;Gävleborg;hamlet
+350531825;Rogsta;Gävleborg;village
+350540752;Skåve;Gävleborg;hamlet
+350552439;Fiskeby;Gävleborg;hamlet
+350552860;Håcksta;Gävleborg;hamlet
+351920988;Fäholmen;Västra Götaland;locality
+351945935;Hemfjällsstugan;Dalarna;locality
+352840640;Ålstorp 5;Skåne;hamlet
+353059593;Glössbo;Gävleborg;village
+353559170;Jonstorp;Gävleborg;hamlet
+353561507;Västerbacken;Gävleborg;suburb
+353602208;Norrköpings brukshundsklubb;Östergötland;locality
+353734742;Älvängen;Västra Götaland;village
+353888165;Furåsa;Östergötland;hamlet
+354476892;Oxtorget;Uppsala;locality
+354538877;Äspås;Västra Götaland;hamlet
+354539117;Segerstad;Västra Götaland;hamlet
+354539168;Brunnhem;Västra Götaland;hamlet
+354539251;Balltorp;Västra Götaland;hamlet
+354656076;Väster;Jönköping;suburb
+356284785;Ed;Värmland;hamlet
+356285446;Sillingsfors;Värmland;hamlet
+356285678;Värmlands Nysäter;Värmland;village
+357057532;Fagerviken;Uppsala;village
+357058004;Strömsberg;Uppsala;village
+357058086;Tolfta;Uppsala;village
+357058185;Västland;Uppsala;village
+357058320;Österlövsta;Uppsala;village
+357058406;Åkerby;Uppsala;village
+357158434;Älvsjö;Stockholm;suburb
+357361947;Adak;Västerbotten;town
+357378324;Rentjaern;Västerbotten;town
+358356078;Kvarnholmen;Stockholm;island
+358466762;Nedersta;Stockholm;locality
+358869397;Ladvik;Stockholm;locality
+359809123;Jobsvall;Uppsala;hamlet
+359813797;Bälinge;Uppsala;town
+359895748;Frebro;Uppsala;village
+359896022;Arvidsbo;Uppsala;hamlet
+359896314;Untra;Uppsala;hamlet
+359896490;Orrskog;Uppsala;hamlet
+359896523;Lundsved;Uppsala;hamlet
+359896707;Harsbo;Uppsala;hamlet
+359896792;Fäcklinge;Uppsala;hamlet
+359896852;Fors;Uppsala;hamlet
+359896949;Torslunda;Uppsala;hamlet
+359897028;Vallby;Uppsala;hamlet
+359897183;Skämsta;Uppsala;hamlet
+359897259;Skogsbo;Uppsala;hamlet
+359897345;Gillberga;Uppsala;hamlet
+359897431;Bro;Uppsala;hamlet
+359897568;Norra Sjukarby;Uppsala;hamlet
+359897668;Odensslätt;Uppsala;hamlet
+359897880;Gubbo;Uppsala;hamlet
+359898827;Hästskär;Uppsala;hamlet
+359898938;Grönö;Uppsala;hamlet
+360357333;Fiskträsk;Norrbotten;hamlet
+360359943;Sveden;Gävleborg;locality
+360360094;Åbyfors;Gävleborg;locality
+360360568;Lund;Gävleborg;village
+360360617;Östanbäck;Gävleborg;hamlet
+360362072;Prästfors;Gävleborg;locality
+360362096;Avaviken;Norrbotten;village
+360392049;Renviken;Norrbotten;village
+360439054;Deppis;Norrbotten;hamlet
+360445290;SÄFSEN;Dalarna;village
+360450791;Akroken;Norrbotten;hamlet
+360450839;Nattberg;Norrbotten;hamlet
+360450849;Vistbäkken;Norrbotten;hamlet
+360453267;Längträs;Norrbotten;village
+360458676;Visttrsk;Norrbotten;village
+360463815;Flurheden;Norrbotten;hamlet
+360463841;Korsträsk;Norrbotten;village
+360466624;Palsträsk;Norrbotten;village
+360466643;Bjursträsk;Norrbotten;hamlet
+360466644;Hellfors;Norrbotten;hamlet
+360467377;Alvik;Norrbotten;village
+360468028;Nickbyn;Norrbotten;village
+360468029;Persön;Norrbotten;village
+360469981;Gråbo;Gävleborg;locality
+360470889;Gaddaborg;Gävleborg;locality
+360471167;Åbrinken;Gävleborg;hamlet
+360471342;Nässelmuren;Gävleborg;locality
+360471628;Håde;Gävleborg;hamlet
+360471710;Bäckängarna;Gävleborg;locality
+360471712;Gretas Hål;Gävleborg;locality
+360472378;Gråberget;Gävleborg;locality
+360472849;Kallbäck;Gävleborg;hamlet
+360472851;Sandbäck;Gävleborg;hamlet
+360473125;Långbroarna;Gävleborg;hamlet
+360473174;Vilhemsberget;Gävleborg;locality
+360473245;Slättan;Gävleborg;hamlet
+360473383;Lorthammar;Gävleborg;locality
+360473385;Brevan;Gävleborg;locality
+360473468;Gräsmyran;Gävleborg;locality
+360473469;Källmurarna;Gävleborg;locality
+360473470;Djupmur;Gävleborg;locality
+360473471;Spångmur;Gävleborg;locality
+360503773;Par-Lars-udden;Gävleborg;locality
+360503774;Tolvön;Gävleborg;locality
+360504433;Solbacka;Gävleborg;hamlet
+360566459;Högtorp;Gävleborg;locality
+360566564;Bäcks Fäbodar;Gävleborg;hamlet
+360566758;Föboskogen;Gävleborg;locality
+360566893;Östanbyn;Gävleborg;hamlet
+360568546;Tjärnviken;Gävleborg;locality
+360568569;Rossnäs;Gävleborg;hamlet
+360568571;Åbyggenäs;Gävleborg;hamlet
+360568700;Kråknäs;Gävleborg;hamlet
+360568702;Skällan;Gävleborg;hamlet
+360686378;Forsbackafjärden;Gävleborg;locality
+360686380;Svartberget;Gävleborg;hamlet
+360688182;Båtviksholmen;Gävleborg;locality
+360688188;Heliga Landet;Gävleborg;hamlet
+360688864;Svarrviken;Gävleborg;locality
+360688966;Lillvik;Gävleborg;hamlet
+360689158;Koludden;Gävleborg;hamlet
+360849503;Rökebo;Gävleborg;hamlet
+360850550;Måsskären;Gävleborg;locality
+360850575;Slasundet;Gävleborg;locality
+360850604;Svartberget;Gävleborg;locality
+360850692;Stasjön;Gävleborg;locality
+360850695;Ofsasundet;Gävleborg;locality
+360850699;Ofsasundsudden;Gävleborg;locality
+360851771;Hemre Fjärden;Gävleborg;locality
+360851774;Jönsfiskesudden;Gävleborg;locality
+360851777;Yttre Fjärden;Gävleborg;locality
+360851857;Matsäck;Gävleborg;locality
+360851861;Tallänget;Gävleborg;locality
+360852518;Ryssjebodarna;Gävleborg;locality
+360852521;Svartviken;Gävleborg;locality
+360852525;Hästhagen;Gävleborg;hamlet
+361056577;Storängan;Gävleborg;locality
+361056578;Skottvallen;Gävleborg;hamlet
+361056615;Smörnäs holme;Gävleborg;locality
+361056792;Drässmossen;Gävleborg;locality
+361056820;Västerbruk;Gävleborg;hamlet
+361453162;Långträsk;Norrbotten;village
+361744234;Lövstalöt;Uppsala;village
+362526051;Hädvigslund;Gävleborg;locality
+362862101;Östanås;Uppsala;hamlet
+362862900;Bäcklösen;Uppsala;hamlet
+362863359;Lövåsen;Uppsala;hamlet_historica
+362863598;Långviken;Uppsala;hamlet
+362863688;Skruven;Uppsala;hamlet
+362866465;Ängskär;Uppsala;hamlet
+363653956;Trollriksskogen;Gävleborg;locality
+363655642;Nyhammar;Gävleborg;hamlet
+363656580;Lundbo;Gävleborg;hamlet
+363658296;Kokhusholmen;Gävleborg;locality
+363660700;Stormuren;Gävleborg;locality
+363666334;Smörnäs;Gävleborg;hamlet
+363666409;Björudden;Gävleborg;locality
+363670628;Brännmurarna;Gävleborg;locality
+363670633;Bäjarnäsudden;Gävleborg;locality
+363670637;Bondmuren;Gävleborg;locality
+363670641;Körviken;Gävleborg;locality
+363670645;Långviken;Gävleborg;locality
+363670649;Magaängarna;Gävleborg;locality
+363670742;Trollriket;Gävleborg;hamlet
+363670744;Odsängarna;Gävleborg;locality
+363670747;Odsängsholmarna;Gävleborg;locality
+363670751;Bonäsudden;Gävleborg;locality
+363670755;Gabbholmarna;Gävleborg;locality
+363670757;Sågmuren;Gävleborg;locality
+363670761;Långmuren;Gävleborg;locality
+363670764;Orrmuren;Gävleborg;locality
+363670768;Sandfallet;Gävleborg;locality
+363670770;Västerfallet;Gävleborg;locality
+363670774;Skällsviken;Gävleborg;locality
+363670777;Svartviksmuren;Gävleborg;locality
+363670781;Skålbackamuren;Gävleborg;locality
+363670783;Binguddan;Gävleborg;locality
+363671895;Bingmyran;Gävleborg;locality
+363740402;Ottsjö;Jämtland;village
+363740410;Trillevallen;Jämtland;hamlet
+363740414;Undersåker;Jämtland;village
+364074645;Långsjötorp;Gävleborg;hamlet
+364074898;Marielund;Gävleborg;hamlet
+364074978;Hittmurstorpet;Gävleborg;hamlet
+364074980;Karlsdal;Gävleborg;hamlet
+364074981;Sandvik;Gävleborg;hamlet
+364074983;Sjuforsholmen;Gävleborg;hamlet
+364196841;Östanbäcksfäbodar;Gävleborg;hamlet
+364196843;Stormuren;Gävleborg;locality
+364196892;Vretarna;Gävleborg;locality
+364196896;Skäfsmur;Gävleborg;locality
+364196897;Molnviksmuren;Gävleborg;locality
+364196899;Lunds fäbodar;Gävleborg;hamlet
+364196900;Rockmur;Gävleborg;locality
+364196903;Sälgbomuren;Gävleborg;locality
+364196934;Fäjsmyran;Gävleborg;locality
+364196935;Rockmur;Gävleborg;locality
+364196936;Björkmyran;Gävleborg;locality
+364196938;Torrakmuren;Gävleborg;locality
+364196976;Kalvmur;Gävleborg;locality
+364196978;Kringelmur;Gävleborg;locality
+364196979;Lindbäckslogan;Gävleborg;locality
+364196981;Nordanmyran;Gävleborg;locality
+364197175;Tickselmuren;Gävleborg;locality
+364197504;Tunaänget;Gävleborg;locality
+364197506;Spångmur;Gävleborg;locality
+364197509;Svartkärr;Gävleborg;locality
+364197515;Långmuren;Gävleborg;locality
+364197516;Bruksholmen;Gävleborg;locality
+364198290;Stabäck;Gävleborg;hamlet
+364199105;Brännmuren;Gävleborg;locality
+364199107;Fallmuren;Gävleborg;locality
+364199108;Larsdomaremuren;Gävleborg;locality
+364199110;Daglösan;Gävleborg;locality
+364199112;Nymuran;Gävleborg;locality
+364199113;Maskkärret;Gävleborg;locality
+364199114;Asbäck;Gävleborg;locality
+364199116;Blaskheden;Gävleborg;locality
+364199117;Jönsänget;Gävleborg;locality
+364199118;Säljen;Gävleborg;locality
+364199120;Slättermuran;Gävleborg;locality
+364199121;Kringkringmuren;Gävleborg;locality
+364199123;Fågenlleken;Gävleborg;locality
+364199125;Kållrönningen;Gävleborg;locality
+364199127;Kållängat;Gävleborg;locality
+364199128;Bjurmyran;Gävleborg;locality
+364199130;Tallmyran;Gävleborg;locality
+364199131;Rönmyran;Gävleborg;locality
+364199133;Tickseln;Gävleborg;locality
+364199134;Mjucksen;Gävleborg;locality
+364199136;Åbymuren;Gävleborg;locality
+364199137;Fankenshålet;Gävleborg;locality
+364199139;Stormuren;Gävleborg;locality
+364199140;Långmuren;Gävleborg;locality
+364199142;Vibuskmyran;Gävleborg;locality
+364199143;Lekaräng;Gävleborg;locality
+364199145;brännmyran;Gävleborg;locality
+364199146;Rosenlundsmyran;Gävleborg;locality
+364199148;Mickelbed;Gävleborg;locality
+364199149;Flismuren;Gävleborg;locality
+364199151;Stavan;Gävleborg;locality
+364199167;Stormossen;Gävleborg;locality
+364199169;Trätskogen;Gävleborg;locality
+364199170;Långsdamm;Gävleborg;locality
+364199172;Slåttmyran;Gävleborg;locality
+364199231;Gnarpet;Gävleborg;locality
+364199232;Disdamm;Gävleborg;locality
+364199233;Kolsdamm;Gävleborg;locality
+364353070;Antnas;Norrbotten;village
+364363942;Notviken;Norrbotten;suburb
+364363982;Porsön;Norrbotten;suburb
+364372578;Karlsvik;Norrbotten;suburb
+364401909;Åloppe;Uppsala;hamlet
+364401989;Hammarby;Uppsala;hamlet
+364487862;Skagen;Västra Götaland;hamlet
+364492994;Karstorp;Västra Götaland;suburb
+364713478;Söderhamnen;Stockholm;harbour
+364730352;Kronudden;Stockholm;locality
+364730401;Österhamnen;Stockholm;harbour
+364733434;Norrahamnen;Stockholm;harbour
+364798575;Nysätra;Uppsala;hamlet
+364835428;Sävare;Västra Götaland;hamlet
+365007365;Dalängen;Västra Götaland;suburb
+365007368;Stubbehagen;Västra Götaland;suburb
+365297935;Säveränge;Gävleborg;hamlet
+365297938;Myrkmyren;Gävleborg;locality
+365297940;Myrkmyren;Gävleborg;locality
+365297943;Goddagsudden;Gävleborg;locality
+365297946;Kattsjöviken;Gävleborg;locality
+365297948;Tupptallviken;Gävleborg;locality
+365297951;Tupptallmuren;Gävleborg;locality
+365297954;Björkebo;Gävleborg;hamlet
+365297958;Vallmuren;Gävleborg;locality
+365297961;gruvmuren;Gävleborg;locality
+365297965;Fräkenkärret;Gävleborg;locality
+365297968;Aspbackmyran;Gävleborg;locality
+365297972;Aspbacken;Gävleborg;locality
+365297975;Rottallsmuren;Gävleborg;locality
+365297976;Bondviken;Gävleborg;locality
+365297977;Kuntudden;Gävleborg;locality
+365297979;Trollriketsviken;Gävleborg;locality
+365297981;Enmyran;Gävleborg;locality
+365297983;Högmossen;Gävleborg;locality
+365342020;Slagsta;Stockholm;suburb
+365342066;Vårby;Stockholm;village
+365342317;Fittja;Stockholm;village
+365738962;Högsjö;Södermanland;village
+365740783;Baggetorp;Södermanland;village
+365741563;Marmorbyn;Södermanland;village
+365743788;Stjärnhov;Södermanland;village
+365743962;Björnlunda;Södermanland;village
+365746053;Arnö;Södermanland;village
+365746846;Bergshammar;Södermanland;village
+365747308;Enstaberga;Södermanland;village
+365747740;Svalsta;Södermanland;village
+365748129;Stigtomta;Södermanland;village
+365748960;Sjösa;Södermanland;village
+365751079;Tystberga;Södermanland;village
+365751977;Runtuna;Södermanland;village
+365752388;Oxbacken;Södermanland;village
+365752531;Buskhyttan;Södermanland;village
+365752818;Nävekvarn;Södermanland;village
+365753290;Jönåker;Södermanland;village
+365753416;Stavsjö;Södermanland;village
+365753805;Vrena;Södermanland;village
+365755036;Bettna;Södermanland;village
+365756864;Orrhammar;Södermanland;village
+365757531;Mellösa;Södermanland;village
+365757784;Hälleforsnäs;Södermanland;village
+365758077;Sparreholm;Södermanland;village
+365758122;Skebokvarn;Södermanland;village
+365758579;Sköldinge;Södermanland;village
+365758733;Valla;Södermanland;village
+365758932;Bie;Södermanland;village
+365759108;Äsköping;Södermanland;village
+365759342;Forssjö;Södermanland;village
+365759466;Strångsjö;Södermanland;village
+365759949;Björkvik;Södermanland;village
+365760252;Djulö kvarn;Södermanland;village
+365760688;Västerljung;Södermanland;village
+365761014;Sund;Södermanland;village
+365761569;Krymla;Södermanland;village
+365762014;Åkers styckebruk;Södermanland;village
+365762279;Stallarholmen;Södermanland;village
+365762417;Abborrberget;Södermanland;village
+365762559;Härad;Södermanland;village
+365762917;Merlänna;Södermanland;village
+365763263;Ärla;Södermanland;village
+365763448;Hällberga;Södermanland;village
+365763860;Bälgviken;Södermanland;village
+365763862;Hållsta;Södermanland;village
+365763871;Skogstorp;Södermanland;village
+365763906;Hällbybrunn;Södermanland;village
+365764234;Kjulaås;Södermanland;village
+365764594;Sundbyholm;Södermanland;village
+365764665;Torshälla;Södermanland;village
+365764803;Torshälla huvud;Södermanland;village
+365765012;Tumbo;Södermanland;village
+365765764;Alberga;Södermanland;village
+365766082;Borsökna;Södermanland;suburb
+365766102;Mesta;Södermanland;suburb
+365766136;Skiftinge;Södermanland;suburb
+365766154;Slagsta;Södermanland;suburb
+365766328;Brottsta;Södermanland;suburb
+365766760;Flacksta;Södermanland;suburb
+366240394;Långviksvallen;Västerbotten;village
+366265352;Slagnaes;Norrbotten;town
+366373838;Ålabodarna;Skåne;hamlet
+366785696;Asplunda;Uppsala;hamlet
+366978362;Härslöv;Skåne;village
+367022586;Vadensjö;Skåne;hamlet
+367053733;Duved;Jämtland;village
+367054148;Rännberg;Jämtland;hamlet
+367057577;Timmerkojan;Jämtland;hamlet
+367057578;Åsabyn;Jämtland;hamlet
+367078228;Sundvik;Skåne;hamlet
+367173965;Mullhyttan;Orebro;village
+367174700;Lanna;Orebro;village
+367177626;Hasselfors;Orebro;village
+367180138;Röfors;Orebro;village
+367185090;Sköllersta;Orebro;village
+367187510;Östansjö;Orebro;village
+367188694;Vretstorp;Orebro;village
+367198276;Åmmeberg;Orebro;village
+367199243;Rönneshytta;Orebro;village
+367200586;Åsbro;Orebro;village
+367203819;Hammar;Orebro;village
+367204740;Olshammar;Orebro;village
+367220173;Hällabrottet;Orebro;village
+367222809;Ekeby;Orebro;village
+367228259;Sannahed;Orebro;village
+367229676;Åbytorp;Orebro;village
+367234363;Mosås;Orebro;village
+367236956;Marieberg;Orebro;village
+367238151;Norra Bro;Orebro;village
+367240394;Ekeby-Almby;Orebro;village
+367242722;Stora Mellösa;Orebro;village
+367243763;Askersby;Orebro;village
+367244415;Hampetorp;Orebro;village
+367244952;Kilsmo;Orebro;village
+367246346;Brevens bruk;Orebro;hamlet
+367249695;Ölmbrotorp;Orebro;village
+367252102;Glanshammar;Orebro;village
+367253255;Garphyttan;Orebro;village
+367255242;Latorpsbruk;Orebro;village
+367256378;Vintrosa;Orebro;village
+367258331;Ås;Orebro;village
+367259068;Striberg;Orebro;village
+367260868;Vedevåg;Orebro;village
+367264356;Fellingsbro;Orebro;village
+367266023;Rockhammar;Orebro;village
+367267287;Gusselby;Orebro;village
+367286282;Stråssa;Orebro;village
+367306715;Nordmark;Värmland;village
+367321443;Björneborg;Värmland;village
+367321995;Bäckhammar;Värmland;village
+367322893;Ölme;Värmland;village
+367324695;Väse;Värmland;village
+367325870;Skattkärr;Värmland;village
+367326156;Alster;Värmland;village
+367327630;Skåre;Värmland;village
+367380364;Vallargärdet;Värmland;village
+367382133;Blombacka;Värmland;village
+367385620;Tjärnheden;Värmland;village
+367387268;Dyvelsten;Värmland;village
+367389055;Högboda;Värmland;village
+367391616;Kyrksten;Värmland;village
+367395353;Vidöåsen;Värmland;village
+367467321;Sysslebäck;Värmland;village
+367469095;Eda glasbruk;Värmland;village
+367469861;Åmotfors;Värmland;village
+367472572;Gunnarskog;Värmland;village
+367475178;Jössefors;Värmland;village
+367475881;Sulvik;Värmland;village
+367478205;Glava;Värmland;village
+367480027;Klässbol;Värmland;village
+367485938;Värmlandsbro;Värmland;village
+367487939;Svanskog;Värmland;village
+367495387;Slottsbron;Värmland;village
+367496071;Segmon;Värmland;village
+367496781;Liljedal;Värmland;hamlet
+367544966;Töcksfors;Värmland;village
+367549389;Uddheden;Värmland;village
+367573257;Torsåker;Gävleborg;village
+367576207;Ovanåker;Gävleborg;village
+367577757;Viksjöfors;Gävleborg;village
+367580147;Runemo;Gävleborg;village
+367581270;Roteberg;Gävleborg;village
+367583445;Knåda;Gävleborg;hamlet
+367587748;Gnarp;Gävleborg;village
+367603639;Sörforsa;Gävleborg;village
+367608871;Hålsjö;Gävleborg;village
+367672287;Råga Hörstad;Skåne;hamlet
+367672296;Asmundtorp;Skåne;village
+367672844;Häljarp;Skåne;village
+367862938;Jäderfors;Gävleborg;village
+367863246;Backberg;Gävleborg;village
+367863505;Åshammar;Gävleborg;village
+367864269;Kungsgården;Gävleborg;village
+367864431;Västerberg;Gävleborg;village
+367864613;Storvik;Gävleborg;village
+367864768;Hammarby;Gävleborg;village
+367867158;Björke;Gävleborg;village
+367868236;Berg;Gävleborg;village
+367869321;Hamrångefjärden;Gävleborg;village
+367869638;Totra;Gävleborg;village
+367869735;Hagsta;Gävleborg;village
+367870080;Bergby;Gävleborg;village
+367883546;Nore;Gävleborg;village
+367883586;Lillhaga;Gävleborg;village
+367883729;Tallåsen;Gävleborg;village
+367883845;Färila;Gävleborg;village
+367883860;Hybo;Gävleborg;village
+367885344;Rengsjö;Gävleborg;village
+367885617;Segersta;Gävleborg;village
+367885660;Kilafors;Gävleborg;village
+367885674;Sibo;Gävleborg;village
+367885777;Lottefors;Gävleborg;village
+367885859;Arbrå;Gävleborg;village
+367886053;Vallsta;Gävleborg;village
+367887076;Sandarne;Gävleborg;village
+367887198;Ljusne;Gävleborg;village
+367887361;Vallvik;Gävleborg;village
+367887518;Skog;Gävleborg;village
+367887769;Bergvik;Gävleborg;village
+367887928;Vannsätter;Gävleborg;village
+367888026;Marmaverken;Gävleborg;village
+367888046;Marmaskogen;Gävleborg;village
+367888092;Söderala;Gävleborg;village
+367888304;Mohed;Gävleborg;village
+367891290;Hackås;Jämtland;village
+367892718;Hede;Jämtland;village
+367893785;Ulvkälla;Jämtland;village
+367894013;Lillhärdal;Jämtland;village
+368014519;Norra Åbyggeby;Gävleborg;village
+368014674;Fittjan;Gävleborg;hamlet
+368015781;Mårdäng;Gävleborg;hamlet
+368015857;Oppala;Gävleborg;hamlet
+368019875;Horsnäs;Gävleborg;hamlet
+368341586;Tallboda;Östergötland;suburb
+368346498;Malmslätt;Östergötland;village
+368346838;Tokarp;Östergötland;village
+368981216;Fliskär;Gävleborg;locality
+369027683;Kastsjö;Gävleborg;hamlet
+369054196;Rudsjö;Gävleborg;hamlet
+369054252;Kastet;Gävleborg;locality
+369054258;Källhagen;Gävleborg;hamlet
+369233448;Polacksbacken;Uppsala;suburb
+369388439;Linderöd;Skåne;village
+369407165;Rickarum;Skåne;hamlet
+369407689;Nävlinge;Skåne;hamlet
+369515016;Sörby;Skåne;hamlet
+369527910;Östanå;Skåne;village
+369550463;Hallaryd;Kronoberg;hamlet
+369696036;Pjätteryd;Kronoberg;hamlet
+369699595;Agunnaryd;Kronoberg;village
+369753949;Myrängen;Gävleborg;locality
+369753950;Hällhammar;Gävleborg;locality
+369753995;Stenhammar;Gävleborg;locality
+369754109;Lapphällan;Gävleborg;locality
+369754141;Stureborg;Gävleborg;locality
+369797040;Torne;Kronoberg;hamlet
+369802111;Vrankunge;Kronoberg;hamlet
+370024781;Frybo;Uppsala;locality
+370024967;Fullmossen;Uppsala;locality
+370026210;Hagadal;Uppsala;locality
+370026211;Skarpkärret;Uppsala;locality
+370026213;Röjdet;Uppsala;locality
+370026214;Fulkärret;Uppsala;locality
+370026215;Fågelmyren;Uppsala;locality
+370026216;Sandåsrönningen;Uppsala;locality
+370026218;Finntorpet;Uppsala;locality
+370026219;Ormkärret;Uppsala;locality
+370114386;Harnäs;Gävleborg;hamlet
+370114398;Stenvreten;Uppsala;hamlet
+370115572;Fleräng;Gävleborg;hamlet
+370115865;Ytter Harnäs;Gävleborg;hamlet
+370115868;Östervik;Gävleborg;hamlet
+370126717;Lindsäng;Uppsala;hamlet
+370126718;Lövnäs;Gävleborg;hamlet
+370126719;Medora;Uppsala;hamlet
+370136875;Lövängarna;Uppsala;locality
+370136877;Lötängen;Uppsala;locality
+370136879;Flät;Uppsala;locality
+370136882;Flätmossen;Uppsala;locality
+370136884;Grekland;Uppsala;locality
+370136887;Turkiet;Uppsala;hamlet
+370165450;Matyxsjöviken;Gävleborg;locality
+370218069;Aspviken;Gävleborg;locality
+370218071;Tomtgubben;Gävleborg;locality
+370218072;Björnbo;Gävleborg;locality
+370218073;Östnäs;Gävleborg;hamlet
+370218075;Sandviksudden;Gävleborg;locality
+370218077;Furuskär;Gävleborg;locality
+370218078;Svartstensholmen;Gävleborg;locality
+370218081;Solvik;Gävleborg;locality
+370218083;Källvik;Gävleborg;locality
+370218084;Kolarudden;Gävleborg;locality
+370218086;Hakudden;Gävleborg;locality
+370218087;Alvik;Gävleborg;locality
+370218093;Skogshörningen;Gävleborg;locality
+370218094;Römyran;Gävleborg;locality
+370218095;Inhagen;Gävleborg;locality
+370218097;Källbo;Gävleborg;hamlet
+370218098;Borstvret;Gävleborg;locality
+370218099;Rönningen;Gävleborg;locality
+370218101;Innanberg;Gävleborg;locality
+370218102;Rönningen;Gävleborg;locality
+370218103;Torvåker;Gävleborg;locality
+370218104;Plogarna;Gävleborg;locality
+370218106;Digervreten;Gävleborg;locality
+370218107;Rovgärde;Gävleborg;locality
+370218108;Flokarna;Gävleborg;locality
+370218109;Djupan;Gävleborg;locality
+370218110;Kanhälludden;Gävleborg;locality
+370218112;Toharen;Gävleborg;locality
+370218113;Torkhällan;Gävleborg;locality
+370218114;Kalvgrundet;Gävleborg;locality
+370218115;Sundrabben;Gävleborg;locality
+370218116;Sjöhagen;Gävleborg;locality
+370218118;Östra Sikvik;Gävleborg;hamlet
+370218119;Västra Sikvik;Gävleborg;hamlet
+370218120;Sveden;Gävleborg;locality
+370218142;Varvsudden;Gävleborg;locality
+370218150;Murarhällsharen;Gävleborg;locality
+370218151;Karl-Persviken;Gävleborg;locality
+370218152;Bomansviken;Gävleborg;locality
+370218153;Sjöboharen;Gävleborg;locality
+370218154;Gräsgrundet;Gävleborg;locality
+370218156;Björkharen;Gävleborg;locality
+370218157;Björkharssundet;Gävleborg;locality
+370218158;Ryssahällen;Gävleborg;locality
+370218159;Utterklipporna;Gävleborg;locality
+370218160;Bätviken;Gävleborg;locality
+370218162;Knutsharen;Gävleborg;locality
+370218163;Kalkstensviken;Gävleborg;locality
+370218165;Lexnäreabben;Gävleborg;locality
+370218167;Rönharen;Gävleborg;locality
+370218168;Klövbjörn;Gävleborg;locality
+370218169;Vestinsrabben;Gävleborg;locality
+370218170;Rönharsviken;Gävleborg;locality
+370218592;Skorvhällan;Gävleborg;locality
+370218593;Skorvhällsundet;Gävleborg;locality
+370218636;Oxhällan;Gävleborg;locality
+370218969;Glumahällarna;Gävleborg;locality
+370302250;Huddinge;Stockholm;town
+370303530;Götarp;Jönköping;village
+370347967;Kringelhararna;Gävleborg;locality
+370374228;Sirkön;Kronoberg;island
+370488099;Karatorp;Kronoberg;hamlet
+370643655;Lungnet Gard;Stockholm;hamlet
+370833769;Sunby;Stockholm;location
+370904733;Bosön;Stockholm;hamlet
+370904819;Kiltorps wiken;Stockholm;bay
+370908333;Sotholmen;Stockholm;islet
+370909291;Hundholmen;Stockholm;islet
+370909422;Högholmen;Stockholm;island
+370910359;Kofsan;Stockholm;island
+370910587;Morgongåfvan;Stockholm;island
+370910717;Skräddarholmen;Stockholm;island
+370911647;Edbyholmen;Stockholm;island
+370911700;Kattholmen;Stockholm;island
+370912211;Fogelon?;Stockholm;island
+370912977;Fläsklösan;Stockholm;island
+370912994;Tallholmen;Stockholm;island
+370913235;Kranholmen;Stockholm;island
+370913251;Granholmen;Stockholm;island
+370913259;Tallholmen;Stockholm;island
+370913303;Björnholmen;Stockholm;island
+370913328;Skären;Stockholm;island
+370914502;Winterviken;Stockholm;bay
+370914570;Mortviken;Stockholm;bay
+370914572;Appelviken;Stockholm;bay
+370915602;Stuguholmen;Stockholm;island
+370915842;Fiskarholmen;Stockholm;island
+371216435;Maglaby;Skåne;hamlet
+371383586;Söder;Södermanland;suburb
+371383608;Snopptorp;Södermanland;suburb
+371385135;Gamla staden;Södermanland;suburb
+371385291;Öster;Södermanland;suburb
+371481518;Höviksnäs;Västra Götaland;hamlet
+371526636;Rynningen;Orebro;suburb
+371527601;Norr;Orebro;suburb
+371527866;Grenadjärstaden;Orebro;suburb
+371593605;Björnbo;Stockholm;suburb
+371642435;Rudboda;Stockholm;suburb
+372827667;Färjenäs;Dalarna;hamlet
+372874204;Film;Uppsala;village
+373092110;Västra Frölunda;Västra Götaland;suburb
+373101179;Tvärålund;Västerbotten;village
+373389200;Starrbäcken;Stockholm;suburb
+373458328;Nyhem;Gävleborg;hamlet
+373521483;Gullsjön;Gävleborg;hamlet
+373523412;Askeröd;Skåne;hamlet
+373549149;Grundsund;Västra Götaland;village
+373775497;Diplomatstaden;Stockholm;suburb
+373785955;Galärvarvet;Stockholm;locality
+373907304;Granbäck;Jönköping;hamlet
+374104534;Burvik;Uppsala;village
+374491418;Larsven;Dalarna;locality
+374496740;Holmen;Dalarna;locality
+375616371;Änget;Västernorrland;suburb
+375616899;Bondsjöstaden;Västernorrland;suburb
+375619586;Murberget;Västernorrland;suburb
+375619936;Kronholmen;Västernorrland;suburb
+375620517;Framnäs;Västernorrland;suburb
+375705820;Kuggebro;Uppsala;suburb
+375705866;Danmark;Uppsala;suburb
+375741747;Forsa;Västernorrland;village
+375743532;Åmon;Västernorrland;village
+375962471;Haga;Gotland;suburb
+375962478;Pilhagen;Gotland;suburb
+376002453;Norra Garberg;Dalarna;hamlet
+376941821;Karlbo;Dalarna;suburb
+376942846;Karlbo;Dalarna;suburb
+377922335;Horred;Västra Götaland;village
+378011381;Floda;Västra Götaland;town
+378048041;Torstuna;Uppsala;village
+378048499;Ytterkvarn;Västmanland;village
+378327797;Bondsjöhöjden;Västernorrland;suburb
+378362657;Lyckåker;Gotland;suburb
+378362669;Värnhem;Gotland;suburb
+378362676;Visborgsstaden;Gotland;suburb
+378704186;Skärfälten;Uppsala;hamlet
+379128084;Nattviken;Västernorrland;locality
+379677197;Orleka;Västra Götaland;hamlet
+379677470;Kavlås;Västra Götaland;hamlet
+379677476;Åsle;Västra Götaland;hamlet
+379677479;Tiarp;Västra Götaland;hamlet
+380550999;Idala;Skåne;village
+380849382;Dannäs;Jönköping;hamlet
+380849385;Hjälmaryd;Jönköping;hamlet
+380849388;Liljenäs;Jönköping;hamlet
+380849390;Svanaholm;Jönköping;hamlet
+380849393;Tallberga;Jönköping;hamlet
+380849400;Karaby;Jönköping;hamlet
+380849435;Dravö;Jönköping;hamlet
+380849451;Väcklinge;Jönköping;hamlet
+380849488;Mellby;Jönköping;hamlet
+380897291;Östra Frölunda;Västra Götaland;village
+380897308;Överlida;Västra Götaland;village
+381222286;Håcksvik;Västra Götaland;hamlet
+381224141;Burseryd;Jönköping;village
+381224426;Åtterås;Jönköping;hamlet
+381224431;Skyarp;Västra Götaland;hamlet
+381383260;Lästad;Kronoberg;hamlet
+381383490;Benestad;Kronoberg;hamlet
+381383528;Ströby;Kronoberg;hamlet
+381453939;Iremåla;Kronoberg;hamlet
+381453947;Rössmåla;Kronoberg;hamlet
+382358250;Jägartorpet;Värmland;suburb
+382385577;Funbo;Uppsala;hamlet
+383382943;Gantofta;Skåne;village
+385178141;Sala backe;Uppsala;suburb
+385341410;Strand;Värmland;suburb
+385382578;Grenholmen;Stockholm;locality
+385392214;Hallboda vägskäl;Stockholm;locality
+385393961;Björhövda;Stockholm;locality
+385394820;Nysättra;Stockholm;village
+385433305;Börjetull;Uppsala;suburb
+386136169;Ölsta;Uppsala;hamlet
+386421977;Polhem;Stockholm;locality
+386421978;Berghem;Stockholm;locality
+386842545;Övermora;Dalarna;village
+386843507;Medväga;Dalarna;village
+386843692;Bomsarvet;Dalarna;village
+386843708;Domnarvet;Dalarna;village
+386843815;Hönsarvet;Dalarna;village
+386843915;Barkargärdet;Dalarna;village
+386844136;Sör Amsberg;Dalarna;village
+386844335;Smedsbo;Dalarna;village
+386932602;Norra Berge;Jämtland;hamlet
+386932606;Hjälmtorpet;Jämtland;hamlet
+387004229;Färingsö;Stockholm;island
+387041704;Årnäs;Västra Götaland;hamlet
+387041875;Björsäter;Västra Götaland;village
+387093507;Stöpen;Västra Götaland;village
+387093650;Tidavad;Västra Götaland;village
+387093800;Ekby;Västra Götaland;hamlet
+387094386;Österäng;Västra Götaland;hamlet
+387191904;Ängsö;Stockholm;island
+387191970;Aspö;Stockholm;island
+387192088;Båtskär ?;Stockholm;island
+387192344;Tullerö;Stockholm;locality
+387192409;Gränet;Stockholm;locality
+387192512;Sandö;Stockholm;locality
+387195070;Vattskär;Stockholm;locality
+387195149;Högholmen;Stockholm;island
+387212109;Gärdsnäs;Stockholm;hamlet
+387254016;Björkskatan;Norrbotten;suburb
+387277462;Lögla;Stockholm;hamlet
+387277635;Bergshamra varv;Stockholm;locality
+387296591;Mora;Stockholm;hamlet
+387296593;Mörtsunda;Stockholm;hamlet
+387464032;Händene;Västra Götaland;hamlet
+387464035;Synnerby;Västra Götaland;hamlet
+387464090;Skallmeja;Västra Götaland;hamlet
+387464167;Fogdängen;Västra Götaland;hamlet
+387464254;Hasslösa;Västra Götaland;hamlet
+387464256;Lindärva;Västra Götaland;hamlet
+387464409;Petersburg;Västra Götaland;suburb
+387464410;Länkarna;Västra Götaland;suburb
+387497444;Tolånga;Skåne;hamlet
+387500091;Skräddarbacken;Dalarna;suburb
+388090197;Dalakolonin;Stockholm;hamlet
+388241275;Sommaro;Värmland;suburb
+388411866;Romstad;Värmland;suburb
+388411867;Bellevue;Värmland;suburb
+388411868;Klara;Värmland;suburb
+388411869;Norrstrand;Värmland;suburb
+388411870;Sundsta;Värmland;suburb
+388411871;Kronoparken;Värmland;suburb
+388411872;Rud;Värmland;suburb
+388411873;Färjestad;Värmland;suburb
+388411874;Gruvlyckan;Värmland;suburb
+388411875;Våxnäs Industriområde;Värmland;suburb
+388411876;Våxnäs;Värmland;suburb
+388411877;Kvarnberget;Värmland;suburb
+388411878;Viken;Värmland;suburb
+388432861;Knippan;Dalarna;hamlet
+388483157;Abisko;Norrbotten;village
+388714188;Sövde;Skåne;village
+389392990;Sofiebergshöjden;Stockholm;locality
+389950114;Långlet;Dalarna;hamlet
+389971259;Ryggebol;Västra Götaland;hamlet
+390020955;Hemsjö;Västra Götaland;hamlet
+390020956;Edsås;Västra Götaland;hamlet
+390060400;Torpa-Dala;Halland;hamlet
+390060401;Gällinge;Halland;hamlet
+390060838;Öxabäck;Västra Götaland;village
+390061067;Hällabäck;Jönköping;hamlet
+390061244;Kruvebo;Jönköping;hamlet
+390061245;Arnåsholm;Jönköping;hamlet
+390061246;Löbbo;Jönköping;hamlet
+390061247;Gräfthult;Jönköping;hamlet
+390271563;Ununge;Stockholm;hamlet
+390271753;Myra;Stockholm;hamlet
+390492206;Övertun;Västra Götaland;hamlet
+390492361;Tegelstrand;Västra Götaland;village
+390492363;Heestrand;Västra Götaland;village
+390513979;Bottna;Västra Götaland;hamlet
+390514311;Väjern;Västra Götaland;village
+390527833;Tossene;Västra Götaland;hamlet
+390527946;Askum;Västra Götaland;hamlet
+390539258;Himmeta;Västmanland;hamlet
+390547380;Sillbo;Västmanland;hamlet
+391495057;Barberget;Dalarna;village
+391652414;Everöd;Skåne;village
+392315447;Kristineberg;Stockholm;suburb
+392315448;Marieberg;Stockholm;suburb
+392315449;Stadshagen;Stockholm;suburb
+392510885;Timsfors;Kronoberg;village
+392633543;Vika;Dalarna;hamlet
+392905354;Jämshög;Blekinge;village
+392939188;Ivö;Skåne;island
+393087793;Ilsholmen;Stockholm;hamlet
+393377018;Hånåkni;Dalarna;suburb
+394139302;Ornö;Stockholm;island
+394139346;Utö;Stockholm;island
+394139785;Nåttarö;Stockholm;island
+394140394;Muskö;Stockholm;island
+394738633;Koviksnäs;Kalmar;village
+395220814;Gällaryd;Jönköping;village
+395226981;Västra Munkflohögen;Jämtland;hamlet
+395226982;Östra Munkflohögen;Jämtland;hamlet
+395226983;Storbränna;Jämtland;hamlet
+395226984;Norderåsen;Jämtland;hamlet
+395229178;Sikås;Jämtland;village
+395229179;Raftsjöhöjden;Jämtland;hamlet
+395337061;Barum;Skåne;hamlet
+395382447;Korsberga;Jönköping;village
+395461516;Hörda;Kronoberg;hamlet
+396138977;Os;Jönköping;village
+399479773;Lilla Sump;Kronoberg;locality
+400697848;Gräddö;Stockholm;village
+400697932;Räfsnäs;Stockholm;village
+400886902;Lövsta;Södermanland;hamlet
+401322102;Mjöshult;Västra Götaland;hamlet
+401433923;Stora Hundudden;Stockholm;cape
+401448465;Rosenhill;Stockholm;hamlet
+401886059;Coop Forum;Stockholm;locality
+403534240;Övad;Skåne;hamlet
+406446119;Kvarnsveden;Dalarna;suburb
+406473153;Bullermyren;Dalarna;suburb
+406475436;Tjärna Ängar;Dalarna;suburb
+406477369;Mjälga;Dalarna;suburb
+406478988;Årby;Dalarna;suburb
+406483743;Islingby;Dalarna;suburb
+406504366;Äxuln;Dalarna;locality
+406510443;Bergeby;Dalarna;village
+406512808;Lilla Ornäs;Dalarna;village
+406514963;Sörbo;Dalarna;village
+406550045;Kuså;Dalarna;village
+406634283;Nedre Skog;Dalarna;hamlet
+406636318;Grälviken;Dalarna;hamlet
+407519328;Tuna-Hästberg;Dalarna;village
+409479097;Rosättra båtvarv;Stockholm;hamlet
+409481802;Norrviken;Stockholm;hamlet
+409483151;Harg;Stockholm;village
+410201616;Mantorp;Östergötland;village
+410324786;Blåhult;Västra Götaland;hamlet
+410426765;Motala;Östergötland;town
+410428921;Rimforsa;Östergötland;village
+410618118;Ilandaskolan;Värmland;
+410681618;Nannersbo;Östergötland;village
+410685551;Broddebo;Östergötland;village
+410686811;Adriansnäs;Kalmar;village
+410686889;Figeholm;Kalmar;village
+410686900;Mörtfors;Kalmar;village
+410706742;Tösse;Västra Götaland;village
+410706749;Tössebäcken;Västra Götaland;village
+410773132;Urshult;Kronoberg;village
+410773243;Midingsbråte;Kronoberg;hamlet
+410903868;Murgrönans Förskola;Västmanland;Blåklockevägen
+411002989;Fasanskogen;Skåne;hamlet
+411397901;Sotebyn;Västra Götaland;village
+411397926;Stora Bodane;Västra Götaland;village
+411397928;Gunnebyn;Västra Götaland;hamlet
+411399712;Sandbol;Västra Götaland;village
+411399744;Snäcke;Västra Götaland;village
+411632071;Oljonsbyn;Dalarna;hamlet
+411632072;Maggås;Dalarna;hamlet
+411736168;Ryssåsen;Orebro;hamlet
+411736169;Tallåsen;Orebro;hamlet
+411778537;Tingsåsen;Orebro;hamlet
+411805153;Övra gården;Orebro;hamlet
+411805155;Älvhyttan;Orebro;hamlet
+411853571;Halla;Halland;hamlet
+411854943;Steneby;Västra Götaland;hamlet
+411900528;Lövdalen;Östergötland;hamlet
+411900529;Hulta;Östergötland;hamlet
+411900591;Andersholm;Östergötland;hamlet
+411900592;Hattorp;Östergötland;hamlet
+412252480;Lofsdalen;Jämtland;village
+412283210;Högsnäs;Västernorrland;hamlet
+412283467;Antjärn;Västernorrland;village
+412283709;Sjö;Västernorrland;village
+412283758;Dal;Västernorrland;village
+412283858;By;Västernorrland;village
+412283927;Hov;Västernorrland;village
+412538851;Roxtuna;Östergötland;hamlet
+412784248;Rosgården;Stockholm;hamlet
+412787243;Pålsundet;Stockholm;locality
+413288489;Brusala;Dalarna;hamlet
+413288492;Vallmora;Dalarna;village
+413288569;Stråtjärn;Dalarna;village
+413288951;Kyna;Dalarna;village
+413349683;Grangärde-Hästberg;Dalarna;village
+413422216;Viborg;Dalarna;village
+413592435;Visättra;Stockholm;hamlet
+413959409;Skatås;Västra Götaland;suburb
+414198717;Ormsta;Stockholm;hamlet
+414198718;Alvsta;Stockholm;hamlet
+414203231;Blåkulla;Stockholm;hamlet
+414237266;Mulsta;Stockholm;hamlet
+414237267;Välsta;Stockholm;hamlet
+415242371;Kölmyrholm;Norrbotten;hamlet
+415250041;Tjäruträsk;Norrbotten;hamlet
+415250566;Mugglom;Norrbotten;hamlet
+415255305;Böle;Norrbotten;village
+415265868;Hornstull;Stockholm;locality
+415266880;Högalid;Stockholm;locality
+415268712;Drakenberg;Stockholm;locality
+415284154;Oskarström;Halland;village
+415442552;Kolhammar;Stockholm;hamlet
+415442942;Hova;Uppsala;hamlet
+415443203;Tibble;Uppsala;hamlet
+415466903;Blecktorp;Dalarna;village
+415467479;Övre Gerbergärdet;Dalarna;village
+415467954;Yttre Gerbergärdet;Dalarna;hamlet
+415469211;Övre Medväga;Dalarna;hamlet
+415471611;Tronsjö;Dalarna;village
+415530181;Sunnanö;Dalarna;locality
+415565717;Granhult;Värmland;suburb
+416028561;Sunnantorp;Västerbotten;village
+416028563;Östansjö;Västerbotten;village
+416028565;Västansjö;Västerbotten;village
+416531184;Vindö Krog;Stockholm;locality
+416531190;Resturang Björkås;Stockholm;locality
+416561442;Kassjö;Västerbotten;village
+416908575;Norrfors;Västerbotten;village
+417096966;Huaröd;Skåne;village
+417255461;Alderbäcks fäbodar;Dalarna;hamlet
+417635651;Hackefors;Östergötland;suburb
+417779707;Segersäng;Stockholm;village
+417983826;Ambjörnarp;Västra Götaland;village
+418048522;Stockfallet;Värmland;suburb
+418063091;Heda;Östergötland;hamlet
+418158037;Oppeby;Södermanland;village
+418174562;Snörom;Stockholm;hamlet
+418402568;Häggenäsudden;Dalarna;locality
+418402869;Gylle fäbod;Dalarna;hamlet
+418404595;Övermora fäbodar;Dalarna;hamlet
+418487577;Svansjö sommarby;Skåne;hamlet
+418487579;Sjöbo sommarby;Skåne;hamlet
+418773355;Råda;Västra Götaland;suburb
+418773357;Västra hamnen;Västra Götaland;suburb
+418773358;Östra hamnen;Västra Götaland;suburb
+419026851;Klista;Uppsala;village
+419026852;Ströbylund;Uppsala;village
+419271890;Västanbäck;Västerbotten;village
+419346499;Ornäs Båtklubb;Dalarna;locality
+419817476;Arboretum Norr;Västerbotten;locality
+420069672;Sällstorp;Halland;village
+420157901;Nacksta;Västernorrland;suburb
+420158198;Granloholm;Västernorrland;suburb
+420158238;Bydalen;Västernorrland;suburb
+420158278;Bosvedjan;Västernorrland;suburb
+420158380;Haga;Västernorrland;suburb
+420158383;Skönsberg;Västernorrland;suburb
+420158702;Norrmalm;Västernorrland;suburb
+420158708;Stenstaden;Västernorrland;suburb
+420158712;Södermalm;Västernorrland;suburb
+420159405;Östermalm;Västernorrland;suburb
+420159415;Skönsmon;Västernorrland;suburb
+420159452;Kubikenborg;Västernorrland;suburb
+420160009;Bergsåker;Västernorrland;suburb
+420378077;Norrkvarn;Västra Götaland;hamlet
+420431893;Tällerud;Värmland;locality
+420760434;Pengsjö;Västerbotten;locality
+420843023;Oderljunga;Skåne;hamlet
+421895458;Barsele;Västerbotten;village
+423990042;Kubbo;Gävleborg;hamlet
+424297196;Sverige;Orebro;country
+424310510;Sverige;Orebro;country
+424313277;Sverige;Orebro;country
+424314925;Sverige;Orebro;country
+424415029;Bössebacken;Skåne;hamlet
+424614523;Borelund;Skåne;hamlet
+426869967;Lorensberg;Värmland;suburb
+426869969;Norra Kroppkärr;Värmland;suburb
+426887377;Snorp;Stockholm;hamlet
+427142103;Brunnsvik;Skåne;hamlet
+427499413;Granen;Jönköping;hamlet
+427499913;Kärrstorp;Jönköping;hamlet
+427499937;Mobacken;Jönköping;hamlet
+427544871;Rustorp;Jönköping;hamlet
+427564669;Axamo;Jönköping;hamlet
+427570685;Stora aska;Östergötland;hamlet
+427590601;Berihol;Dalarna;hamlet
+427592905;Stenis;Dalarna;hamlet
+427592910;Södra Vika;Dalarna;hamlet
+427592915;Norra Vika;Dalarna;hamlet
+427596977;Vindö;Stockholm;island
+427596993;Möja;Stockholm;island
+427597099;Södermöja;Stockholm;island
+427597211;Axtorp;Jönköping;hamlet
+427597690;Gunnarsö;Jönköping;hamlet
+427597844;Älgafall;Västra Götaland;hamlet
+427598063;Gigeryd;Västra Götaland;hamlet
+427598185;Runmarö;Stockholm;island
+427598237;Ängsholmen;Stockholm;island
+427598517;Tunabo;Jönköping;hamlet
+427598655;Risbro;Västra Götaland;hamlet
+427600331;Drottningstorp;Västra Götaland;hamlet
+427601172;Olsbo;Jönköping;hamlet
+427667983;Fridhem;Skåne;farm
+427749318;Källtorp;Stockholm;hamlet
+427767303;Sågen;Stockholm;hamlet
+427767304;Vendelsö;Stockholm;village
+427907151;Harplinge;Halland;village
+428085102;Jälla;Uppsala;village
+428339538;Stockholm;Stockholm;city
+428490141;Ignaberga;Skåne;village
+428504332;Stångom;Västernorrland;village
+428918936;Tormestad;Värmland;suburb
+428930575;Ängesgårdarna;Dalarna;village
+429192569;Klockarberget;Västernorrland;suburb
+429236925;Lakheden;Värmland;hamlet
+429472795;Gräsdalen;Värmland;suburb
+429483695;Bergvik;Värmland;suburb
+429483723;Skutberget;Värmland;suburb
+429614527;Kalmarsand;Uppsala;hamlet
+429798134;Sjöstad;Värmland;suburb
+429855409;Norseskären;Västra Götaland;island
+429855410;Risön;Västra Götaland;island
+429855411;Svensholmen;Västra Götaland;island
+429855412;Risöskär;Västra Götaland;island
+429855413;Bokö;Västra Götaland;island
+429855414;Pällholmen;Västra Götaland;island
+429855415;Jönsholmen;Västra Götaland;island
+429855416;Stora Rökulla;Västra Götaland;island
+429855417;Lilla Rökulla;Västra Götaland;island
+429855418;Klovholmen;Västra Götaland;island
+430009584;Uddeholmshyttan;Värmland;locality
+430095303;Uvanå;Värmland;hamlet
+430408719;Anderssvedja;Stockholm;hamlet
+430465538;Hajstorp;Västra Götaland;hamlet
+430539468;Skålviken;Värmland;hamlet
+430993272;Björknässundet;Västernorrland;locality
+430993273;Kyrkviken;Västernorrland;locality
+430993508;Lockneviken;Västernorrland;locality
+431062480;Mellanholmen;Västernorrland;island
+431093306;Tallbacken;Dalarna;hamlet
+431093383;Vreten;Dalarna;hamlet
+431093483;Dalsjö;Dalarna;village
+431328358;Stjälpet;Värmland;hamlet
+431335731;Bönhamn;Västernorrland;village
+431337563;Näsänget;Västernorrland;village
+431338691;Kåsta;Västernorrland;village
+431339279;Öden;Västernorrland;village
+431339327;Fällsvik;Västernorrland;village
+431339481;Barsta;Västernorrland;village
+431343135;Norrfällsviken;Västernorrland;village
+431343316;Björknäset;Västernorrland;village
+431350782;Mjällom;Västernorrland;village
+431403827;Bäckland;Västernorrland;hamlet
+431406830;Främmerveda;Västernorrland;hamlet
+431407002;Fröstvik;Västernorrland;hamlet
+431407187;Järesta;Västernorrland;village
+431407717;Järnsta;Västernorrland;village
+431411124;Vallen;Västernorrland;village
+431417279;Överveda;Västernorrland;hamlet
+431417281;Östansjö;Västernorrland;hamlet
+431417286;Grista;Västernorrland;hamlet
+431417288;Salsåker;Västernorrland;village
+431417291;Västervalto;Västernorrland;hamlet
+431417294;Valmsta;Västernorrland;hamlet
+431417393;Orsta;Västernorrland;hamlet
+431417394;Klocke;Västernorrland;hamlet
+431417395;Ön;Västernorrland;hamlet
+431417396;Edsätter;Västernorrland;hamlet
+431422797;Ramsele;Västernorrland;town
+431434102;Finngruvan;Orebro;locality
+432397625;Björknäs;Stockholm;village
+432398431;Skuru;Stockholm;village
+432399985;Duvnäs;Stockholm;village
+432400005;Orminge;Stockholm;village
+432425093;Sverige;Orebro;country
+432447440;Lilla Björknäs;Stockholm;hamlet
+432447548;Kocktorp;Stockholm;village
+432447617;Tollare;Stockholm;village
+432461781;Villnäs;Dalarna;locality
+432463564;Ektorp;Stockholm;village
+432463849;Sickla;Stockholm;village
+432710354;Dalhed;Dalarna;locality
+432710357;Sjankheden;Dalarna;locality
+432824844;Skogalund;Stockholm;village
+432824867;Nacka Strand;Stockholm;village
+432825133;Kungshamn;Stockholm;village
+432825646;Mariedal;Stockholm;village
+432827450;Mensättra;Stockholm;village
+432827741;Rensättra;Stockholm;village
+433321801;Sinksundet;Norrbotten;hamlet
+433326497;Bensbyn;Norrbotten;village
+433411995;Dolmen;Dalarna;locality
+433416389;Lindorna;Dalarna;locality
+433431625;Lusbrända;Dalarna;locality
+433447561;Gottne;Västernorrland;village
+433447566;Bredbyn;Västernorrland;village
+433453721;Flärke;Västernorrland;hamlet
+433453723;Billsta;Västernorrland;hamlet
+433467040;Själevad;Västernorrland;village
+433467042;Kubbe;Västernorrland;hamlet
+433474196;Abborrträsk;Norrbotten;hamlet
+433653429;Kåge;Västerbotten;village
+433667575;Tåme;Västerbotten;village
+433667578;Jävre;Norrbotten;village
+433688066;Gullänget;Västernorrland;suburb
+433707640;Domsjö;Västernorrland;suburb
+433707645;Seltjärn;Västernorrland;village
+433715764;Ostvik;Västerbotten;village
+433715766;Östanbäck;Västerbotten;village
+433715769;Solberg;Västernorrland;village
+433721741;Skalmsjö;Västernorrland;hamlet
+433721742;Myckelgensjö;Västernorrland;hamlet
+433728051;Berg;Östergötland;hamlet
+433760671;Söderbodan;Västerbotten;hamlet
+433882686;Söregård;Jönköping;hamlet
+433883112;Karlstorp;Jönköping;village
+434308997;Nornaplatsen;Västerbotten;locality
+434425124;Kålhagen;Gävleborg;suburb
+434439716;Katthammarsvik;Gotland;hamlet
+434443437;Kräklingbo;Gotland;hamlet
+434490887;Risbäck;Västerbotten;village
+434495732;Tvärsele;Västerbotten;village
+434504277;Gothem;Gotland;hamlet
+434504383;Åminne;Gotland;hamlet
+434506492;Vallstena;Gotland;hamlet
+434507661;Herrvik;Gotland;hamlet
+434507969;Östergarn;Gotland;hamlet
+434510596;Gammelgarn;Gotland;hamlet
+434522954;Bara;Gotland;hamlet
+434525365;Hörsne;Gotland;hamlet
+434527105;Dalhem;Gotland;hamlet
+434530339;Halla;Gotland;hamlet
+434531430;Roma;Gotland;village
+434531640;Romakloster;Gotland;village
+434533652;Kulla;Jönköping;hamlet
+434533873;Bondarp;Jönköping;hamlet
+434533874;Tuvabolet;Jönköping;hamlet
+434534281;Arnö;Uppsala;island
+434534282;Aspö;Södermanland;island
+434536002;Mästerby;Gotland;hamlet
+434536852;Västergarn;Gotland;village
+434537344;Sanda;Gotland;village
+434538085;Hejde;Gotland;hamlet
+434548987;Buttle;Gotland;hamlet
+434612292;Etelhem;Gotland;village
+434613135;Lye;Gotland;hamlet
+434643564;Trollsjöheden;Dalarna;village
+434902913;Deglundsbäcken;Värmland;locality
+434902926;Borg;Värmland;locality
+435107162;Tallhed;Dalarna;hamlet
+435107311;Kallholen;Dalarna;hamlet
+435107488;Björken;Dalarna;hamlet
+435109165;Slättberg;Dalarna;hamlet
+435771374;Röddinge;Skåne;hamlet
+435829812;Brokind;Östergötland;village
+435834562;Bestorp;Östergötland;village
+436016113;Skenshyttan;Dalarna;village
+436018956;Norbo;Dalarna;village
+436018957;Norbo Finnmark;Dalarna;village
+436199727;Lucksta;Västernorrland;village
+436199728;Sörfors;Västernorrland;village
+436199729;Skedvik;Västernorrland;hamlet
+436199730;Harv;Västernorrland;hamlet
+436199731;Hamre;Västernorrland;hamlet
+436366186;Viggsö;Stockholm;island
+436366190;Grinda;Stockholm;island
+436366192;Karklö;Stockholm;island
+436366195;Trångholmen;Stockholm;island
+436366197;Svartsö;Stockholm;island
+436383138;Jarlaberg;Stockholm;village
+436383139;Fannydal;Stockholm;hamlet
+436383141;Storängen;Stockholm;village
+436402924;Tornehamn;Norrbotten;village
+436618764;Ämmeråsen;Dalarna;locality
+436884773;Gillermarken;Dalarna;locality
+437478697;Ejheden;Dalarna;locality
+437486211;Håven;Dalarna;hamlet
+437491754;Ärteråsen;Dalarna;locality
+437499523;Träsket;Stockholm;locality
+437499525;Lövholmen;Stockholm;hamlet
+437508467;Gryta;Stockholm;hamlet
+437508473;Lillråda;Stockholm;hamlet
+437860048;FLEN;Dalarna;village
+437883670;Bottna;Stockholm;hamlet
